@@ -1,0 +1,32 @@
+{
+    "COMP": {
+        "1021": {
+            "preReqs": {},
+            "coReqs": {},
+            "excl"
+        },
+        "2012H": {
+            "preReqs": {
+                "courseGroups": 
+                    [
+                        {
+                            "courses": [{"dept": "COMP", "code": "1021"}],
+                            "minGrade": "A"
+                        }
+                    ],
+                "logical": "0"
+            }
+        },
+        "2711": {
+            "preReqs": {
+                "courseGroups": 
+                    [
+                        {
+                            "courses": [{"dept": "COMP", "code": "1021"}],
+                            "minGrade": "A"
+                        }
+                    ]
+            }
+        }
+    }
+}
