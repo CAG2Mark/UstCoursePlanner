@@ -1,0 +1,2825 @@
+LANG 1002: Exclusion(s): IELTS - Band 7 or above in overall and Band 6.5 or above in each part of the test or equivalent
+LANG 1003: Prerequisite(s): LANG 1002
+LANG 1003: Exclusion(s): IELTS - Band 7 or above in overall and Band 6.5 or above in each part of the test or equivalent
+LANG 1004: Mode of Delivery: [BLD] Blended learning
+LANG 1005: Prerequisite(s): Grade B+ or above in LANG 1003 OR Level 5 or above in HKDSE English Language
+LANG 1006: Medium of Instruction: [EN] Taught in Eng/Chin subject to diff. offerings [PU] Putonghua [CA] Cantonese
+LANG 1006: Mode of Delivery: [BLD] Blended learning
+LANG 1113: Prerequisite(s): Level 3 in HKDSE Chinese
+LANG 1113: Exclusion(s): Level 4 or above in HKDSE Chinese, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118, LANG 1120, LANG 1121, LANG 1122, LANG 1123, LANG 1124, LANG 1125, LANG 1126, LANG 1127
+LANG 1117: Prerequisite(s): Level 4 or above in HKDSE Chinese
+LANG 1117: Exclusion(s): LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1118, LANG 1120, LANG 1121, LANG 1122, LANG 1123, LANG 1124, LANG 1125, LANG 1126, LANG 1127
+LANG 1118: Exclusion(s): Level 3 in HKDSE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1120, LANG 1121, LANG 1122, LANG 1123, LANG 1124, LANG 1125, LANG 1126, LANG 1127
+LANG 1120: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1121: Prerequisite(s): LANG 1120
+LANG 1121: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1122: Prerequisite(s): LANG 1121
+LANG 1122: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1123: Prerequisite(s): LANG 1122
+LANG 1123: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1124: Prerequisite(s): LANG 1123
+LANG 1124: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1125: Prerequisite(s): LANG 1124
+LANG 1125: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1126: Prerequisite(s): LANG 1125
+LANG 1126: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1127: Prerequisite(s): LANG 1126
+LANG 1127: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 2010: Prerequisite(s): LANG 1003
+LANG 2030: Prerequisite(s): LANG 1003
+LANG 2070: Prerequisite(s): LANG 1003
+LANG 2082: Prerequisite(s): LANG 1003
+LANG 2083: Prerequisite(s): LANG 2082
+LANG 3021: Prerequisite(s): LANG 2010 OR LANG 2030 (for DSCT students only)
+LANG 3022: Prerequisite(s): LANG 2010
+LANG 3023: Prerequisite(s): LANG 2010
+LANG 3024: Prerequisite(s): LANG 2010
+LANG 3025: Prerequisite(s): LANG 2010
+LANG 3026: Prerequisite(s): LANG 2010
+LANG 3027: Prerequisite(s): LANG 2010
+LANG 3070: Prerequisite(s): LANG 2070
+LANG 3081: Prerequisite(s): LANG 2083
+LANG 4030: Prerequisite(s): LANG 2030 OR LANG 2010 (for DSCT only)
+LANG 4030: Corequisite(s): (For COMP, CPEG and DSCT students) COMP 4910 OR COMP 4981 OR COMP 4981H OR CPEG 4901 OR CPEG 4902; (For COSC students) Nil
+LANG 4031: Prerequisite(s): LANG 2030
+LANG 4031: Corequisite(s): ELEC 4900 OR ELEC 4901 OR ELEC 4910 OR CPEG 4911 OR CPEG 4912
+LANG 4032: Prerequisite(s): LANG 2030
+LANG 4033: Prerequisite(s): LANG 2030
+LANG 4034: Prerequisite(s): LANG 2030
+LANG 4034: Corequisite(s): MECH 3690 OR MECH 3830
+LANG 4035: Prerequisite(s): LANG 2030
+LANG 4070: Corequisite(s): SHSS 4991 OR SHSS 4992
+IDPO 4110: Prerequisite(s): COMP 2011
+IDPO 4110: Exclusion(s): COMP 4211, MATH 4432
+ISOM 1500: Mode of Delivery: [BLD] Blended learning
+ISOM 2010: Exclusion(s): COMP 1001
+ISOM 2020: Exclusion(s): COMP 1021
+ISOM 2030: Mode of Delivery: [BLD] Blended learning
+ISOM 2040: Previous Course Code(s): ISOM 3100
+ISOM 2040: Mode of Delivery: [BLD] Blended learning
+ISOM 2500: Exclusion(s): CIVL 2160, IEDA 2520, IEDA 2540, LIFS 3150, MATH 2411, MATH 3423
+ISOM 2600: Prerequisite(s): ISOM 2500
+ISOM 2600: Corequisite(s): ISOM 2020
+ISOM 2700: Exclusion(s): IEDA 4100
+ISOM 2700: Mode of Delivery: [BLD] Blended learning
+ISOM 3010: Exclusion(s): ISOM 4750
+ISOM 3010: Mode of Delivery: [BLD] Blended learning
+ISOM 3180: Exclusion(s): COMP 4621
+ISOM 3210: Prerequisite(s): ISOM 2010
+ISOM 3210: Mode of Delivery: [BLD] Blended learning
+ISOM 3230: Prerequisite(s): (For non-BSc in Quantitative Finance students) ISOM 2010
+ISOM 3230: Exclusion(s): COMP 1022Q
+ISOM 3230: Mode of Delivery: [BLD] Blended learning
+ISOM 3260: Prerequisite(s): ISOM 3230 OR ISOM 3320 OR ISOM 3400
+ISOM 3260: Corequisite(s): ISOM 3210
+ISOM 3260: Exclusion(s): COMP 3311, COMP 4311, IEDA 3300
+ISOM 3260: Mode of Delivery: [BLD] Blended learning
+ISOM 3320: Exclusion(s): COMP 1022P, COMP 3021
+ISOM 3330: Previous Course Code(s): ISOM 3000F
+ISOM 3340: Previous Course Code(s): ISOM 3000C
+ISOM 3350: Prerequisite(s): ISOM 2010 AND ISOM 2500
+ISOM 3360: Prerequisite(s): ISOM 2010
+ISOM 3360: Exclusion(s): COMP 4331, IEDA 3560
+ISOM 3370: Prerequisite(s): (ISOM 3230 OR ISOM 3320 OR ISOM 3400) AND ISOM 3360
+ISOM 3380: Prerequisite(s): ISOM 3180
+ISOM 3380: Exclusion(s): ISOM 519
+ISOM 3390: Previous Course Code(s): ISOM 3000A
+ISOM 3390: Prerequisite(s): (ISOM 3230 OR ISOM 3320 OR ISOM 3400) AND ISOM 3360
+ISOM 3390: Exclusion(s): RMBI 3010
+ISOM 3400: Exclusion(s): COMP 1021
+ISOM 3530: Prerequisite(s): ISOM 2500 or MATH 2411
+ISOM 3530: Exclusion(s): MATH 3424
+ISOM 3540: Prerequisite(s): ISOM 2500 or MATH 2411
+ISOM 3540: Exclusion(s): MATH 2421, MATH 3425
+ISOM 3710: Exclusion(s): CIVL 2170, IEDA 3010, PHYS 4059
+ISOM 3730: Exclusion(s): IEDA 3270
+ISOM 3730: Mode of Delivery: [BLD] Blended learning
+ISOM 3760: Prerequisite(s): ISOM 2700
+ISOM 3760: Exclusion(s): IEDA 3450
+ISOM 3770: Previous Course Code(s): ISOM 4770
+ISOM 3770: Prerequisite(s): ISOM 2700 AND ISOM 3710
+ISOM 3770: Exclusion(s): IEDA 4410
+ISOM 3770: Mode of Delivery: [BLD] Blended learning
+ISOM 3900: Prerequisite(s): ISOM 2500 AND ISOM 2700
+ISOM 4010: Previous Course Code(s): ISOM 3000E
+ISOM 4100: Prerequisite(s): ACCT 2010 and ISOM 2010
+ISOM 4100: Exclusion(s): ISOM 4200
+ISOM 4200: Exclusion(s): ISOM 4100, ISOM 4300
+ISOM 4300: Prerequisite(s): ISOM 2010
+ISOM 4300: Exclusion(s): ISOM 4200
+ISOM 4400: Exclusion(s): ISOM 4380
+ISOM 4520: Prerequisite(s): ISOM 3540 (Note: Students who have sufficient background in probability but without pre-requisite may enroll in the course upon approval by the instructor)
+ISOM 4530: Prerequisite(s): IEDA 2510 OR ISOM 2500 OR MATH 2411
+ISOM 4540: Prerequisite(s): ISOM 2500 or MATH 2411
+ISOM 4540: Exclusion(s): ECON 4304, MATH 4425
+ISOM 4720: Prerequisite(s): ISOM 2500 OR MATH 2411 OR MATH 2421 OR MATH 2431
+ISOM 4720: Exclusion(s): IEDA 4130
+ISOM 4740: Prerequisite(s): ISOM 2700
+ISOM 4740: Mode of Delivery: [BLD] Blended learning
+ISOM 4750: Prerequisite(s): ISOM 2700
+ISOM 4780: Prerequisite(s): ISOM 2700
+ISOM 4780: Exclusion(s): ISOM 2040
+ISOM 4810: Prerequisite(s): ISOM 2700
+ISOM 4820: Prerequisite(s): ISOM 2700 AND ISOM 3710
+ISOM 4830: Prerequisite(s): ISOM 2700 AND ISOM 3710
+ISOM 4840: Alternate code(s): RMBI 4110
+ISOM 4840: Prerequisite(s): (ISOM 2500 OR MATH 2411) AND ISOM 2700
+MARK 3220: Prerequisite(s): MARK 2120
+MARK 3410: Prerequisite(s): MARK 2120
+MARK 3420: Prerequisite(s): MARK 2120
+MARK 3430: Prerequisite(s): MARK 2120
+MARK 3430: Mode of Delivery: [BLD] Blended learning
+MARK 3460: Prerequisite(s): MARK 2120
+MARK 3470: Prerequisite(s): MARK 2120
+MARK 3470: Exclusion(s): ISOM 3740
+MARK 3480: Prerequisite(s): MARK 2120
+MARK 3510: Prerequisite(s): MARK 2120
+MARK 3520: Prerequisite(s): MARK 2120
+MARK 3520: Corequisite(s): MARK 3220 AND MARK 3420
+MARK 3520: Mode of Delivery: [BLD] Blended learning
+MARK 3610: Prerequisite(s): MARK 2120
+MARK 4210: Prerequisite(s): MARK 2120, MARK 3220 and MARK 3420
+MARK 4290: Prerequisite(s): MARK 2120
+MARK 4450: Prerequisite(s): MARK 2120
+DASC 2110: Prerequisite(s): COMP 1021
+DASC 2110: Exclusion(s): COMP 2012, COMP 2012H
+UROP 2100: Prerequisite(s): UROP 1100
+UROP 3100: Prerequisite(s): UROP 2100
+UROP 4100: Prerequisite(s): UROP 3100
+BIPH 3010: Alternate code(s): BIEN 3020
+BIPH 3010: Prerequisite(s): PHYS 2010 AND (LIFS 2010 OR LIFS 2040) AND (PHYS 1114 OR PHYS 1314)
+BIPH 4010: Prerequisite(s): BIPH 3010
+LIFS 1010: Exclusion(s): LIFS 1901, LIFS 1902, Level 3 or above in HKDSE 1/2x Biology OR in HKDSE 1x Biology, a passing grade in HKCEE Biology OR HKAL Biology
+LIFS 1020: Exclusion(s): Level 3 or above in HKDSE 1/2x Biology or in HKDSE 1x Biology, a passing grade in HKAL Biology, LIFS 1901, LIFS 1902, LIFS 4760
+LIFS 1901: Exclusion(s): Level 3 or above in HKDSE 1x Biology, a passing grade in AL/AS Biology
+LIFS 1902: Prerequisite(s): LIFS 1901 OR level 3 or above in HKDSE 1x Biology OR a passing grade in AL/AS Biology
+LIFS 1902: Mode of Delivery: [BLD] Blended learning
+LIFS 1903: Corequisite(s): LIFS 1901
+LIFS 1903: Exclusion(s): Level 3 or above in HKDSE 1x Biology, a passing grade in AL/AS Biology
+LIFS 1904: Prerequisite(s): LIFS 1901 OR level 3 or above in HKDSE 1x Biology OR a passing grade in AL/AS Biology
+LIFS 1904: Corequisite(s): LIFS 1902
+LIFS 1930: Mode of Delivery: [BLD] Blended learning
+LIFS 2010: Prerequisite(s): LIFS 1902
+LIFS 2011: Exclusion(s): OCES 2011
+LIFS 2070: Prerequisite(s): LIFS 1902
+LIFS 2080: Prerequisite(s): LIFS 2040 OR LIFS 2210
+LIFS 2210: Prerequisite(s): LIFS 1901 OR LIFS 1902
+LIFS 2210: Mode of Delivery: [BLD] Blended learning
+LIFS 2220: Prerequisite(s): LIFS 1902
+LIFS 2240: Prerequisite(s): LIFS 1902
+LIFS 2280: Corequisite(s): LIFS 2080
+LIFS 2720: Corequisite(s): LIFS 2820
+LIFS 2820: Corequisite(s): LIFS 2720
+LIFS 3002: Prerequisite(s): LIFS 2040
+LIFS 3010: Prerequisite(s): LIFS 2210 and LIFS 2220
+LIFS 3020: Prerequisite(s): LIFS 2040 AND LIFS 2210 AND LIFS 2220
+LIFS 3040: Prerequisite(s): LIFS 2040
+LIFS 3060: Corequisite(s): LIFS 2040 OR LIFS 2060
+LIFS 3070: Prerequisite(s): LIFS 2040
+LIFS 3110: Prerequisite(s): LIFS 2040 AND LIFS 2210
+LIFS 3140: Prerequisite(s): LIFS 2040 OR LIFS 2210
+LIFS 3150: Exclusion(s): IEDA 2510, ISOM 2500, MATH 2411
+LIFS 3220: Prerequisite(s): LIFS 2040
+LIFS 3220: Corequisite(s): LIFS 3040
+LIFS 3240: Prerequisite(s): LIFS 2040
+LIFS 3260: Corequisite(s): LIFS 3060
+LIFS 3370: Previous Course Code(s): LIFS 3002A
+LIFS 3370: Prerequisite(s): LIFS 3110
+LIFS 3370: Mode of Delivery: [EXP] Experiential learning
+LIFS 3510: Prerequisite(s): LIFS 2040 and LIFS 2240
+LIFS 3520: Prerequisite(s): LIFS 3510 OR SCIE 3500
+LIFS 3580: Previous Course Code(s): LIFS 4580
+LIFS 3580: Prerequisite(s): LIFS 3140
+LIFS 4060: Prerequisite(s): LIFS 2040/2210, and LIFS 3140
+LIFS 4090: Prerequisite(s): LIFS 2040
+LIFS 4140: Prerequisite(s): LIFS 3020 OR LIFS 3140
+LIFS 4150: Prerequisite(s): LIFS 2040
+LIFS 4190: Prerequisite(s): LIFS 3020
+LIFS 4200: Prerequisite(s): CENG 1600 OR LIFS 2040
+LIFS 4320: Previous Course Code(s): LIFS 3320
+LIFS 4320: Co-list with: BIEN 3320
+LIFS 4320: Prerequisite(s): (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR COMP 2011) AND (ISOM 2500 OR LIFS 3150 OR MATH 2411) AND (LIFS 3140)
+LIFS 4360: Prerequisite(s): LIFS 2040 OR LIFS 2060
+LIFS 4370: Prerequisite(s): LIFS 2210 OR LIFS 3140
+LIFS 4380: Prerequisite(s): LIFS 2040
+LIFS 4540: Prerequisite(s): LIFS 2210
+LIFS 4620: Prerequisite(s): LIFS 2040 OR LIFS 2210
+LIFS 4630: Prerequisite(s): LIFS 2040
+LIFS 4760: Prerequisite(s): LIFS 1901 OR LIFS 1902 OR LIFS 2040 OR LIFS 2210
+LIFS 4800: Prerequisite(s): LIFS 2210
+LIFS 4950: Prerequisite(s): LIFS 2040
+LIFS 4972: Exclusion(s): LIFS 4971, LIFS 4970, CHEM 4680
+LIFS 4973: Prerequisite(s): LIFS 3110
+LIFS 4980: Prerequisite(s): LIFS 4970
+LIFS 4981: Prerequisite(s): LIFS 4971 OR SCIE 4500
+LIFS 4982: Prerequisite(s): LIFS 4972
+LIFS 4982: Exclusion(s): CHEM 4688, LIFS 4980, LIFS 4981
+LIFS 4983: Prerequisite(s): LIFS 4973 OR SCIE 4500
+WBBA 2020: Prerequisite(s): WBBA 2010
+WBBA 2080: Exclusion(s): WBBA 2010, WBBA 2020
+WBBA 4010: Prerequisite(s): WBBA 2010 AND WBBA 2020
+IIMP 4990: Prerequisite(s): IIMP 4980
+ELEC 1020: Exclusion(s): ELEC 3170
+ELEC 1020: Background: Basic computer operation such as using Powerpoint. Students without any computer knowledge are recommended to take COMP 1001 first.
+ELEC 1030: Previous Course Code(s): ELEC 1095A
+ELEC 1200: Corequisite(s): (COMP 1021 OR COMP 1022P) AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)
+ELEC 1200: Mode of Delivery: [SPO] Self-paced online delivery [BLD] Blended learning
+ELEC 2100: Prerequisite(s): MATH 2011 OR MATH 2023 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352
+ELEC 2100: Exclusion(s): ELEC 2100H
+ELEC 2100: Mode of Delivery: [BLD] Blended learning
+ELEC 2100H: Prerequisite(s): (ELEC 1100 OR ELEC 1200 OR ELEC 2400 OR ELEC 2410 (prior 2016-17)) AND Grade A- or above in (MATH 2011 OR MATH 2023 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352)
+ELEC 2100H: Exclusion(s): ELEC 2100
+ELEC 2100H: Mode of Delivery: [BLD] Blended learning
+ELEC 2200: Prerequisite(s): ELEC 1100 OR ELEC 1200
+ELEC 2300: Corequisite(s): ELEC 2200
+ELEC 2300: Exclusion(s): COMP 2611
+ELEC 2350: Prerequisite(s): ELEC 1100
+ELEC 2350: Exclusion(s): COMP 2611, ELEC 2300, ISDN 4000F
+ELEC 2400: Prerequisite(s): ELEC 1100 AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)
+ELEC 2400: Corequisite(s): PHYS 1114 OR PHYS 1314
+ELEC 2400: Exclusion(s): ELEC 2420
+ELEC 2420: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+ELEC 2420: Corequisite(s): PHYS 1111 OR PHYS 1112 OR PHYS 1312
+ELEC 2420: Exclusion(s): ELEC 2400
+ELEC 2600: Prerequisite(s): A passing grade in AL Pure Mathematics OR MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024
+ELEC 2600: Corequisite(s): MATH 2011 OR MATH 2023
+ELEC 2600: Exclusion(s): ELEC 2600H, MATH 2421
+ELEC 2600H: Prerequisite(s): Grade A- or above in MATH 1014 OR MATH 1020 OR MATH 1024
+ELEC 2600H: Corequisite(s): MATH 2011 OR MATH 2023
+ELEC 2600H: Exclusion(s): ELEC 2600, MATH 2421
+ELEC 2991: Previous Course Code(s): ELEC 1991
+ELEC 3100: Prerequisite(s): (ELEC 2100 OR ELEC 2100H) AND (ELEC 2600 OR ELEC 2600H)
+ELEC 3120: Previous Course Code(s): ELEC 4120
+ELEC 3120: Prerequisite(s): COMP 1021 OR COMP 1022P
+ELEC 3120: Exclusion(s): COMP 4621
+ELEC 3170: Previous Course Code(s): ELEC 4170
+ELEC 3170: Prerequisite(s): (COMP 1021 OR COMP 1022P) AND (ELEC 2100 OR ELEC 2100H)
+ELEC 3170: Exclusion(s): COMP 4431
+ELEC 3180: Alternate code(s): IEDA 3180
+ELEC 3180: Prerequisite(s): (IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR ELEC 2600) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+ELEC 3200: Prerequisite(s): (ELEC 2100 OR ELEC 2100H) AND [MATH 2350 OR (MATH 2111 AND MATH 2351)]
+ELEC 3200: Exclusion(s): CENG 3110, MECH 3610
+ELEC 3210: Previous Course Code(s): ELEC 4010K
+ELEC 3210: Prerequisite(s): [(ELEC 2600 OR ELEC 2600H) AND MATH 2111] OR ELEC 3200
+ELEC 3300: Prerequisite(s): COMP 2611 OR ELEC 2300 OR ELEC 2350 OR ISDN 4000F
+ELEC 3310: Prerequisite(s): ELEC 1100
+ELEC 3310: Exclusion(s): ELEC 2200, ISDN 4000D
+ELEC 3400: Prerequisite(s): ELEC 2400
+ELEC 3450: Previous Course Code(s): ELEC 2500
+ELEC 3450: Prerequisite(s): ELEC 1100 OR PHYS 1114 OR PHYS 1314
+ELEC 3500: Prerequisite(s): (Level 3 or above in HKDSE 1/2x or 1x Chemistry OR a passing grade in HKCEE Chemistry OR CHEM 1001 OR CHEM 1004) AND ELEC 2400
+ELEC 3500: Mode of Delivery: [SPO] Self-paced online delivery [BLD] Blended learning
+ELEC 3600: Prerequisite(s): (MATH 2011 OR MATH 2023) AND MATH 2351 AND PHYS 1114
+ELEC 4110: Prerequisite(s): ELEC 2100 OR ELEC 2100H
+ELEC 4130: Prerequisite(s): MATH 2111
+ELEC 4130: Corequisite(s): ELEC 3100 OR ELEC 3200
+ELEC 4130: Exclusion(s): COMP 4421, MATH 4336
+ELEC 4150: Prerequisite(s): ELEC 2100
+ELEC 4210: Previous Course Code(s): ELEC 4010G
+ELEC 4210: Prerequisite(s): ELEC 3200 OR MECH 3610
+ELEC 4220: Prerequisite(s): ELEC 3200
+ELEC 4230: Previous Course Code(s): ELEC 4010I
+ELEC 4230: Prerequisite(s): (COMP 2012 OR COMP 2012H) AND (ELEC 2600 OR ELEC 2600H)
+ELEC 4230: Exclusion(s): COMP 4901I
+ELEC 4240: Alternate code(s): COMP 4471
+ELEC 4240: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (MATH 2111 OR MATH 2121 OR MATH 2350)
+ELEC 4250: Previous Course Code(s): ELEC 4010M
+ELEC 4250: Prerequisite(s): ELEC 3200 OR CENG 3110 OR MECH 3610
+ELEC 4250: Exclusion(s): MECH 4000J
+ELEC 4310: Prerequisite(s): [COMP 2611 AND (ELEC 2200 OR ELEC 3310)] OR ELEC 2300 OR ELEC 2350 OR ISDN 4000F
+ELEC 4320: Prerequisite(s): ELEC 2300 OR ELEC 2350 OR ISDN 4000F
+ELEC 4330: Prerequisite(s): ELEC 2300 OR ELEC 2350 OR ISDN 4000F
+ELEC 4330: Corequisite(s): ELEC 3300
+ELEC 4410: Prerequisite(s): ELEC 2200 OR ELEC 3310 OR ISDN 4000D
+ELEC 4420: Prerequisite(s): ELEC 3400
+ELEC 4430: Prerequisite(s): ELEC 3400
+ELEC 4510: Prerequisite(s): ELEC 3500
+ELEC 4520: Prerequisite(s): ELEC 3500
+ELEC 4530: Prerequisite(s): ELEC 3500
+ELEC 4610: Prerequisite(s): ELEC 2400
+ELEC 4610: Exclusion(s): PHYS 3038
+ELEC 4620: Prerequisite(s): ELEC 3600
+ELEC 4810: Prerequisite(s): ELEC 2400 OR ELEC 2420
+ELEC 4820: Prerequisite(s): ELEC 2100 AND MATH 2011 AND MATH 2111
+ELEC 4820: Mode of Delivery: [BLD] Blended learning
+ELEC 4830: Previous Course Code(s): ELEC 4010J
+ELEC 4830: Alternate code(s): BIEN 4310
+ELEC 4830: Prerequisite(s): (BIEN 3320 OR MATH 2111) AND (ELEC 2600 OR ISOM 2500 OR LIFS 3150 OR MATH 2411)
+ELEC 4910: Exclusion(s): ELEC 4900, ELEC 4901
+MATH 1003: Exclusion(s): Level 5* or above in HKDSE Mathematics Extended Module M1 or M2; grade B or above in HKCEE Additional Mathematics, a passing grade in AS Mathematics and Statistics, AL/AS Applied Mathematics, or in AL Pure Mathematics; MATH 1012; MATH 1013; MATH 1014; MATH 1018 (prior to 2013-14); MATH 1020; MATH 1023; MATH 1024
+MATH 1012: Co-list with: MATH 1013
+MATH 1012: Exclusion(s): Level 3 or above in HKDSE Mathematics Extended Module M1 or M2; AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1013, MATH 1014, MATH 1020, MATH 1023, MATH 1024
+MATH 1013: Co-list with: MATH 1012
+MATH 1013: Prerequisite(s): Level 3 or above in HKDSE Mathematics Extended Module M1/M2
+MATH 1013: Exclusion(s): AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1012, MATH 1014, MATH 1020, MATH 1023, MATH 1024
+MATH 1014: Prerequisite(s): MATH 1012 OR MATH 1013 OR MATH 1023 OR grade A- or above in MATH 1003
+MATH 1014: Exclusion(s): AL Pure Mathematics; AL Applied Mathematics; MATH 1020, MATH 1024
+MATH 1020: Prerequisite(s): Level 5* or 5** in HKDSE Mathematics Extended Module M2
+MATH 1020: Exclusion(s): A passing grade in AL Applied Mathematics / AL Pure Mathematics; MATH 1013, MATH 1014, MATH 1023, MATH 1024
+MATH 1023: Prerequisite(s): Level 5 or above in HKDSE Mathematics Extended Module M2
+MATH 1023: Exclusion(s): AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1012, MATH 1013, MATH 1014, MATH 1020
+MATH 1024: Prerequisite(s): MATH 1012 OR MATH 1013 OR MATH 1023
+MATH 1024: Exclusion(s): AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1014, MATH 1020
+MATH 2011: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014; OR MATH 1020; OR MATH 1024
+MATH 2011: Exclusion(s): MATH 2023
+MATH 2023: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2023: Exclusion(s): MATH 2011
+MATH 2033: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2033: Exclusion(s): MATH 2043
+MATH 2043: Prerequisite(s): Grade A in AL Pure Mathematics; or grade A- or above in MATH 1014/MATH 1020/MATH 1024
+MATH 2043: Exclusion(s): MATH 2033
+MATH 2111: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2111: Exclusion(s): MATH 2121, MATH 2131, MATH 2350
+MATH 2121: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2121: Exclusion(s): MATH 2111, MATH 2131, MATH 2350
+MATH 2131: Prerequisite(s): Grade A in AL Pure Mathematics; or grade A- or above in MATH 1014/MATH 1020/MATH 1024
+MATH 2131: Exclusion(s): MATH 2111, MATH 2121, MATH 2350
+MATH 2343: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; or MATH 1014; or MATH 1020; or MATH 1024
+MATH 2343: Exclusion(s): COMP 2711, COMP 2711H
+MATH 2350: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2350: Exclusion(s): MATH 2111, MATH 2121, MATH 2131, MATH 2351, MATH 2352, PHYS 2124
+MATH 2351: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2351: Exclusion(s): MATH 2350, MATH 2352, PHYS 2124
+MATH 2352: Prerequisite(s): MATH 2111 OR MATH 2121 OR MATH 2131
+MATH 2352: Exclusion(s): MATH 2350, MATH 2351, PHYS 2124
+MATH 2411: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2411: Exclusion(s): IEDA 2510, IEDA 2540, ISOM 2500, LIFS 3150
+MATH 2421: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2421: Corequisite(s): MATH 2011 OR MATH 2023
+MATH 2421: Exclusion(s): IEDA 2510, IEDA 2520, MATH 2431, ELEC 2600, ELEC 2600H, ISOM 3540
+MATH 2431: Prerequisite(s): (Grade A- or above in MATH 1014) OR MATH 1020 OR MATH 1024
+MATH 2431: Corequisite(s): MATH 2011 OR MATH 2023
+MATH 2431: Exclusion(s): ELEC 2600, ELEC 2600H, ISOM 3540, MATH 2421
+MATH 2511: Prerequisite(s): MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2731: Prerequisite(s): A passing grade in AL Pure Mathematics/AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2741: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024 OR AL Applied Mathematics / AL Pure Mathematics
+MATH 2741: Mode of Delivery: [BLD] Blended learning
+MATH 3033: Prerequisite(s): (MATH 2011 / MATH 2023) AND (MATH 2033 / MATH 2043) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350)
+MATH 3033: Exclusion(s): MATH 3043
+MATH 3043: Prerequisite(s): Grade A- or above in MATH 2043
+MATH 3043: Exclusion(s): MATH 3033
+MATH 3121: Prerequisite(s): MATH 2111/MATH 2121/MATH 2131/MATH 2350
+MATH 3121: Exclusion(s): MATH 3131
+MATH 3131: Prerequisite(s): Grade B- or above in MATH 2131
+MATH 3312: Prerequisite(s): (COMP 1021 / COMP 1022P / COMP 1022Q (prior to 2020-21)) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350) AND (MATH 2031 / MATH 2033 / MATH 2043)
+MATH 3312: Exclusion(s): MECH 4740, PHYS 3142
+MATH 3322: Prerequisite(s): MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350
+MATH 3332: Prerequisite(s): (MATH 2011 OR MATH 2023) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+MATH 3343: Prerequisite(s): MATH 2121/MATH 2111/MATH 2350/MATH 2131; or MATH 2343/COMP 2711
+MATH 3423: Prerequisite(s): MATH 2421 OR MATH 2431
+MATH 3424: Prerequisite(s): MATH 3423
+MATH 3424: Exclusion(s): ISOM 5520
+MATH 3425: Prerequisite(s): MATH 2421 OR MATH 2431
+MATH 3426: Prerequisite(s): MATH 2411
+MATH 3427: Prerequisite(s): MATH 2421 OR MATH 2431 OR ELEC 2600 OR ELEC 2600H OR ISOM 3540
+MATH 4023: Prerequisite(s): (MATH 2011 OR MATH 2023 OR MATH 3043) AND (MATH 2033 OR MATH 2043)
+MATH 4033: Prerequisite(s): Grade A- or above in MATH 2023 AND B- or above in MATH 2131
+MATH 4051: Prerequisite(s): (MATH 2350 OR MATH 2351 OR MATH 2352) AND (MATH 3033 OR MATH 3043)
+MATH 4052: Prerequisite(s): MATH 2011/MATH 2023/MATH 3043 and MATH 2111/MATH 2121/MATH 2131/MATH 2350 and MATH 2350/MATH 2351/MATH 2352
+MATH 4061: Prerequisite(s): MATH 3043 or MATH 3033
+MATH 4063: Prerequisite(s): MATH 4061
+MATH 4141: Prerequisite(s): MATH 2131
+MATH 4141: Corequisite(s): (for students without prerequisites) MATH 3121
+MATH 4151: Prerequisite(s): (MATH 2011 OR MATH 2023 OR MATH 3043) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+MATH 4221: Prerequisite(s): MATH 2033 OR MATH 2043 OR MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350
+MATH 4223: Prerequisite(s): MATH 2011/MATH 2023/MATH 3043 and MATH 2121/MATH 2131
+MATH 4225: Prerequisite(s): MATH 2033/MATH 2043
+MATH 4321: Prerequisite(s): (MATH 2011 OR MATH 2023 OR MATH 3043) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+MATH 4321: Exclusion(s): ECON 4124
+MATH 4326: Alternate code(s): OCES 4326
+MATH 4326: Prerequisite(s): MATH 4052
+MATH 4326: Exclusion(s): CIVL 2510, MECH 2210
+MATH 4333: Prerequisite(s): MATH 2121/MATH 2111/MATH 2131 and MATH 2351/MATH 2352; or MATH 2350
+MATH 4335: Prerequisite(s): (MATH 2011 OR MATH 2023) AND (MATH 2111 OR MATH 2121 OR MATH 2131)
+MATH 4336: Prerequisite(s): MATH 2011/MATH 2023 and [MATH 2350 or (MATH 2111/MATH 2121/MATH 2131 and MATH 2351/MATH 2352)]
+MATH 4336: Exclusion(s): COMP 4421, ELEC 4130
+MATH 4343: Previous Course Code(s): MATH 4821B
+MATH 4343: Prerequisite(s): MATH 2343
+MATH 4351: Prerequisite(s): (MATH 2350 OR MATH 2351 OR MATH 2352) AND MATH 3312 AND MATH 4052
+MATH 4423: Prerequisite(s): MATH 2411
+MATH 4424: Prerequisite(s): MATH 3423 and MATH 3424
+MATH 4424: Exclusion(s): ISOM 5530
+MATH 4425: Prerequisite(s): MATH 3423 and MATH 3424
+MATH 4426: Prerequisite(s): MATH 3423
+MATH 4427: Prerequisite(s): (ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431) AND (MATH 2011 OR MATH 2023) AND MATH 2511
+MATH 4428: Prerequisite(s): MATH 3423 OR MATH 4427
+MATH 4432: Prerequisite(s): (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21)) AND (IEDA 2510 OR (IEDA 2520 AND IEDA 2540) OR ISOM 2500 OR LIFS 3150 OR MATH 2411 OR MATH 2421 OR MATH 2431)
+MATH 4511: Prerequisite(s): (MATH 2011 / MATH 2023) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350) AND (IEDA 2510 / IEDA 2520 AND IEDA 2540 / ISOM 2500 / LIFS 3150 / MATH 2411) AND (FINA 2203 / FINA 2303)
+MATH 4512: Prerequisite(s): (MATH 2011 / MATH 2023) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350) AND (IEDA 2540 / ISOM 2500 / LIFS 3150 / MATH 2411) AND (MATH 2511 / FINA 2203 / FINA 2303)
+MATH 4513: Alternate code(s): RMBI 4220
+MATH 4513: Prerequisite(s): ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431
+MATH 4514: Prerequisite(s): (MATH 2421 OR MATH 2431) AND MATH 2511
+MATH 4514: Exclusion(s): FINA 3203
+MATH 4632: Previous Course Code(s): MATH 4824B
+MATH 4632: Alternate code(s): COMP 4222
+MATH 4632: Prerequisite(s): (COMP 2011/ COMP 2012/ COMP 2012H) AND (COMP 2711 OR COMP 2711H OR MATH 2343) AND (MATH 2111 /MATH 2121 / MATH 2131)
+MATH 4632: Exclusion(s): COMP 4222
+MATH 4921: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 4990: Prerequisite(s): MATH 4982
+MATH 4991: Prerequisite(s): MATH 3121 OR MATH 3131
+MATH 4991: Exclusion(s): MATH 4992, MATH 4993, MATH 4994, MATH 4999
+MATH 4992: Prerequisite(s): MATH 3312
+MATH 4992: Exclusion(s): MATH 4991, MATH 4993, MATH 4994, MATH 4999
+MATH 4993: Prerequisite(s): MATH 3424
+MATH 4993: Exclusion(s): MATH 4991, MATH 4992, MATH 4994, MATH 4999
+MATH 4994: Exclusion(s): MATH 4991, MATH 4992, MATH 4993, MATH 4999
+MATH 4995: Prerequisite(s): MATH 3322 AND MATH 3332
+MATH 4999: Exclusion(s): MATH 4991, MATH 4992, MATH 4993, MATH 4994
+IEDA 1010: Previous Course Code(s): IELM 1010
+IEDA 1020: Previous Course Code(s): IELM 1020
+IEDA 1990: Previous Course Code(s): IELM 1990
+IEDA 1990: Exclusion(s): IEDA 1991
+IEDA 1991: Previous Course Code(s): IELM 1991
+IEDA 1991: Exclusion(s): IEDA 1990
+IEDA 2010: Previous Course Code(s): IELM 2010
+IEDA 2010: Exclusion(s): IEDA 2200
+IEDA 2150: Previous Course Code(s): IELM 2150
+IEDA 2200: Previous Course Code(s): IELM 2200
+IEDA 2200: Exclusion(s): IEDA 2010
+IEDA 2410: Previous Course Code(s): IELM 2410
+IEDA 2510: Previous Course Code(s): IELM 2510
+IEDA 2510: Prerequisite(s): MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024
+IEDA 2510: Exclusion(s): ISOM 2500, LIFS 3150, MATH 2411, MATH 2421
+IEDA 2510: Mode of Delivery: [BLD] Blended learning
+IEDA 2520: Previous Course Code(s): IELM 2520
+IEDA 2520: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+IEDA 2520: Exclusion(s): IEDA 2510, ELEC 2600, ELEC 2600H, MATH 2421, MATH 2431
+IEDA 2540: Previous Course Code(s): IELM 2540
+IEDA 2540: Prerequisite(s): IEDA 2520
+IEDA 2540: Exclusion(s): IEDA 2510, MATH 2411, ISOM 2500, LIFS 3150
+IEDA 3010: Previous Course Code(s): IELM 3010
+IEDA 3010: Corequisite(s): MATH 2111
+IEDA 3010: Exclusion(s): CIVL 2170, ISOM 3710, PHYS 4059
+IEDA 3130: Previous Course Code(s): IELM 3130
+IEDA 3130: Prerequisite(s): IEDA 2510 OR (IEDA 2520 AND IEDA 2540)
+IEDA 3150: Previous Course Code(s): IELM 3150
+IEDA 3180: Alternate code(s): ELEC 3180
+IEDA 3180: Prerequisite(s): (IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR ELEC 2600) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+IEDA 3230: Previous Course Code(s): IELM 3230
+IEDA 3250: Previous Course Code(s): IELM 3250
+IEDA 3250: Prerequisite(s): IEDA 2510 OR (IEDA 2520 AND IEDA 2540) OR (MATH 2411 AND MATH 2421)
+IEDA 3270: Previous Course Code(s): IELM 3270
+IEDA 3270: Prerequisite(s): IEDA 2510 OR (IEDA 2520 AND IEDA 2540) OR MATH 2411
+IEDA 3270: Exclusion(s): ISOM 3730
+IEDA 3270: Mode of Delivery: [BLD] Blended learning
+IEDA 3300: Previous Course Code(s): IELM 3300
+IEDA 3300: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21)
+IEDA 3300: Exclusion(s): COMP 3311, ISOM 3260
+IEDA 3302: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21)
+IEDA 3330: Previous Course Code(s): IELM 3330
+IEDA 3330: Prerequisite(s): CIVL 2160 OR ELEC 2600 OR IEDA 2510 OR (IEDA 2520 AND IEDA 2540) OR ISOM 2500 OR MATH 2411 OR MATH 2421 OR MATH 2431
+IEDA 3330: Exclusion(s): FINA 3203, FINA 4303
+IEDA 3410: Previous Course Code(s): IELM 3410
+IEDA 3410: Prerequisite(s): IEDA 3010
+IEDA 3460: Prerequisite(s): IEDA 2540
+IEDA 3560: Previous Course Code(s): IELM 3560
+IEDA 3560: Prerequisite(s): IEDA 2540
+IEDA 3560: Exclusion(s): COMP 4211
+IEDA 3901: Previous Course Code(s): IELM 3901
+IEDA 3901: Corequisite(s): IEDA 2410
+IEDA 3901: Exclusion(s): CIVL 3610
+IEDA 4000: Previous Course Code(s): IELM 4000
+IEDA 4100: Previous Course Code(s): IELM 4100
+IEDA 4100: Prerequisite(s): [IEDA 2510 OR (IEDA 2520 AND IEDA 2540)] AND IEDA 3010
+IEDA 4100: Exclusion(s): ISOM 2700
+IEDA 4130: Previous Course Code(s): IELM 4130
+IEDA 4130: Prerequisite(s): IEDA 2510 OR (IEDA 2520 AND IEDA 2540)
+IEDA 4130: Exclusion(s): ISOM 4720
+IEDA 4180: Previous Course Code(s): IELM 4180
+IEDA 4180: Prerequisite(s): IEDA 2520 AND IEDA 2540
+IEDA 4200: Previous Course Code(s): IELM 4200
+IEDA 4200: Prerequisite(s): IEDA 3010
+IEDA 4331: Previous Course Code(s): IELM 4331
+IEDA 4331: Prerequisite(s): (FINA 3203 OR IEDA 3330) AND (IEDA 3250 OR ISOM 2500)
+IEDA 4410: Previous Course Code(s): IELM 4410
+IEDA 4410: Prerequisite(s): IEDA 4100
+IEDA 4410: Exclusion(s): EEMT 5300, ISOM 3770
+IEDA 4420: Prerequisite(s): IEDA 3010 AND IEDA 3250
+IEDA 4420: Exclusion(s): ISOM 4820
+IEDA 4500: Prerequisite(s): IEDA 3330 OR FINA 3203
+IEDA 4510: Prerequisite(s): IEDA 3010 AND IEDA 3250
+IEDA 4520: Prerequisite(s): (IEDA 3250 OR ISOM 2500) AND (IEDA 3330 OR FINA 3203)
+IEDA 4650: Previous Course Code(s): IELM 4650
+IEDA 4900: Previous Course Code(s): IELM 4900
+IEDA 4920: Exclusion(s): IEDA 4901, IEDA 4960
+IEDA 4930: Previous Course Code(s): IELM 4930
+IEDA 4950: Previous Course Code(s): IELM 4950
+IEDA 4960: Exclusion(s): IEDA 4901, IEDA 4920, IEDA 4930, IEDA 4990
+IEDA 4990: Previous Course Code(s): IELM 4990
+SISP 1702: Reading Material: [C] Require Chinese reading
+PPOL 2110: Mode of Delivery: [BLD] Blended learning
+ENEG 3110: Alternate code(s): MECH 3110
+ENEG 3220: Previous Course Code(s): CENG 4000L
+ENEG 3910: Prerequisite(s): (CENG 2210 OR MECH 2310) AND (CENG 2220 OR MECH 2210)
+ENEG 4210: Prerequisite(s): CENG 2210 OR MECH 2310
+ENEG 4320: Previous Course Code(s): CENG 4000H
+ENEG 4320: Prerequisite(s): CENG 2210 OR CHEM 2410
+ENEG 4320: Exclusion(s): CBME 5830, CENG 5930
+PHYS 1001: Exclusion(s): Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above
+PHYS 1002: Prerequisite(s): Level 3 or above in HKDSE 1/2x OR in HKDSE 1x Physics
+PHYS 1002: Exclusion(s): PHYS 1006
+PHYS 1003: Prerequisite(s): Level 3 or above in HKDSE 1/2x OR in HKDSE 1x Physics
+PHYS 1005: Prerequisite(s): Level 3 or above in HKDSE 1/2x Physics OR HKDSE 1x Physics
+PHYS 1005: Exclusion(s): SISP 1111
+PHYS 1006: Exclusion(s): Level 3 or above in HKDSE 1/2x Physics OR HKDSE 1x Physics, a passing grade in AL/AS Physics, PHYS 1001, PHYS 1002
+PHYS 1007: Prerequisite(s): Level 3 or above in HKDSE Mathematics Extended Module M2
+PHYS 1007: Exclusion(s): PHYS 4812
+PHYS 1111: Prerequisite(s): Level 3 or above in HKDSE 1/2x OR HKDSE 1x Physics
+PHYS 1111: Exclusion(s): Level 3 or above in HKDSE Mathematics Extended Module M1/M2, PHYS 1112, PHYS 1312
+PHYS 1112: Prerequisite(s): (Level 3 or above in HKDSE 1/2x OR in HKDSE 1x Physics) AND Level 3 or above in HKDSE Mathematics Extended Module M1/M2
+PHYS 1112: Exclusion(s): PHYS 1111, PHYS 1312
+PHYS 1113: Corequisite(s): PHYS 1111 OR PHYS 1112 OR PHYS 1312
+PHYS 1114: Prerequisite(s): (PHYS 1111 OR PHYS 1112 OR PHYS 1312) AND (level 3 or above in HKDSE Mathematics Extended Module M1/M2 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+PHYS 1114: Exclusion(s): PHYS 1314
+PHYS 1115: Corequisite(s): PHYS 1114 OR PHYS 1314
+PHYS 1312: Prerequisite(s): (Level 5* or above in HKDSE 1/2x Physics OR in HKDSE 1x Physics) AND (Level 5 or above in HKDSE Mathematics Extended Module M1/M2)
+PHYS 1312: Exclusion(s): PHYS 1111, PHYS 1112
+PHYS 1314: Prerequisite(s): (Grade A- or above in PHYS 1111 OR PHYS 1112 OR Grade B- or above in PHYS 1312) AND (Level 5 or above in HKDSE Mathematics Extended Module M1/M2 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+PHYS 1314: Exclusion(s): PHYS 1114
+PHYS 2010: Previous Course Code(s): BIPH 2010
+PHYS 2010: Prerequisite(s): (LIFS 1901 OR level 3 or above in HKDSE 1xBiology) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+PHYS 2022: Prerequisite(s): PHYS 1114 OR PHYS 1314
+PHYS 2022: Mode of Delivery: [BLD] Blended learning
+PHYS 2023: Corequisite(s): PHYS 2022
+PHYS 2090: Prerequisite(s): CGA at 2.70 or above
+PHYS 2124: Prerequisite(s): MATH 2023 AND (MATH 2121 OR MATH 2131)
+PHYS 2124: Exclusion(s): MATH 2350, MATH 2351, MATH 2352
+PHYS 3031: Prerequisite(s): MATH 2023 AND MATH 2121 AND (MATH 2352 OR PHYS 2124)
+PHYS 3032: Prerequisite(s): PHYS 1111 OR PHYS 1112 OR PHYS 1312
+PHYS 3033: Co-list with: PHYS 3053
+PHYS 3033: Prerequisite(s): PHYS 1114 OR PHYS 1314
+PHYS 3033: Exclusion(s): PHYS 3053
+PHYS 3034: Prerequisite(s): PHYS 3033 OR PHYS 3053
+PHYS 3036: Co-list with: PHYS 3037
+PHYS 3036: Prerequisite(s): PHYS 2022
+PHYS 3036: Exclusion(s): PHYS 3037
+PHYS 3037: Co-list with: PHYS 3036
+PHYS 3037: Prerequisite(s): Grade B- or above in PHYS 2022
+PHYS 3037: Exclusion(s): PHYS 3036
+PHYS 3038: Exclusion(s): ELEC 4610
+PHYS 3041: Corequisite(s): PHYS 3040
+PHYS 3042: Prerequisite(s): PHYS 2022
+PHYS 3053: Co-list with: PHYS 3033
+PHYS 3053: Prerequisite(s): Grade B- or above in PHYS 1114 OR PHYS 1314
+PHYS 3053: Exclusion(s): PHYS 3033
+PHYS 3060: Prerequisite(s): PHYS 3152 OR PHYS 3153
+PHYS 3071: Prerequisite(s): PHYS 2022
+PHYS 3090: Prerequisite(s): CGA at 2.70 or above
+PHYS 3142: Prerequisite(s): (COMP 1021 OR COMP 1029P) AND (MATH 2352 OR PHYS 2124)
+PHYS 3142: Exclusion(s): MATH 3312
+PHYS 3152: Prerequisite(s): (PHYS 1114 OR PHYS 1314) AND PHYS 2023
+PHYS 3153: Prerequisite(s): (PHYS 1114 OR PHYS 1314) AND PHYS 2023
+PHYS 4050: Prerequisite(s): PHYS 2022
+PHYS 4051: Prerequisite(s): (PHYS 3031 OR MATH 4052) AND (PHYS 3036 OR PHYS 3037)
+PHYS 4052: Prerequisite(s): PHYS 3036 OR PHYS 3037
+PHYS 4055: Prerequisite(s): PHYS 3036 OR PHYS 3037
+PHYS 4055: Mode of Delivery: [BLD] Blended learning
+PHYS 4058: Prerequisite(s): PHYS 3031 OR PHYS 4050
+PHYS 4059: Exclusion(s): IEDA 3010, ISOM 3710
+PHYS 4060: Prerequisite(s): MATH 3312 OR PHYS 3142
+PHYS 4060: Corequisite(s): PHYS 3031
+PHYS 4071: Prerequisite(s): PHYS 2022 AND (PHYS 2124 OR MATH 2351 OR MATH 2352)
+PHYS 4090: Prerequisite(s): CGA at 2.70 or above
+PHYS 4151: Prerequisite(s): PHYS 1113 AND PHYS 1115
+PHYS 4191: Prerequisite(s): PHYS 3152 AND PHYS 3153
+PHYS 4191: Exclusion(s): PHYS 4291
+PHYS 4291: Prerequisite(s): PHYS 3152 AND PHYS 3153
+PHYS 4291: Exclusion(s): PHYS 4191
+PHYS 4811: Prerequisite(s): PHYS 2022 AND (PHYS 3142 OR MATH 3312) AND MATH 2023
+PHYS 4812: Prerequisite(s): PHYS 3036 OR PHYS 3037 OR CHEM 3420
+PHYS 4813: Prerequisite(s): PHYS 3032
+PHYS 4813: Corequisite(s): PHYS 4050
+CHEM 1004: Exclusion(s): Level 3 or above in HKDSE 1/2x Chemistry OR HKDSE 1x Chemistry, a passing grade in AL/AS Chemistry, CHEM 1010, CHEM 1020, CHEM 1030, any CHEM courses at or above 2000-level
+CHEM 1010: Prerequisite(s): Level 3 or above in HKDSE 1/2x Chemistry OR CHEM 1004
+CHEM 1010: Exclusion(s): Level 3 or above in HKDSE 1x Chemistry, CHEM 1008, CHEM 1020
+CHEM 1020: Prerequisite(s): Level 3 or above in HKDSE 1x Chemistry
+CHEM 1020: Exclusion(s): CHEM 1010
+CHEM 1030: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 1050: Prerequisite(s): Level 3 or above in HKDSE 1/2x OR level 3 or above in HKDSE 1x Chemistry OR CHEM 1004
+CHEM 1050: Corequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 1055: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 1055: Corequisite(s): CHEM 1030
+CHEM 2110: Prerequisite(s): CHEM 1030
+CHEM 2110: Exclusion(s): CHEM 2111
+CHEM 2111: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 2111: Exclusion(s): CHEM 2110
+CHEM 2150: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 2150: Corequisite(s): CHEM 2110 OR CHEM 2111
+CHEM 2155: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 2155: Corequisite(s): CHEM 2110 OR CHEM 2111
+CHEM 2155: Exclusion(s): CHEM 2150, CHEM 2550
+CHEM 2210: Prerequisite(s): CHEM 1030
+CHEM 2250: Prerequisite(s): CHEM 1030
+CHEM 2250: Corequisite(s): CHEM 2210
+CHEM 2310: Prerequisite(s): CHEM 1030
+CHEM 2310: Exclusion(s): CHEM 2311
+CHEM 2311: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 2311: Exclusion(s): CHEM 2310
+CHEM 2350: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 2350: Corequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 2355: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 2355: Corequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 2355: Exclusion(s): CHEM 2350, CHEM 2555
+CHEM 2409: Prerequisite(s): MATH 1012 OR MATH 1013 OR MATH 1023
+CHEM 2410: Prerequisite(s): CHEM 1030 AND (CHEM 2409 OR MATH 2351)
+CHEM 2450: Prerequisite(s): CHEM 1030 AND (CHEM 2409 OR MATH 2351)
+CHEM 2450: Corequisite(s): CHEM 2410
+CHEM 2550: Prerequisite(s): CHEM 1050
+CHEM 2550: Corequisite(s): CHEM 2110 AND CHEM 2210
+CHEM 2550: Exclusion(s): CHEM 2155
+CHEM 2555: Prerequisite(s): CHEM 1050 AND (CHEM 2409 OR MATH 2351)
+CHEM 2555: Corequisite(s): CHEM 2310 AND CHEM 2410
+CHEM 2555: Exclusion(s): CHEM 2355
+CHEM 3010: Prerequisite(s): Any CHEM course at or above 1000-level
+CHEM 3010: Mode of Delivery: [BLD] Blended learning
+CHEM 3020: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 3020: Mode of Delivery: [EXP] Experiential learning
+CHEM 3120: Prerequisite(s): CHEM 2110
+CHEM 3220: Prerequisite(s): CHEM 2210
+CHEM 3320: Prerequisite(s): CHEM 2310
+CHEM 3420: Prerequisite(s): CHEM 2410
+CHEM 3550: Prerequisite(s): CHEM 2550
+CHEM 3550: Corequisite(s): CHEM 3120 AND CHEM 3220
+CHEM 3555: Prerequisite(s): CHEM 2555
+CHEM 3555: Corequisite(s): CHEM 3320 AND CHEM 3420
+CHEM 3610: Prerequisite(s): CHEM 3550 OR CHEM 3555
+CHEM 4110: Prerequisite(s): CHEM 3120
+CHEM 4120: Prerequisite(s): CHEM 3120
+CHEM 4130: Prerequisite(s): CHEM 3120
+CHEM 4140: Prerequisite(s): CHEM 3120
+CHEM 4150: Prerequisite(s): CHEM 3550
+CHEM 4150: Corequisite(s): CHEM 4155
+CHEM 4155: Prerequisite(s): CHEM 3555
+CHEM 4155: Corequisite(s): CHEM 4150
+CHEM 4160: Prerequisite(s): CHEM 2110 AND (CHEM 2409 OR MATH 2351)
+CHEM 4210: Prerequisite(s): CHEM 3220
+CHEM 4220: Prerequisite(s): CHEM 3220
+CHEM 4220: Exclusion(s): CHEM 5540, NANO 5100
+CHEM 4230: Prerequisite(s): CHEM 2310 AND CHEM 2410
+CHEM 4240: Prerequisite(s): CHEM 3220
+CHEM 4250: Prerequisite(s): CHEM 3550
+CHEM 4250: Corequisite(s): CHEM 4255
+CHEM 4255: Prerequisite(s): CHEM 3555
+CHEM 4255: Corequisite(s): CHEM 4250
+CHEM 4310: Prerequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 4320: Prerequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 4330: Prerequisite(s): CHEM 2310 or CHEM 2311
+CHEM 4340: Prerequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 4350: Prerequisite(s): (CHEM 2310 OR CHEM 2311) AND (CHEM 2350 OR CHEM 2355)
+CHEM 4350: Corequisite(s): CHEM 4355
+CHEM 4355: Prerequisite(s): (CHEM 2310 OR CHEM 2311) AND (CHEM 2350 OR CHEM 2355)
+CHEM 4355: Corequisite(s): CHEM 4350
+CHEM 4410: Prerequisite(s): CHEM 3420
+CHEM 4420: Prerequisite(s): CHEM 2409 AND CHEM 2410
+CHEM 4420: Exclusion(s): COMP 4211, MATH 4432
+CHEM 4430: Prerequisite(s): CHEM 2110 AND CHEM 2210 AND CHEM 2410
+CHEM 4550: Prerequisite(s): CHEM 3550
+CHEM 4550: Corequisite(s): CHEM 4555
+CHEM 4555: Prerequisite(s): CHEM 3555
+CHEM 4555: Corequisite(s): CHEM 4550
+CHEM 4620: Prerequisite(s): CHEM 3220
+CHEM 4640: Prerequisite(s): (for Science students) CHEM 2110 AND CHEM 2410; (for Engineering students) CHEM 2111
+CHEM 4680: Prerequisite(s): CHEM 2150 AND CHEM 2250
+CHEM 4688: Prerequisite(s): CHEM 4680
+CHEM 4689: Prerequisite(s): CHEM 3550 AND CHEM 3555
+CHEM 4689: Exclusion(s): CHEM 4691
+CHEM 4691: Prerequisite(s): CHEM 3550 AND CHEM 3555
+CHEM 4691: Exclusion(s): CHEM 4689
+CHEM 4692: Prerequisite(s): CHEM 4691
+RMBI 1020: Mode of Delivery: [BLD] Blended learning
+RMBI 3010: Previous Course Code(s): RMBI 3000B
+RMBI 3010: Prerequisite(s): RMBI 3110
+RMBI 3010: Exclusion(s): RMBI 4000E, ISOM 3390
+RMBI 3020: Previous Course Code(s): RMBI 3000A
+RMBI 3110: Prerequisite(s): ISOM 2500 or MATH 2411
+RMBI 4110: Alternate code(s): ISOM 4840
+RMBI 4110: Prerequisite(s): (ISOM 2500 OR MATH 2411) AND ISOM 2700
+RMBI 4210: Prerequisite(s): ISOM 3540 OR MATH 2421 OR MATH 2431
+RMBI 4220: Alternate code(s): MATH 4513
+RMBI 4220: Prerequisite(s): ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431
+RMBI 4310: Co-list with: COMP 4332
+RMBI 4310: Prerequisite(s): COMP 4331 or ISOM 3360
+RMBI 4980: Prerequisite(s): COMP 4331 OR ISOM 3360
+RMBI 4990: Prerequisite(s): RMBI 4980
+MGMT 2130: Prerequisite(s): (for non-BIBU students) MGMT 2010
+MGMT 3110: Prerequisite(s): MGMT 2110
+MGMT 3120: Prerequisite(s): MGMT 2110
+MGMT 3130: Prerequisite(s): MGMT 2110
+MGMT 3160: Prerequisite(s): MGMT 1110 OR MGMT 2110
+MGMT 3160: Exclusion(s): ENVR 3310
+MGMT 4000: Prerequisite(s): MGMT 2110
+MGMT 4210: Prerequisite(s): MGMT 2110
+MGMT 4240: Exclusion(s): MGMT 5480
+MGMT 4250: Prerequisite(s): MGMT 1110 or MGMT 2110
+MGMT 4270: Prerequisite(s): MGMT 3110
+MGMT 4280: Previous Course Code(s): MGMT 4000D
+MGMT 4300: Previous Course Code(s): MGMT 4000E
+MGMT 4300: Prerequisite(s): MGMT 2110
+MGMT 4300: Mode of Delivery: [EXP] Experiential learning
+CPEG 4901: Previous Course Code(s): COMP 4988
+CPEG 4902: Previous Course Code(s): COMP 4989
+CPEG 4910: Exclusion(s): CPEG 4901, CPEG 4902, CPEG 4911, CPEG 4912
+CPEG 4911: Previous Course Code(s): ELEC 4918
+CPEG 4912: Previous Course Code(s): ELEC 4919
+ENVS 2003: Prerequisite(s): MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+ENVS 4905: Prerequisite(s): LIFS 3130 (prior to 2021-22)
+ENVS 4984: Prerequisite(s): ENVS 4974
+GNED 2510: Remarks: [ND] Non-designated GEE
+GNED 2710: Remarks: [ND] Non-designated GEE
+MECH 2020: Prerequisite(s): (MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+MECH 2020: Exclusion(s): CIVL 2110
+MECH 2040: Prerequisite(s): MECH 2020
+MECH 2040: Exclusion(s): CIVL 2120
+MECH 2210: Prerequisite(s): (MATH 2011 OR MATH 2023) AND MECH 2310
+MECH 2210: Exclusion(s): CENG 2220, CIVL 2510, MATH 4326
+MECH 2310: Prerequisite(s): MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+MECH 2410: Exclusion(s): PHYS 3040
+MECH 3020: Prerequisite(s): MECH 2040
+MECH 3030: Prerequisite(s): MECH 2020
+MECH 3110: Previous Course Code(s): MECH 4000E
+MECH 3110: Alternate code(s): ENEG 3110
+MECH 3300: Prerequisite(s): MECH 2310
+MECH 3310: Prerequisite(s): MECH 2210 AND MECH 2310
+MECH 3400: Previous Course Code(s): MECH 4000G
+MECH 3400: Prerequisite(s): MECH 2040 AND MECH 2410
+MECH 3420: Prerequisite(s): MECH 2410
+MECH 3520: Prerequisite(s): MECH 2520
+MECH 3610: Exclusion(s): ELEC 3200
+MECH 3620: Prerequisite(s): MECH 1907 AND MECH 3640 AND MECH 3650
+MECH 3620: Corequisite(s): MECH 3660 AND MECH 3670
+MECH 3640: Prerequisite(s): CENG 2220 OR CIVL 2510 OR MECH 1907 OR MECH 2210
+MECH 3650: Prerequisite(s): CIVL 2120 OR MECH 1907 OR MECH 2040
+MECH 3660: Prerequisite(s): (MATH 2111 OR MATH 2350 OR MATH 2351) AND MECH 3640
+MECH 3670: Prerequisite(s): CENG 2220 OR CIVL 2510 OR MECH 1907 OR MECH 2020 OR MECH 2210
+MECH 3680: Prerequisite(s): ELEC 2420 AND (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR COMP 2011)
+MECH 3690: Corequisite(s): LANG 4034 AND (MECH 3640 OR MECH 3650 OR MECH 3660 OR MECH 3670 OR MECH 3680)
+MECH 3710: Prerequisite(s): MECH 2410
+MECH 3830: Corequisite(s): LANG 4034
+MECH 3830: Mode of Delivery: [BLD] Blended learning
+MECH 3907: Prerequisite(s): MECH 2520
+MECH 3907: Mode of Delivery: [EXP] Experiential learning
+MECH 4010: Prerequisite(s): MECH 2410
+MECH 4100: Previous Course Code(s): MECH 4000C
+MECH 4100: Prerequisite(s): MECH 1907 OR (MECH 2020 AND MECH 2310)
+MECH 4340: Prerequisite(s): MECH 3310
+MECH 4350: Prerequisite(s): MECH 2310
+MECH 4350: Exclusion(s): IBTM 5430, JEVE 5350
+MECH 4360: Prerequisite(s): MECH 2310 and MECH 3610
+MECH 4430: Prerequisite(s): MECH 2410
+MECH 4450: Prerequisite(s): MECH 2040
+MECH 4710: Prerequisite(s): MECH 2020
+MECH 4720: Prerequisite(s): MECH 2520
+MECH 4740: Prerequisite(s): (MATH 1014 OR MATH 1020 OR MATH 1024) AND (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21))
+MECH 4740: Exclusion(s): MATH 3312
+MECH 4750: Prerequisite(s): MECH 2020 AND MECH 2040
+MECH 4750: Exclusion(s): CIVL 4330
+MECH 4810: Prerequisite(s): MECH 3680
+MECH 4860: Prerequisite(s): MECH 3640 AND MECH 3650
+MECH 4870: Prerequisite(s): MECH 2210 OR MECH 3640
+MECH 4890: Previous Course Code(s): MECH 4000I
+MECH 4890: Prerequisite(s): MATH 2011 AND (MATH 2111 OR MATH 2350 OR MATH 2351) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+MECH 4890: Mode of Delivery: [EXP] Experiential learning
+MECH 4900: Exclusion(s): MECH 4950
+MECH 4902: Previous Course Code(s): MECH 4000N
+MECH 4980: Exclusion(s): MECH 4950
+HART 1013: Exclusion(s): HART 1042
+HART 1013: Medium of Instruction: [CA] Cantonese
+HART 1013: Reading Material: [C] Require Chinese reading
+HART 1014: Medium of Instruction: [CA] Cantonese
+HART 1014: Reading Material: [C] Require Chinese reading
+HART 1018: Medium of Instruction: [PU] Putonghua
+HART 1018: Reading Material: [C] Require Chinese reading
+HART 1022: Medium of Instruction: [CA] Cantonese [EN] Taught in Eng/Chin subject to diff. offerings
+HART 1022: Reading Material: [C] Require Chinese reading
+HART 1024: Medium of Instruction: [CA] Cantonese
+HART 1024: Reading Material: [C] Require Chinese reading
+HART 1030: Exclusion(s): HART 1042
+HART 1030: Medium of Instruction: [CA] Cantonese
+HART 1030: Reading Material: [C] Require Chinese reading
+HART 1036: Exclusion(s): ISDN 3200
+HART 1042: Exclusion(s): HART 1013, HART 1030, Level 2 or above in HKDSE Chinese, Score 100 or above in JEE Chinese
+HART 1047: Medium of Instruction: [CA] Cantonese
+HART 1047: Reading Material: [C] Require Chinese reading
+SHSS 1010: Co-list with: SOSC 1210
+SHSS 1030: Exclusion(s): GNED 2510
+SHSS 4991: Corequisite(s): LANG 4070
+SHSS 4991: Exclusion(s): SHSS 4992
+SHSS 4992: Exclusion(s): SHSS 4991, SHSS 4993
+SHSS 4993: Prerequisite(s): SHSS 4991
+SHSS 4993: Exclusion(s): SHSS 4992
+ENVR 1150: Alternate code(s): CIVL 1150
+ENVR 1170: Alternate code(s): CIVL 1170
+ENVR 2030: Exclusion(s): CENG 2010, CENG 2110
+ENVR 2050: Previous Course Code(s): ENVR 3010G
+ENVR 2050: Mode of Delivery: [EXP] Experiential learning [BLD] Blended learning
+ENVR 2070: Mode of Delivery: [EXP] Experiential learning [BLD] Blended learning
+ENVR 2310: Alternate code(s): ECON 2310, SOSC 2310
+ENVR 3001: Prerequisite(s): ENVR 2001
+ENVR 3002: Prerequisite(s): (CIVL 1140 OR ENVR 2010 OR LIFS 1030 (prior to 2121-22) OR PHYS 1003) AND (MATH 1003 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+ENVR 3002: Exclusion(s): ENVS 2003
+ENVR 3003: Mode of Delivery: [BLD] Blended learning
+ENVR 3004: Previous Course Code(s): ENVR 2040, ENVR 2002B
+ENVR 3110: Prerequisite(s): CIVL 1170 OR ENVR 1170
+ENVR 3210: Prerequisite(s): ENVR 2010 AND ENVR 2030
+ENVR 3210: Exclusion(s): CIVL 2410
+ENVR 3310: Exclusion(s): MGMT 3160
+ENVR 3410: Prerequisite(s): ECON 2103 OR ECON 2113 OR ECON 3113
+ENVR 4001: Prerequisite(s): ENVR 2001 and ENVR 3001
+ENVR 4330: Exclusion(s): ENVR 5330, EVSM 5240
+ENVR 4470: Alternate code(s): CIVL 4470
+ENVR 4480: Previous Course Code(s): ENVR 4000O
+ENVR 4480: Alternate code(s): CIVL 4480
+ENVR 4480: Prerequisite(s): MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+ENVR 4990: Prerequisite(s): ENVR 4980
+SOSC 1100: Mode of Delivery: [BLD] Blended learning
+SOSC 1130: Exclusion(s): MGCS 5023
+SOSC 1210: Co-list with: SHSS 1010
+SOSC 1400: Previous Course Code(s): SOSC 2300
+SOSC 1440: Exclusion(s): ECON 2103, ECON 2113, ECON 2123, ECON 3113, ECON 3133
+SOSC 1450: Mode of Delivery: [SPO] Self-paced online delivery
+SOSC 1470: Previous Course Code(s): SOSC 1000D
+SOSC 1510: Previous Course Code(s): SOSC 1000E
+SOSC 1661: Exclusion(s): SOSC 1662
+SOSC 1662: Exclusion(s): SOSC 1661
+SOSC 1662: Mode of Delivery: [SPO] Self-paced online delivery
+SOSC 1860: Mode of Delivery: [BLD] Blended learning
+SOSC 2140: Mode of Delivery: [BLD] Blended learning
+SOSC 2210: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 2240: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 2310: Alternate code(s): ECON 2310, ENVR 2310
+SOSC 2330: Previous Course Code(s): SOSC 2000D
+SOSC 2330: Mode of Delivery: [BLD] Blended learning
+SOSC 2400: Prerequisite(s): SOSC 1100
+SOSC 2640: Reading Material: [C] Require Chinese reading
+SOSC 2888: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 2980: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 2990: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3001: Previous Course Code(s): SHSS 3001
+SOSC 3001: Exclusion(s): MGCS 5001
+SOSC 3001: Reading Material: [C] Require Chinese reading
+SOSC 3001: Mode of Delivery: [BLD] Blended learning
+SOSC 3120: Exclusion(s): ECON 4434
+SOSC 3130: Medium of Instruction: [CA] Cantonese
+SOSC 3130: Reading Material: [C] Require Chinese reading
+SOSC 3260: Previous Course Code(s): SOSC 3000H
+SOSC 3540: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3550: Previous Course Code(s): SOSC 2960
+SOSC 3550: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3700: Prerequisite(s): SOSC 2400
+SOSC 3720: Previous Course Code(s): SOSC 3000G
+SOSC 3888: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3900: Previous Course Code(s): SOSC 2970
+SOSC 3900: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3990: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 4100: Prerequisite(s): SOSC 3700
+SOSC 4260: Background: SOSC 1440, ECON 2123, ECON 3024 or similar course
+SOSC 4270: Prerequisite(s): SOSC 1350 or SOSC 1850
+SOSC 4280: Prerequisite(s): HUMA 2590 OR SOSC 1350 OR SOSC 2290
+SOSC 4290: Prerequisite(s): ENVR 3110 OR SOSC 1170 (prior to 2017-18) OR SOSC 3150 (prior to 2017-18)
+SOSC 4300: Prerequisite(s): MATH 2411 OR MATH 2421 OR SOSC 2400
+SOSC 4320: Prerequisite(s): SOSC 3260 OR ENVR 1050 OR ENVR 1170 OR ENVR 3010I OR OCES 2100 OR SUST 1000
+SOSC 4330: Prerequisite(s): SOSC 2400
+SOSC 4600: Prerequisite(s): SOSC 1300 or SOSC 1350
+GBUS 2030: Previous Course Code(s): GBUS 4000B
+ISDN 1006: Corequisite(s): ISDN 1002
+ISDN 1006: Mode of Delivery: [EXP] Experiential learning
+ISDN 2000: Previous Course Code(s): ISDN 1000
+ISDN 2001: Prerequisite(s): ISDN 1002
+ISDN 2001: Corequisite(s): ISDN 1004 AND ISDN 1006 AND ISDN 2300
+ISDN 2002: Prerequisite(s): ISDN 2001
+ISDN 2002: Corequisite(s): ISDN 2400
+ISDN 2400: Prerequisite(s): ISDN 2300
+ISDN 3350: Previous Course Code(s): ISDN 4350, ENTR 4000A
+ISDN 3350: Alternate code(s): ENTR 3350
+ISDN 3360: Alternate code(s): ENTR 3360
+ISDN 4002: Prerequisite(s): ISDN 4001
+ISDN 4300: Exclusion(s): IEDA 3150
+ISDN 4320: Previous Course Code(s): IEDA 4320, IELM 4320
+ISDN 4320: Mode of Delivery: [EXP] Experiential learning
+ENGG 1100: Previous Course Code(s): ENGG 2990I
+ENGG 1100: Exclusion(s): ENGG 1200
+ENGG 1100: Mode of Delivery: [BLD] Blended learning
+ENGG 1300: Mode of Delivery: [EXP] Experiential learning
+ENGG 1501: Co-list with: ENGG 1502
+ENGG 1501: Exclusion(s): COMP 1021, COMP 1022P, COMP 1022Q (prior to 2020-21)
+ENGG 1502: Co-list with: ENGG 1501
+ENGG 1502: Exclusion(s): COMP 1021, COMP 1022P, COMP 1022Q (prior to 2020-21)
+ENGG 4901: Corequisite(s): ENGG 4902
+ENGG 4902: Corequisite(s): ENGG 4901
+ENGG 4903: Corequisite(s): ENGG 4904
+ENGG 4904: Corequisite(s): ENGG 4903
+ENGG 4930: Previous Course Code(s): ENGG 4950T
+ENGG 4930: Mode of Delivery: [EXP] Experiential learning
+BIEN 1010: Previous Course Code(s): BIEN 2010
+BIEN 2310: Co-list with: CENG 2310
+BIEN 2310: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+BIEN 2310: Mode of Delivery: [BLD] Blended learning
+BIEN 2410: Prerequisite(s): LIFS 1901 OR Level 3 or above in HKDSE 1x Biology
+BIEN 2410: Exclusion(s): LIFS 3040
+BIEN 2610: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND (LIFS 1901 OR (Level 3 or above in HKDSE 1x Biology))
+BIEN 3010: Background: BIEN 1010 OR CENG 1600
+BIEN 3020: Alternate code(s): BIPH 3010
+BIEN 3020: Prerequisite(s): (LIFS 2010 OR LIFS 2040) AND (PHYS 1114 OR PHYS 1314) AND PHYS 2010
+BIEN 3240: Prerequisite(s): BIEN 2310 AND (MATH 1014 OR MATH 1020 OR MATH 1024)
+BIEN 3240: Exclusion(s): CENG 3220
+BIEN 3300: Alternate code(s): CENG 3300
+BIEN 3300: Prerequisite(s): BIEN 2310 OR CENG 2310
+BIEN 3300: Exclusion(s): LIFS 3150, MATH 2411
+BIEN 3320: Co-list with: LIFS 4320
+BIEN 3320: Prerequisite(s): {COMP 1021 OR [(COMP 1022P OR COMP 1022Q (prior to 2020-21) OR COMP 2011) AND COMP 1029P]} AND BIEN 2310 AND BIEN 2610 AND MATH 2411
+BIEN 3410: Prerequisite(s): BIEN 2410
+BIEN 3410: Exclusion(s): ELEC 4810
+BIEN 3910: Prerequisite(s): BIEN 2410 AND BIEN 2610
+BIEN 3910: Corequisite(s): BIEN 3410
+BIEN 4310: Previous Course Code(s): BIEN 4000A
+BIEN 4310: Alternate code(s): ELEC 4830
+BIEN 4310: Prerequisite(s): (BIEN 3320 OR MATH 2111) AND (ELEC 2600 OR ISOM 2500 OR LIFS 3150 OR MATH 2411)
+BIEN 4920: Prerequisite(s): BIEN 3910
+BIEN 4920: Exclusion(s): BIEN 4930, BIEN 4940
+BIEN 4930: Prerequisite(s): BIEN 3910 AND (CENG 4980 OR UROP 2100)
+BIEN 4930: Exclusion(s): BIEN 4920, BIEN 4940
+BIEN 4940: Prerequisite(s): BIEN 3910
+BIEN 4940: Exclusion(s): BIEN 4920, BIEN 4930
+BIEN 4990: Prerequisite(s): BIEN 2990
+LABU 2040: Prerequisite(s): LANG 1003
+LABU 2040: Exclusion(s): LABU 2050 (prior to 2017-18), LABU 2051, LABU 2052
+LABU 2051: Prerequisite(s): LANG 1003
+LABU 2051: Exclusion(s): LABU 2050 (prior to 2017-18)
+LABU 2052: Prerequisite(s): LABU 2051
+LABU 2052: Exclusion(s): LABU 2050 (prior to 2017-18)
+LABU 2060: Prerequisite(s): LANG 1003
+LABU 2060: Exclusion(s): LABU 2020 (prior to 2019-20)
+ENTR 1001: Mode of Delivery: [EXP] Experiential learning
+ENTR 3030: Previous Course Code(s): ENTR 4100
+ENTR 3350: Alternate code(s): ISDN 3350
+ENTR 3360: Previous Course Code(s): ENTR 4000B
+ENTR 3360: Alternate code(s): ISDN 3360
+ENTR 4901-4904: Mode of Delivery: [EXP] Experiential learning
+ENTR 4911: Alternate code(s): COMP 4911
+ENTR 4911: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q OR COMP 2011 OR COMP 2012H
+HUMA 1000: Mode of Delivery: [BLD] Blended learning
+HUMA 1001: Medium of Instruction: [CA] Cantonese [EN] Taught in Eng/Chin subject to diff. offerings [PU] Putonghua
+HUMA 1001: Reading Material: [C] Require Chinese reading
+HUMA 1020: Exclusion(s): HUMA 099H
+HUMA 1020: Reading Material: [C] Require Chinese reading
+HUMA 1030: Reading Material: [C] Require Chinese reading
+HUMA 1060: Medium of Instruction: [PU] Putonghua
+HUMA 1060: Reading Material: [C] Require Chinese reading
+HUMA 1250: Reading Material: [C] Require Chinese reading
+HUMA 1420: Exclusion(s): HUMA 2420
+HUMA 1430: Medium of Instruction: [PU] Putonghua
+HUMA 1430: Reading Material: [C] Require Chinese reading
+HUMA 1440: Exclusion(s): MGCS 5001
+HUMA 1440: Reading Material: [C] Require Chinese reading
+HUMA 1520: Exclusion(s): MGCS 5004
+HUMA 1630: Medium of Instruction: [CA] Cantonese
+HUMA 1630: Reading Material: [C] Require Chinese reading
+HUMA 1632: Mode of Delivery: [EXP] Experiential learning
+HUMA 1660: Medium of Instruction: [PU] Putonghua
+HUMA 1660: Reading Material: [C] Require Chinese reading
+HUMA 1671: Medium of Instruction: [CA] Cantonese [EN] Taught in Eng/Chin subject to diff. offerings
+HUMA 1671: Reading Material: [C] Require Chinese reading
+HUMA 1672: Corequisite(s): HUMA 1671
+HUMA 1672: Medium of Instruction: [CA] Cantonese
+HUMA 1672: Reading Material: [C] Require Chinese reading
+HUMA 1710: Exclusion(s): HUMA 1720
+HUMA 1710: Medium of Instruction: [CA] Cantonese
+HUMA 1710: Reading Material: [C] Require Chinese reading
+HUMA 1720: Exclusion(s): HUMA 1710
+HUMA 1810: Exclusion(s): HUMA 1811
+HUMA 1810: Medium of Instruction: [CA] Cantonese
+HUMA 1810: Reading Material: [C] Require Chinese reading
+HUMA 1811: Exclusion(s): HUMA 1810
+HUMA 1811: Medium of Instruction: [CA] Cantonese
+HUMA 1811: Reading Material: [C] Require Chinese reading
+HUMA 2010: Reading Material: [C] Require Chinese reading
+HUMA 2031: Medium of Instruction: [CA] Cantonese
+HUMA 2031: Reading Material: [C] Require Chinese reading
+HUMA 2050: Medium of Instruction: [PU] Putonghua
+HUMA 2050: Reading Material: [C] Require Chinese reading
+HUMA 2101: Previous Course Code(s): HUMA 3101
+HUMA 2104: Exclusion(s): SISP 1709
+HUMA 2240: Medium of Instruction: [PU] Putonghua
+HUMA 2240: Reading Material: [C] Require Chinese reading
+HUMA 2250: Medium of Instruction: [PU] Putonghua
+HUMA 2250: Reading Material: [C] Require Chinese reading
+HUMA 2260: Medium of Instruction: [PU] Putonghua
+HUMA 2260: Reading Material: [C] Require Chinese reading
+HUMA 2300: Medium of Instruction: [PU] Putonghua
+HUMA 2300: Reading Material: [C] Require Chinese reading
+HUMA 2310: Medium of Instruction: [EN] Taught in Eng/Chin subject to diff. offerings [PU] Putonghua
+HUMA 2310: Reading Material: [C] Require Chinese reading
+HUMA 2320: Medium of Instruction: [PU] Putonghua
+HUMA 2320: Reading Material: [C] Require Chinese reading
+HUMA 2400: Reading Material: [C] Require Chinese reading
+HUMA 2420: Reading Material: [C] Require Chinese reading
+HUMA 2430: Medium of Instruction: [CA] Cantonese
+HUMA 2430: Reading Material: [C] Require Chinese reading
+HUMA 2470: Reading Material: [C] Require Chinese reading
+HUMA 2588: Exclusion(s): HUMA 2589
+HUMA 2623: Medium of Instruction: [PU] Putonghua [CA] Cantonese
+HUMA 2632: Exclusion(s): MGCS 5031
+HUMA 2632: Medium of Instruction: [CA] Cantonese
+HUMA 2632: Reading Material: [C] Require Chinese reading
+HUMA 2635: Exclusion(s): MGCS 5032
+HUMA 2640: Exclusion(s): MGCS 5031
+HUMA 2640: Reading Material: [C] Require Chinese reading
+HUMA 2660: Medium of Instruction: [PU] Putonghua
+HUMA 2660: Reading Material: [C] Require Chinese reading
+HUMA 2830: Medium of Instruction: [PU] Putonghua
+HUMA 2830: Reading Material: [C] Require Chinese reading
+HUMA 2840: Medium of Instruction: [PU] Putonghua
+HUMA 2840: Reading Material: [C] Require Chinese reading
+HUMA 2921: Exclusion(s): HUMA 200N
+HUMA 3105: Previous Course Code(s): HUMA 2000C
+HUMA 3202: Medium of Instruction: [PU] Putonghua
+HUMA 3202: Reading Material: [C] Require Chinese reading
+HUMA 3202: Mode of Delivery: [BLD] Blended learning
+HUMA 3203: Medium of Instruction: [PU] Putonghua
+HUMA 3203: Reading Material: [C] Require Chinese reading
+HUMA 3204: Medium of Instruction: [PU] Putonghua
+HUMA 3204: Reading Material: [C] Require Chinese reading
+HUMA 3205: Reading Material: [C] Require Chinese reading
+HUMA 3210: Medium of Instruction: [PU] Putonghua
+HUMA 3210: Reading Material: [C] Require Chinese reading
+HUMA 3220: Medium of Instruction: [PU] Putonghua
+HUMA 3220: Reading Material: [C] Require Chinese reading
+HUMA 3430: Reading Material: [C] Require Chinese reading
+HUMA 3800: Medium of Instruction: [CA] Cantonese
+HUMA 3800: Reading Material: [C] Require Chinese reading
+HUMA 3810: Medium of Instruction: [PU] Putonghua
+HUMA 3810: Reading Material: [C] Require Chinese reading
+HUMA 4020: Prerequisite(s): HUMA 1010 OR HUMA 1440 OR HUMA 3030 OR HUMA 3200
+HUMA 4020: Medium of Instruction: [CA] Cantonese [PU] Putonghua
+HUMA 4020: Reading Material: [C] Require Chinese reading
+HUMA 4220: Prerequisite(s): HUMA 1440 OR HUMA 1660 OR HUMA 2660 OR HUMA 3030
+HUMA 4610: Prerequisite(s): HUMA 1620 OR HUMA 2590 OR SOSC 2290
+HUMA 4700: Prerequisite(s): HUMA 2420 OR HUMA 1440 OR HUMA 2830 OR SOSC 2290
+HUMA 4840: Medium of Instruction: [CA] Cantonese
+HUMA 4840: Reading Material: [C] Require Chinese reading
+OCES 1001: Mode of Delivery: [BLD] Blended learning
+OCES 2001: Previous Course Code(s): ENVS 2004
+OCES 2001: Prerequisite(s): OCES 1001
+OCES 2002: Prerequisite(s): CHEM 1030
+OCES 2003: Prerequisite(s): (PHYS 1111 OR PHYS 1112 OR PHYS 1312) AND (MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+OCES 2100: Previous Course Code(s): ENVS 2001
+OCES 2201: Previous Course Code(s): ENVS 2002
+OCES 3001: Previous Course Code(s): ENVS 3001
+OCES 3001: Prerequisite(s): OCES 2001 AND OCES 2002
+OCES 3002: Previous Course Code(s): ENVS 4012A
+OCES 3004: Prerequisite(s): OCES 2001 AND OCES 3001
+OCES 3201: Prerequisite(s): OCES 2001 AND (OCES 3160 OR LIFS 3160 (prior to 2021-22))
+OCES 3202: Prerequisite(s): OCES 2001 AND OCES 2002
+OCES 3203: Prerequisite(s): OCES 2003 AND {MATH 2350 OR [(MATH 2111 OR MATH 2121 OR MATH 2131) AND (MATH 2351 OR MATH 2352)]}
+OCES 3301: Prerequisite(s): (MATH 2411 OR LIFS 3150) AND (COMP 1021 OR COMP 1029P)
+OCES 3330: Corequisite(s): OCES 3130
+OCES 4001: Previous Course Code(s): ENVS 3004
+OCES 4001: Prerequisite(s): OCES 2001 AND OCES 2003
+OCES 4201: Previous Course Code(s): ENVS 3005
+OCES 4201: Prerequisite(s): LIFS 1030 (prior to 2021-22) OR LIFS 2060
+OCES 4202: Prerequisite(s): OCES 4201
+OCES 4203: Previous Course Code(s): ENVS 4001
+OCES 4203: Prerequisite(s): CHEM 1030 OR LIFS 1030 (prior to 2021-22)
+OCES 4204: Prerequisite(s): OCES 3003 AND OCES 3160
+OCES 4301: Previous Course Code(s): ENVS 4301
+OCES 4301: Prerequisite(s): LIFS 3160 (prior to 2021-22)
+OCES 4302: Prerequisite(s): OCES 3203 AND COMP 1021 AND MATH 2350
+OCES 4320: Prerequisite(s): OCES 2002
+OCES 4326: Alternate code(s): MATH 4326
+OCES 4326: Prerequisite(s): MATH 4052
+OCES 4326: Exclusion(s): CIVL 2510, MECH 2210
+OCES 4984: Prerequisite(s): OCES 4974
+CIVL 1120: Prerequisite(s): Level 3 or above in HKDSE 1/2x or 1x Physics OR a passing grade in HKCEE Physics
+CIVL 1120: Mode of Delivery: [EXP] Experiential learning
+CIVL 1150: Alternate code(s): ENVR 1150
+CIVL 1160: Exclusion(s): CIVL 1100
+CIVL 1170: Alternate code(s): ENVR 1170
+CIVL 2110: Prerequisite(s): PHYS 1112 OR PHYS 1312
+CIVL 2110: Corequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+CIVL 2120: Prerequisite(s): CIVL 2110
+CIVL 2120: Exclusion(s): MECH 2040
+CIVL 2160: Corequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+CIVL 2160: Exclusion(s): MATH 2411
+CIVL 2170: Prerequisite(s): MATH 2350
+CIVL 2170: Exclusion(s): IEDA 3010
+CIVL 2410: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CIVL 1100
+CIVL 2510: Prerequisite(s): MATH 2011
+CIVL 2510: Corequisite(s): CIVL 2110
+CIVL 2510: Exclusion(s): MECH 2210
+CIVL 2810: Corequisite(s): CIVL 2120
+CIVL 3020: Prerequisite(s): CIVL 2020
+CIVL 3310: Prerequisite(s): CIVL 2110 AND CIVL 2120
+CIVL 3310: Mode of Delivery: [BLD] Blended learning
+CIVL 3320: Prerequisite(s): CIVL 2810 AND CIVL 3310
+CIVL 3420: Prerequisite(s): CIVL 1140 OR CIVL 2410
+CIVL 3510: Prerequisite(s): CIVL 2510
+CIVL 3510: Corequisite(s): CIVL 2160
+CIVL 3610: Corequisite(s): CIVL 2170
+CIVL 3730: Prerequisite(s): CIVL 2120
+CIVL 3740: Prerequisite(s): CIVL 3730
+CIVL 4320: Prerequisite(s): CIVL 3310
+CIVL 4330: Prerequisite(s): CIVL 2120 AND MATH 2011 AND MATH 2350
+CIVL 4330: Exclusion(s): MECH 4750
+CIVL 4340: Prerequisite(s): CIVL 3320
+CIVL 4350: Prerequisite(s): CIVL 3320 and CIVL 4320
+CIVL 4370: Prerequisite(s): CIVL 3310
+CIVL 4380: Exclusion(s): CIVL 5370
+CIVL 4430: Prerequisite(s): CIVL 1140 or CIVL 2410
+CIVL 4430: Exclusion(s): CENG 4720
+CIVL 4440: Prerequisite(s): CIVL 2410 OR ENVR 2010
+CIVL 4450: Prerequisite(s): CIVL 2410 OR ENVR 3210
+CIVL 4460: Prerequisite(s): CIVL 3420
+CIVL 4470: Alternate code(s): ENVR 4470
+CIVL 4480: Previous Course Code(s): CIVL 4100E
+CIVL 4480: Alternate code(s): ENVR 4480
+CIVL 4480: Prerequisite(s): MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+CIVL 4520: Prerequisite(s): CIVL 2160
+CIVL 4560: Previous Course Code(s): CIVL 4100H
+CIVL 4610: Previous Course Code(s): CIVL 4100I
+CIVL 4610: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 2011 OR COMP 2012H
+CIVL 4610: Corequisite(s): CIVL 3610
+CIVL 4620: Prerequisite(s): CIVL 3610
+CIVL 4710: Corequisite(s): CIVL 3740
+CIVL 4760: Corequisite(s): CIVL 3740
+CIVL 4810: Prerequisite(s): CIVL 2810
+CIVL 4810: Exclusion(s): CIVL 5840
+CIVL 4910: Exclusion(s): CIVL 4920
+CIVL 4920: Exclusion(s): CIVL 4910
+CIVL 4950: Corequisite(s): LANG 4033
+ACCT 1010: Exclusion(s): ACCT 2010
+ACCT 1610: Exclusion(s): ACCT 3610
+ACCT 2010: Mode of Delivery: [BLD] Blended learning
+ACCT 2200: Prerequisite(s): (for non-BIBU students) ACCT 2010
+ACCT 3010: Prerequisite(s): ACCT 2010
+ACCT 3010: Exclusion(s): ACCT 3030
+ACCT 3010: Mode of Delivery: [BLD] Blended learning
+ACCT 3020: Prerequisite(s): ACCT 3010
+ACCT 3020: Exclusion(s): ACCT 3030
+ACCT 3030: Prerequisite(s): ACCT 2010
+ACCT 3030: Exclusion(s): ACCT 3010, ACCT 3020
+ACCT 3210: Prerequisite(s): ACCT 2200
+ACCT 4010: Prerequisite(s): ACCT 3020
+ACCT 4020: Prerequisite(s): ACCT 2010
+ACCT 4410: Corequisite(s): ACCT 3010 AND ACCT 3610
+ACCT 4510: Prerequisite(s): ACCT 3020
+ACCT 4610: Prerequisite(s): ACCT 3610
+ACCT 4710: Prerequisite(s): ACCT 2010 AND ISOM 2010
+ACCT 4720: Prerequisite(s): ACCT 2010 AND ISOM 3400
+COMP 1001: Exclusion(s): ISOM 2010, any COMP courses of 2000-level or above
+COMP 1001: Mode of Delivery: [BLD] Blended learning
+COMP 1021: Exclusion(s): COMP 1022P, COMP 1022Q (prior to 2020-21), COMP 2011, COMP 2012H
+COMP 1022P: Exclusion(s): COMP 1021, COMP 1022Q (prior to 2020-21), COMP 2011, COMP 2012H, ISOM 3320
+COMP 1022P: Mode of Delivery: [SPO] Self-paced online delivery [BLD] Blended learning
+COMP 1029A: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP1022Q
+COMP 1029C: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR ISOM 3230 OR ISOM 3320
+COMP 1029C: Exclusion(s): COMP 2011, COMP 2012H
+COMP 1029J: Prerequisite(s): COMP 1021 OR COMP 1022Q (prior to 2020-21) OR ISOM 3230
+COMP 1029J: Exclusion(s): COMP 1022P, COMP 3021, ISOM 3320
+COMP 1029P: Prerequisite(s): COMP 1022P OR COMP 1022Q (prior to 2020-21) OR ISOM 3230 OR ISOM 3320
+COMP 1029P: Exclusion(s): COMP 1021
+COMP 1029V: Prerequisite(s): COMP 1021 OR COMP 1022P OR ISOM 3320
+COMP 1029V: Exclusion(s): COMP 1022Q (prior to 2020-21), ISOM 3230
+COMP 1942: Exclusion(s): COMP 4331, ISOM 3360, RMBI 4310
+COMP 1943: Mode of Delivery: [EXP] Experiential learning
+COMP 1944: Previous Course Code(s): COMP 4901M
+COMP 2011: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR ISOM 3230
+COMP 2011: Exclusion(s): COMP 2012H
+COMP 2012: Prerequisite(s): COMP 2011
+COMP 2012: Exclusion(s): COMP 2012H
+COMP 2012H: Prerequisite(s): Grade A or above in COMP 1021 / COMP 1022P / COMP 1022Q (prior to 2020-21)
+LANG 1002: Exclusion(s): IELTS - Band 7 or above in overall and Band 6.5 or above in each part of the test or equivalent
+LANG 1003: Prerequisite(s): LANG 1002
+LANG 1003: Exclusion(s): IELTS - Band 7 or above in overall and Band 6.5 or above in each part of the test or equivalent
+LANG 1004: Mode of Delivery: [BLD] Blended learning
+LANG 1005: Prerequisite(s): Grade B+ or above in LANG 1003 OR Level 5 or above in HKDSE English Language
+LANG 1006: Medium of Instruction: [EN] Taught in Eng/Chin subject to diff. offerings [PU] Putonghua [CA] Cantonese
+LANG 1006: Mode of Delivery: [BLD] Blended learning
+LANG 1113: Prerequisite(s): Level 3 in HKDSE Chinese
+LANG 1113: Exclusion(s): Level 4 or above in HKDSE Chinese, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118, LANG 1120, LANG 1121, LANG 1122, LANG 1123, LANG 1124, LANG 1125, LANG 1126, LANG 1127
+LANG 1117: Prerequisite(s): Level 4 or above in HKDSE Chinese
+LANG 1117: Exclusion(s): LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1118, LANG 1120, LANG 1121, LANG 1122, LANG 1123, LANG 1124, LANG 1125, LANG 1126, LANG 1127
+LANG 1118: Exclusion(s): Level 3 in HKDSE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1120, LANG 1121, LANG 1122, LANG 1123, LANG 1124, LANG 1125, LANG 1126, LANG 1127
+LANG 1120: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1121: Prerequisite(s): LANG 1120
+LANG 1121: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1122: Prerequisite(s): LANG 1121
+LANG 1122: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1123: Prerequisite(s): LANG 1122
+LANG 1123: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1124: Prerequisite(s): LANG 1123
+LANG 1124: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1125: Prerequisite(s): LANG 1124
+LANG 1125: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1126: Prerequisite(s): LANG 1125
+LANG 1126: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 1127: Prerequisite(s): LANG 1126
+LANG 1127: Exclusion(s): HKDSE/HKALE/HKCEE/JEE Chinese, LANG 1113, LANG 1114 (prior to 2017-18), LANG 1115 (prior to 2017-18), LANG 1116 (prior to 2017-18), LANG 1117, LANG 1118
+LANG 2010: Prerequisite(s): LANG 1003
+LANG 2030: Prerequisite(s): LANG 1003
+LANG 2070: Prerequisite(s): LANG 1003
+LANG 2082: Prerequisite(s): LANG 1003
+LANG 2083: Prerequisite(s): LANG 2082
+LANG 3021: Prerequisite(s): LANG 2010 OR LANG 2030 (for DSCT students only)
+LANG 3022: Prerequisite(s): LANG 2010
+LANG 3023: Prerequisite(s): LANG 2010
+LANG 3024: Prerequisite(s): LANG 2010
+LANG 3025: Prerequisite(s): LANG 2010
+LANG 3026: Prerequisite(s): LANG 2010
+LANG 3027: Prerequisite(s): LANG 2010
+LANG 3070: Prerequisite(s): LANG 2070
+LANG 3081: Prerequisite(s): LANG 2083
+LANG 4030: Prerequisite(s): LANG 2030 OR LANG 2010 (for DSCT only)
+LANG 4030: Corequisite(s): (For COMP, CPEG and DSCT students) COMP 4910 OR COMP 4981 OR COMP 4981H OR CPEG 4901 OR CPEG 4902; (For COSC students) Nil
+LANG 4031: Prerequisite(s): LANG 2030
+LANG 4031: Corequisite(s): ELEC 4900 OR ELEC 4901 OR ELEC 4910 OR CPEG 4911 OR CPEG 4912
+LANG 4032: Prerequisite(s): LANG 2030
+LANG 4033: Prerequisite(s): LANG 2030
+LANG 4034: Prerequisite(s): LANG 2030
+LANG 4034: Corequisite(s): MECH 3690 OR MECH 3830
+LANG 4035: Prerequisite(s): LANG 2030
+LANG 4070: Corequisite(s): SHSS 4991 OR SHSS 4992
+IDPO 4110: Prerequisite(s): COMP 2011
+IDPO 4110: Exclusion(s): COMP 4211, MATH 4432
+ISOM 1500: Mode of Delivery: [BLD] Blended learning
+ISOM 2010: Exclusion(s): COMP 1001
+ISOM 2020: Exclusion(s): COMP 1021
+ISOM 2030: Mode of Delivery: [BLD] Blended learning
+ISOM 2040: Previous Course Code(s): ISOM 3100
+ISOM 2040: Mode of Delivery: [BLD] Blended learning
+ISOM 2500: Exclusion(s): CIVL 2160, IEDA 2520, IEDA 2540, LIFS 3150, MATH 2411, MATH 3423
+ISOM 2600: Prerequisite(s): ISOM 2500
+ISOM 2600: Corequisite(s): ISOM 2020
+ISOM 2700: Exclusion(s): IEDA 4100
+ISOM 2700: Mode of Delivery: [BLD] Blended learning
+ISOM 3010: Exclusion(s): ISOM 4750
+ISOM 3010: Mode of Delivery: [BLD] Blended learning
+ISOM 3180: Exclusion(s): COMP 4621
+ISOM 3210: Prerequisite(s): ISOM 2010
+ISOM 3210: Mode of Delivery: [BLD] Blended learning
+ISOM 3230: Prerequisite(s): (For non-BSc in Quantitative Finance students) ISOM 2010
+ISOM 3230: Exclusion(s): COMP 1022Q
+ISOM 3230: Mode of Delivery: [BLD] Blended learning
+ISOM 3260: Prerequisite(s): ISOM 3230 OR ISOM 3320 OR ISOM 3400
+ISOM 3260: Corequisite(s): ISOM 3210
+ISOM 3260: Exclusion(s): COMP 3311, COMP 4311, IEDA 3300
+ISOM 3260: Mode of Delivery: [BLD] Blended learning
+ISOM 3320: Exclusion(s): COMP 1022P, COMP 3021
+ISOM 3330: Previous Course Code(s): ISOM 3000F
+ISOM 3340: Previous Course Code(s): ISOM 3000C
+ISOM 3350: Prerequisite(s): ISOM 2010 AND ISOM 2500
+ISOM 3360: Prerequisite(s): ISOM 2010
+ISOM 3360: Exclusion(s): COMP 4331, IEDA 3560
+ISOM 3370: Prerequisite(s): (ISOM 3230 OR ISOM 3320 OR ISOM 3400) AND ISOM 3360
+ISOM 3380: Prerequisite(s): ISOM 3180
+ISOM 3380: Exclusion(s): ISOM 519
+ISOM 3390: Previous Course Code(s): ISOM 3000A
+ISOM 3390: Prerequisite(s): (ISOM 3230 OR ISOM 3320 OR ISOM 3400) AND ISOM 3360
+ISOM 3390: Exclusion(s): RMBI 3010
+ISOM 3400: Exclusion(s): COMP 1021
+ISOM 3530: Prerequisite(s): ISOM 2500 or MATH 2411
+ISOM 3530: Exclusion(s): MATH 3424
+ISOM 3540: Prerequisite(s): ISOM 2500 or MATH 2411
+ISOM 3540: Exclusion(s): MATH 2421, MATH 3425
+ISOM 3710: Exclusion(s): CIVL 2170, IEDA 3010, PHYS 4059
+ISOM 3730: Exclusion(s): IEDA 3270
+ISOM 3730: Mode of Delivery: [BLD] Blended learning
+ISOM 3760: Prerequisite(s): ISOM 2700
+ISOM 3760: Exclusion(s): IEDA 3450
+ISOM 3770: Previous Course Code(s): ISOM 4770
+ISOM 3770: Prerequisite(s): ISOM 2700 AND ISOM 3710
+ISOM 3770: Exclusion(s): IEDA 4410
+ISOM 3770: Mode of Delivery: [BLD] Blended learning
+ISOM 3900: Prerequisite(s): ISOM 2500 AND ISOM 2700
+ISOM 4010: Previous Course Code(s): ISOM 3000E
+ISOM 4100: Prerequisite(s): ACCT 2010 and ISOM 2010
+ISOM 4100: Exclusion(s): ISOM 4200
+ISOM 4200: Exclusion(s): ISOM 4100, ISOM 4300
+ISOM 4300: Prerequisite(s): ISOM 2010
+ISOM 4300: Exclusion(s): ISOM 4200
+ISOM 4400: Exclusion(s): ISOM 4380
+ISOM 4520: Prerequisite(s): ISOM 3540 (Note: Students who have sufficient background in probability but without pre-requisite may enroll in the course upon approval by the instructor)
+ISOM 4530: Prerequisite(s): IEDA 2510 OR ISOM 2500 OR MATH 2411
+ISOM 4540: Prerequisite(s): ISOM 2500 or MATH 2411
+ISOM 4540: Exclusion(s): ECON 4304, MATH 4425
+ISOM 4720: Prerequisite(s): ISOM 2500 OR MATH 2411 OR MATH 2421 OR MATH 2431
+ISOM 4720: Exclusion(s): IEDA 4130
+ISOM 4740: Prerequisite(s): ISOM 2700
+ISOM 4740: Mode of Delivery: [BLD] Blended learning
+ISOM 4750: Prerequisite(s): ISOM 2700
+ISOM 4780: Prerequisite(s): ISOM 2700
+ISOM 4780: Exclusion(s): ISOM 2040
+ISOM 4810: Prerequisite(s): ISOM 2700
+ISOM 4820: Prerequisite(s): ISOM 2700 AND ISOM 3710
+ISOM 4830: Prerequisite(s): ISOM 2700 AND ISOM 3710
+ISOM 4840: Alternate code(s): RMBI 4110
+ISOM 4840: Prerequisite(s): (ISOM 2500 OR MATH 2411) AND ISOM 2700
+MARK 3220: Prerequisite(s): MARK 2120
+MARK 3410: Prerequisite(s): MARK 2120
+MARK 3420: Prerequisite(s): MARK 2120
+MARK 3430: Prerequisite(s): MARK 2120
+MARK 3430: Mode of Delivery: [BLD] Blended learning
+MARK 3460: Prerequisite(s): MARK 2120
+MARK 3470: Prerequisite(s): MARK 2120
+MARK 3470: Exclusion(s): ISOM 3740
+MARK 3480: Prerequisite(s): MARK 2120
+MARK 3510: Prerequisite(s): MARK 2120
+MARK 3520: Prerequisite(s): MARK 2120
+MARK 3520: Corequisite(s): MARK 3220 AND MARK 3420
+MARK 3520: Mode of Delivery: [BLD] Blended learning
+MARK 3610: Prerequisite(s): MARK 2120
+MARK 4210: Prerequisite(s): MARK 2120, MARK 3220 and MARK 3420
+MARK 4290: Prerequisite(s): MARK 2120
+MARK 4450: Prerequisite(s): MARK 2120
+DASC 2110: Prerequisite(s): COMP 1021
+DASC 2110: Exclusion(s): COMP 2012, COMP 2012H
+UROP 2100: Prerequisite(s): UROP 1100
+UROP 3100: Prerequisite(s): UROP 2100
+UROP 4100: Prerequisite(s): UROP 3100
+BIPH 3010: Alternate code(s): BIEN 3020
+BIPH 3010: Prerequisite(s): PHYS 2010 AND (LIFS 2010 OR LIFS 2040) AND (PHYS 1114 OR PHYS 1314)
+BIPH 4010: Prerequisite(s): BIPH 3010
+LIFS 1010: Exclusion(s): LIFS 1901, LIFS 1902, Level 3 or above in HKDSE 1/2x Biology OR in HKDSE 1x Biology, a passing grade in HKCEE Biology OR HKAL Biology
+LIFS 1020: Exclusion(s): Level 3 or above in HKDSE 1/2x Biology or in HKDSE 1x Biology, a passing grade in HKAL Biology, LIFS 1901, LIFS 1902, LIFS 4760
+LIFS 1901: Exclusion(s): Level 3 or above in HKDSE 1x Biology, a passing grade in AL/AS Biology
+LIFS 1902: Prerequisite(s): LIFS 1901 OR level 3 or above in HKDSE 1x Biology OR a passing grade in AL/AS Biology
+LIFS 1902: Mode of Delivery: [BLD] Blended learning
+LIFS 1903: Corequisite(s): LIFS 1901
+LIFS 1903: Exclusion(s): Level 3 or above in HKDSE 1x Biology, a passing grade in AL/AS Biology
+LIFS 1904: Prerequisite(s): LIFS 1901 OR level 3 or above in HKDSE 1x Biology OR a passing grade in AL/AS Biology
+LIFS 1904: Corequisite(s): LIFS 1902
+LIFS 1930: Mode of Delivery: [BLD] Blended learning
+LIFS 2010: Prerequisite(s): LIFS 1902
+LIFS 2011: Exclusion(s): OCES 2011
+LIFS 2070: Prerequisite(s): LIFS 1902
+LIFS 2080: Prerequisite(s): LIFS 2040 OR LIFS 2210
+LIFS 2210: Prerequisite(s): LIFS 1901 OR LIFS 1902
+LIFS 2210: Mode of Delivery: [BLD] Blended learning
+LIFS 2220: Prerequisite(s): LIFS 1902
+LIFS 2240: Prerequisite(s): LIFS 1902
+LIFS 2280: Corequisite(s): LIFS 2080
+LIFS 2720: Corequisite(s): LIFS 2820
+LIFS 2820: Corequisite(s): LIFS 2720
+LIFS 3002: Prerequisite(s): LIFS 2040
+LIFS 3010: Prerequisite(s): LIFS 2210 and LIFS 2220
+LIFS 3020: Prerequisite(s): LIFS 2040 AND LIFS 2210 AND LIFS 2220
+LIFS 3040: Prerequisite(s): LIFS 2040
+LIFS 3060: Corequisite(s): LIFS 2040 OR LIFS 2060
+LIFS 3070: Prerequisite(s): LIFS 2040
+LIFS 3110: Prerequisite(s): LIFS 2040 AND LIFS 2210
+LIFS 3140: Prerequisite(s): LIFS 2040 OR LIFS 2210
+LIFS 3150: Exclusion(s): IEDA 2510, ISOM 2500, MATH 2411
+LIFS 3220: Prerequisite(s): LIFS 2040
+LIFS 3220: Corequisite(s): LIFS 3040
+LIFS 3240: Prerequisite(s): LIFS 2040
+LIFS 3260: Corequisite(s): LIFS 3060
+LIFS 3370: Previous Course Code(s): LIFS 3002A
+LIFS 3370: Prerequisite(s): LIFS 3110
+LIFS 3370: Mode of Delivery: [EXP] Experiential learning
+LIFS 3510: Prerequisite(s): LIFS 2040 and LIFS 2240
+LIFS 3520: Prerequisite(s): LIFS 3510 OR SCIE 3500
+LIFS 3580: Previous Course Code(s): LIFS 4580
+LIFS 3580: Prerequisite(s): LIFS 3140
+LIFS 4060: Prerequisite(s): (LIFS 2040 OR 2210) AND LIFS 3140
+LIFS 4090: Prerequisite(s): LIFS 2040
+LIFS 4140: Prerequisite(s): LIFS 3020 OR LIFS 3140
+LIFS 4150: Prerequisite(s): LIFS 2040
+LIFS 4190: Prerequisite(s): LIFS 3020
+LIFS 4200: Prerequisite(s): CENG 1600 OR LIFS 2040
+LIFS 4320: Previous Course Code(s): LIFS 3320
+LIFS 4320: Co-list with: BIEN 3320
+LIFS 4320: Prerequisite(s): (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR COMP 2011) AND (ISOM 2500 OR LIFS 3150 OR MATH 2411) AND (LIFS 3140)
+LIFS 4360: Prerequisite(s): LIFS 2040 OR LIFS 2060
+LIFS 4370: Prerequisite(s): LIFS 2210 OR LIFS 3140
+LIFS 4380: Prerequisite(s): LIFS 2040
+LIFS 4540: Prerequisite(s): LIFS 2210
+LIFS 4620: Prerequisite(s): LIFS 2040 OR LIFS 2210
+LIFS 4630: Prerequisite(s): LIFS 2040
+LIFS 4760: Prerequisite(s): LIFS 1901 OR LIFS 1902 OR LIFS 2040 OR LIFS 2210
+LIFS 4800: Prerequisite(s): LIFS 2210
+LIFS 4950: Prerequisite(s): LIFS 2040
+LIFS 4972: Exclusion(s): LIFS 4971, LIFS 4970, CHEM 4680
+LIFS 4973: Prerequisite(s): LIFS 3110
+LIFS 4980: Prerequisite(s): LIFS 4970
+LIFS 4981: Prerequisite(s): LIFS 4971 OR SCIE 4500
+LIFS 4982: Prerequisite(s): LIFS 4972
+LIFS 4982: Exclusion(s): CHEM 4688, LIFS 4980, LIFS 4981
+LIFS 4983: Prerequisite(s): LIFS 4973 OR SCIE 4500
+WBBA 2020: Prerequisite(s): WBBA 2010
+WBBA 2080: Exclusion(s): WBBA 2010, WBBA 2020
+WBBA 4010: Prerequisite(s): WBBA 2010 AND WBBA 2020
+IIMP 4990: Prerequisite(s): IIMP 4980
+ELEC 1020: Exclusion(s): ELEC 3170
+ELEC 1020: Background: Basic computer operation such as using Powerpoint. Students without any computer knowledge are recommended to take COMP 1001 first.
+ELEC 1030: Previous Course Code(s): ELEC 1095A
+ELEC 1200: Corequisite(s): (COMP 1021 OR COMP 1022P) AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)
+ELEC 1200: Mode of Delivery: [SPO] Self-paced online delivery [BLD] Blended learning
+ELEC 2100: Prerequisite(s): MATH 2011 OR MATH 2023 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352
+ELEC 2100: Exclusion(s): ELEC 2100H
+ELEC 2100: Mode of Delivery: [BLD] Blended learning
+ELEC 2100H: Prerequisite(s): (ELEC 1100 OR ELEC 1200 OR ELEC 2400 OR ELEC 2410 (prior 2016-17)) AND Grade A- or above in (MATH 2011 OR MATH 2023 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352)
+ELEC 2100H: Exclusion(s): ELEC 2100
+ELEC 2100H: Mode of Delivery: [BLD] Blended learning
+ELEC 2200: Prerequisite(s): ELEC 1100 OR ELEC 1200
+ELEC 2300: Corequisite(s): ELEC 2200
+ELEC 2300: Exclusion(s): COMP 2611
+ELEC 2350: Prerequisite(s): ELEC 1100
+ELEC 2350: Exclusion(s): COMP 2611, ELEC 2300, ISDN 4000F
+ELEC 2400: Prerequisite(s): ELEC 1100 AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)
+ELEC 2400: Corequisite(s): PHYS 1114 OR PHYS 1314
+ELEC 2400: Exclusion(s): ELEC 2420
+ELEC 2420: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+ELEC 2420: Corequisite(s): PHYS 1111 OR PHYS 1112 OR PHYS 1312
+ELEC 2420: Exclusion(s): ELEC 2400
+ELEC 2600: Prerequisite(s): A passing grade in AL Pure Mathematics OR MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024
+ELEC 2600: Corequisite(s): MATH 2011 OR MATH 2023
+ELEC 2600: Exclusion(s): ELEC 2600H, MATH 2421
+ELEC 2600H: Prerequisite(s): Grade A- or above in MATH 1014 OR MATH 1020 OR MATH 1024
+ELEC 2600H: Corequisite(s): MATH 2011 OR MATH 2023
+ELEC 2600H: Exclusion(s): ELEC 2600, MATH 2421
+ELEC 2991: Previous Course Code(s): ELEC 1991
+ELEC 3100: Prerequisite(s): (ELEC 2100 OR ELEC 2100H) AND (ELEC 2600 OR ELEC 2600H)
+ELEC 3120: Previous Course Code(s): ELEC 4120
+ELEC 3120: Prerequisite(s): COMP 1021 OR COMP 1022P
+ELEC 3120: Exclusion(s): COMP 4621
+ELEC 3170: Previous Course Code(s): ELEC 4170
+ELEC 3170: Prerequisite(s): (COMP 1021 OR COMP 1022P) AND (ELEC 2100 OR ELEC 2100H)
+ELEC 3170: Exclusion(s): COMP 4431
+ELEC 3180: Alternate code(s): IEDA 3180
+ELEC 3180: Prerequisite(s): (IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR ELEC 2600) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+ELEC 3200: Prerequisite(s): (ELEC 2100 OR ELEC 2100H) AND [MATH 2350 OR (MATH 2111 AND MATH 2351)]
+ELEC 3200: Exclusion(s): CENG 3110, MECH 3610
+ELEC 3210: Previous Course Code(s): ELEC 4010K
+ELEC 3210: Prerequisite(s): [(ELEC 2600 OR ELEC 2600H) AND MATH 2111] OR ELEC 3200
+ELEC 3300: Prerequisite(s): COMP 2611 OR ELEC 2300 OR ELEC 2350 OR ISDN 4000F
+ELEC 3310: Prerequisite(s): ELEC 1100
+ELEC 3310: Exclusion(s): ELEC 2200, ISDN 4000D
+ELEC 3400: Prerequisite(s): ELEC 2400
+ELEC 3450: Previous Course Code(s): ELEC 2500
+ELEC 3450: Prerequisite(s): ELEC 1100 OR PHYS 1114 OR PHYS 1314
+ELEC 3500: Prerequisite(s): (Level 3 or above in HKDSE 1/2x or 1x Chemistry OR a passing grade in HKCEE Chemistry OR CHEM 1001 OR CHEM 1004) AND ELEC 2400
+ELEC 3500: Mode of Delivery: [SPO] Self-paced online delivery [BLD] Blended learning
+ELEC 3600: Prerequisite(s): (MATH 2011 OR MATH 2023) AND MATH 2351 AND PHYS 1114
+ELEC 4110: Prerequisite(s): ELEC 2100 OR ELEC 2100H
+ELEC 4130: Prerequisite(s): MATH 2111
+ELEC 4130: Corequisite(s): ELEC 3100 OR ELEC 3200
+ELEC 4130: Exclusion(s): COMP 4421, MATH 4336
+ELEC 4150: Prerequisite(s): ELEC 2100
+ELEC 4210: Previous Course Code(s): ELEC 4010G
+ELEC 4210: Prerequisite(s): ELEC 3200 OR MECH 3610
+ELEC 4220: Prerequisite(s): ELEC 3200
+ELEC 4230: Previous Course Code(s): ELEC 4010I
+ELEC 4230: Prerequisite(s): (COMP 2012 OR COMP 2012H) AND (ELEC 2600 OR ELEC 2600H)
+ELEC 4230: Exclusion(s): COMP 4901I
+ELEC 4240: Alternate code(s): COMP 4471
+ELEC 4240: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (MATH 2111 OR MATH 2121 OR MATH 2350)
+ELEC 4250: Previous Course Code(s): ELEC 4010M
+ELEC 4250: Prerequisite(s): ELEC 3200 OR CENG 3110 OR MECH 3610
+ELEC 4250: Exclusion(s): MECH 4000J
+ELEC 4310: Prerequisite(s): [COMP 2611 AND (ELEC 2200 OR ELEC 3310)] OR ELEC 2300 OR ELEC 2350 OR ISDN 4000F
+ELEC 4320: Prerequisite(s): ELEC 2300 OR ELEC 2350 OR ISDN 4000F
+ELEC 4330: Prerequisite(s): ELEC 2300 OR ELEC 2350 OR ISDN 4000F
+ELEC 4330: Corequisite(s): ELEC 3300
+ELEC 4410: Prerequisite(s): ELEC 2200 OR ELEC 3310 OR ISDN 4000D
+ELEC 4420: Prerequisite(s): ELEC 3400
+ELEC 4430: Prerequisite(s): ELEC 3400
+ELEC 4510: Prerequisite(s): ELEC 3500
+ELEC 4520: Prerequisite(s): ELEC 3500
+ELEC 4530: Prerequisite(s): ELEC 3500
+ELEC 4610: Prerequisite(s): ELEC 2400
+ELEC 4610: Exclusion(s): PHYS 3038
+ELEC 4620: Prerequisite(s): ELEC 3600
+ELEC 4810: Prerequisite(s): ELEC 2400 OR ELEC 2420
+ELEC 4820: Prerequisite(s): ELEC 2100 AND MATH 2011 AND MATH 2111
+ELEC 4820: Mode of Delivery: [BLD] Blended learning
+ELEC 4830: Previous Course Code(s): ELEC 4010J
+ELEC 4830: Alternate code(s): BIEN 4310
+ELEC 4830: Prerequisite(s): (BIEN 3320 OR MATH 2111) AND (ELEC 2600 OR ISOM 2500 OR LIFS 3150 OR MATH 2411)
+ELEC 4910: Exclusion(s): ELEC 4900, ELEC 4901
+MATH 1003: Exclusion(s): Level 5* or above in HKDSE Mathematics Extended Module M1 or M2; grade B or above in HKCEE Additional Mathematics, a passing grade in AS Mathematics and Statistics, AL/AS Applied Mathematics, or in AL Pure Mathematics; MATH 1012; MATH 1013; MATH 1014; MATH 1018 (prior to 2013-14); MATH 1020; MATH 1023; MATH 1024
+MATH 1012: Co-list with: MATH 1013
+MATH 1012: Exclusion(s): Level 3 or above in HKDSE Mathematics Extended Module M1 or M2; AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1013, MATH 1014, MATH 1020, MATH 1023, MATH 1024
+MATH 1013: Co-list with: MATH 1012
+MATH 1013: Prerequisite(s): Level 3 or above in HKDSE Mathematics Extended Module M1/M2
+MATH 1013: Exclusion(s): AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1012, MATH 1014, MATH 1020, MATH 1023, MATH 1024
+MATH 1014: Prerequisite(s): MATH 1012 OR MATH 1013 OR MATH 1023
+MATH 1014: Exclusion(s): AL Pure Mathematics; AL Applied Mathematics; MATH 1020, MATH 1024
+MATH 1020: Prerequisite(s): Level 5* or 5** in HKDSE Mathematics Extended Module M2
+MATH 1020: Exclusion(s): A passing grade in AL Applied Mathematics / AL Pure Mathematics; MATH 1013, MATH 1014, MATH 1023, MATH 1024
+MATH 1023: Prerequisite(s): Level 5 or above in HKDSE Mathematics Extended Module M2
+MATH 1023: Exclusion(s): AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1012, MATH 1013, MATH 1014, MATH 1020
+MATH 1024: Prerequisite(s): MATH 1012 OR MATH 1013 OR MATH 1023
+MATH 1024: Exclusion(s): AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1014, MATH 1020
+MATH 2011: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014; OR MATH 1020; OR MATH 1024
+MATH 2011: Exclusion(s): MATH 2023
+MATH 2023: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2023: Exclusion(s): MATH 2011
+MATH 2033: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2033: Exclusion(s): MATH 2043
+MATH 2043: Prerequisite(s): Grade A in AL Pure Mathematics; or grade A- or above in MATH 1014/MATH 1020/MATH 1024
+MATH 2043: Exclusion(s): MATH 2033
+MATH 2111: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2111: Exclusion(s): MATH 2121, MATH 2131, MATH 2350
+MATH 2121: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2121: Exclusion(s): MATH 2111, MATH 2131, MATH 2350
+MATH 2131: Prerequisite(s): Grade A in AL Pure Mathematics; or grade A- or above in MATH 1014/MATH 1020/MATH 1024
+MATH 2131: Exclusion(s): MATH 2111, MATH 2121, MATH 2350
+MATH 2343: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; or MATH 1014; or MATH 1020; or MATH 1024
+MATH 2343: Exclusion(s): COMP 2711, COMP 2711H
+MATH 2350: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2350: Exclusion(s): MATH 2111, MATH 2121, MATH 2131, MATH 2351, MATH 2352, PHYS 2124
+MATH 2351: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2351: Exclusion(s): MATH 2350, MATH 2352, PHYS 2124
+MATH 2352: Prerequisite(s): MATH 2111 OR MATH 2121 OR MATH 2131
+MATH 2352: Exclusion(s): MATH 2350, MATH 2351, PHYS 2124
+MATH 2411: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2411: Exclusion(s): IEDA 2510, IEDA 2540, ISOM 2500, LIFS 3150
+MATH 2421: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2421: Corequisite(s): MATH 2011 OR MATH 2023
+MATH 2421: Exclusion(s): IEDA 2510, IEDA 2520, MATH 2431, ELEC 2600, ELEC 2600H, ISOM 3540
+MATH 2431: Prerequisite(s): (Grade A- or above in MATH 1014) OR MATH 1020 OR MATH 1024
+MATH 2431: Corequisite(s): MATH 2011 OR MATH 2023
+MATH 2431: Exclusion(s): ELEC 2600, ELEC 2600H, ISOM 3540, MATH 2421
+MATH 2511: Prerequisite(s): MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2731: Prerequisite(s): A passing grade in AL Pure Mathematics/AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 2741: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024 OR AL Applied Mathematics / AL Pure Mathematics
+MATH 2741: Mode of Delivery: [BLD] Blended learning
+MATH 3033: Prerequisite(s): (MATH 2011 / MATH 2023) AND (MATH 2033 / MATH 2043) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350)
+MATH 3033: Exclusion(s): MATH 3043
+MATH 3043: Prerequisite(s): Grade A- or above in MATH 2043
+MATH 3043: Exclusion(s): MATH 3033
+MATH 3121: Prerequisite(s): MATH 2111/MATH 2121/MATH 2131/MATH 2350
+MATH 3121: Exclusion(s): MATH 3131
+MATH 3131: Prerequisite(s): Grade B- or above in MATH 2131
+MATH 3312: Prerequisite(s): (COMP 1021 / COMP 1022P / COMP 1022Q (prior to 2020-21)) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350) AND (MATH 2031 / MATH 2033 / MATH 2043)
+MATH 3312: Exclusion(s): MECH 4740, PHYS 3142
+MATH 3322: Prerequisite(s): MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350
+MATH 3332: Prerequisite(s): (MATH 2011 OR MATH 2023) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+MATH 3343: Prerequisite(s): MATH 2121/MATH 2111/MATH 2350/MATH 2131 OR MATH 2343/COMP 2711
+MATH 3423: Prerequisite(s): MATH 2421 OR MATH 2431
+MATH 3424: Prerequisite(s): MATH 3423
+MATH 3424: Exclusion(s): ISOM 5520
+MATH 3425: Prerequisite(s): MATH 2421 OR MATH 2431
+MATH 3426: Prerequisite(s): MATH 2411
+MATH 3427: Prerequisite(s): MATH 2421 OR MATH 2431 OR ELEC 2600 OR ELEC 2600H OR ISOM 3540
+MATH 4023: Prerequisite(s): (MATH 2011 OR MATH 2023 OR MATH 3043) AND (MATH 2033 OR MATH 2043)
+MATH 4033: Prerequisite(s): Grade A- or above in MATH 2023 AND B- or above in MATH 2131
+MATH 4051: Prerequisite(s): (MATH 2350 OR MATH 2351 OR MATH 2352) AND (MATH 3033 OR MATH 3043)
+MATH 4052: Prerequisite(s): MATH 2011/MATH 2023/MATH 3043 and MATH 2111/MATH 2121/MATH 2131/MATH 2350 and MATH 2350/MATH 2351/MATH 2352
+MATH 4061: Prerequisite(s): MATH 3043 or MATH 3033
+MATH 4063: Prerequisite(s): MATH 4061
+MATH 4141: Prerequisite(s): MATH 2131
+MATH 4141: Corequisite(s): (for students without prerequisites) MATH 3121
+MATH 4151: Prerequisite(s): (MATH 2011 OR MATH 2023 OR MATH 3043) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+MATH 4221: Prerequisite(s): MATH 2033 OR MATH 2043 OR MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350
+MATH 4223: Prerequisite(s): MATH 2011/MATH 2023/MATH 3043 and MATH 2121/MATH 2131
+MATH 4225: Prerequisite(s): MATH 2033/MATH 2043
+MATH 4321: Prerequisite(s): (MATH 2011 OR MATH 2023 OR MATH 3043) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+MATH 4321: Exclusion(s): ECON 4124
+MATH 4326: Alternate code(s): OCES 4326
+MATH 4326: Prerequisite(s): MATH 4052
+MATH 4326: Exclusion(s): CIVL 2510, MECH 2210
+MATH 4333: Prerequisite(s): MATH 2121/MATH 2111/MATH 2131 and MATH 2351/MATH 2352; or MATH 2350
+MATH 4335: Prerequisite(s): (MATH 2011 OR MATH 2023) AND (MATH 2111 OR MATH 2121 OR MATH 2131)
+MATH 4336: Prerequisite(s): MATH 2011/MATH 2023 and [MATH 2350 or (MATH 2111/MATH 2121/MATH 2131 and MATH 2351/MATH 2352)]
+MATH 4336: Exclusion(s): COMP 4421, ELEC 4130
+MATH 4343: Previous Course Code(s): MATH 4821B
+MATH 4343: Prerequisite(s): MATH 2343
+MATH 4351: Prerequisite(s): (MATH 2350 OR MATH 2351 OR MATH 2352) AND MATH 3312 AND MATH 4052
+MATH 4423: Prerequisite(s): MATH 2411
+MATH 4424: Prerequisite(s): MATH 3423 and MATH 3424
+MATH 4424: Exclusion(s): ISOM 5530
+MATH 4425: Prerequisite(s): MATH 3423 and MATH 3424
+MATH 4426: Prerequisite(s): MATH 3423
+MATH 4427: Prerequisite(s): (ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431) AND (MATH 2011 OR MATH 2023) AND MATH 2511
+MATH 4428: Prerequisite(s): MATH 3423 OR MATH 4427
+MATH 4432: Prerequisite(s): (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21)) AND (IEDA 2510 OR (IEDA 2520 AND IEDA 2540) OR ISOM 2500 OR LIFS 3150 OR MATH 2411 OR MATH 2421 OR MATH 2431)
+MATH 4511: Prerequisite(s): (MATH 2011 / MATH 2023) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350) AND (IEDA 2510 / IEDA 2520 AND IEDA 2540 / ISOM 2500 / LIFS 3150 / MATH 2411) AND (FINA 2203 / FINA 2303)
+MATH 4512: Prerequisite(s): (MATH 2011 / MATH 2023) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350) AND (IEDA 2540 / ISOM 2500 / LIFS 3150 / MATH 2411) AND (MATH 2511 / FINA 2203 / FINA 2303)
+MATH 4513: Alternate code(s): RMBI 4220
+MATH 4513: Prerequisite(s): ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431
+MATH 4514: Prerequisite(s): (MATH 2421 OR MATH 2431) AND MATH 2511
+MATH 4514: Exclusion(s): FINA 3203
+MATH 4632: Previous Course Code(s): MATH 4824B
+MATH 4632: Alternate code(s): COMP 4222
+MATH 4632: Prerequisite(s): (COMP 2011/2012/2012H) AND (COMP 2711/2711H OR MATH 2343) AND (MATH 2111/2121/2131)
+MATH 4632: Exclusion(s): COMP 4222
+MATH 4921: Prerequisite(s): A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR MATH 1024
+MATH 4990: Prerequisite(s): MATH 4982
+MATH 4991: Prerequisite(s): MATH 3121 OR MATH 3131
+MATH 4991: Exclusion(s): MATH 4992, MATH 4993, MATH 4994, MATH 4999
+MATH 4992: Prerequisite(s): MATH 3312
+MATH 4992: Exclusion(s): MATH 4991, MATH 4993, MATH 4994, MATH 4999
+MATH 4993: Prerequisite(s): MATH 3424
+MATH 4993: Exclusion(s): MATH 4991, MATH 4992, MATH 4994, MATH 4999
+MATH 4994: Exclusion(s): MATH 4991, MATH 4992, MATH 4993, MATH 4999
+MATH 4995: Prerequisite(s): MATH 3322 AND MATH 3332
+MATH 4999: Exclusion(s): MATH 4991, MATH 4992, MATH 4993, MATH 4994
+IEDA 1010: Previous Course Code(s): IELM 1010
+IEDA 1020: Previous Course Code(s): IELM 1020
+IEDA 1990: Previous Course Code(s): IELM 1990
+IEDA 1990: Exclusion(s): IEDA 1991
+IEDA 1991: Previous Course Code(s): IELM 1991
+IEDA 1991: Exclusion(s): IEDA 1990
+IEDA 2010: Previous Course Code(s): IELM 2010
+IEDA 2010: Exclusion(s): IEDA 2200
+IEDA 2150: Previous Course Code(s): IELM 2150
+IEDA 2200: Previous Course Code(s): IELM 2200
+IEDA 2200: Exclusion(s): IEDA 2010
+IEDA 2410: Previous Course Code(s): IELM 2410
+IEDA 2510: Previous Course Code(s): IELM 2510
+IEDA 2510: Prerequisite(s): MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024
+IEDA 2510: Exclusion(s): ISOM 2500, LIFS 3150, MATH 2411, MATH 2421
+IEDA 2510: Mode of Delivery: [BLD] Blended learning
+IEDA 2520: Previous Course Code(s): IELM 2520
+IEDA 2520: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+IEDA 2520: Exclusion(s): IEDA 2510, ELEC 2600, ELEC 2600H, MATH 2421, MATH 2431
+IEDA 2540: Previous Course Code(s): IELM 2540
+IEDA 2540: Prerequisite(s): IEDA 2520
+IEDA 2540: Exclusion(s): IEDA 2510, MATH 2411, ISOM 2500, LIFS 3150
+IEDA 3010: Previous Course Code(s): IELM 3010
+IEDA 3010: Corequisite(s): MATH 2111
+IEDA 3010: Exclusion(s): CIVL 2170, ISOM 3710, PHYS 4059
+IEDA 3130: Previous Course Code(s): IELM 3130
+IEDA 3130: Prerequisite(s): IEDA 2510 OR (IEDA 2520 AND IEDA 2540)
+IEDA 3150: Previous Course Code(s): IELM 3150
+IEDA 3180: Alternate code(s): ELEC 3180
+IEDA 3180: Prerequisite(s): (IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR ELEC 2600) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)
+IEDA 3230: Previous Course Code(s): IELM 3230
+IEDA 3250: Previous Course Code(s): IELM 3250
+IEDA 3250: Prerequisite(s): IEDA 2510 OR (IEDA 2520 AND IEDA 2540) OR (MATH 2411 AND MATH 2421)
+IEDA 3270: Previous Course Code(s): IELM 3270
+IEDA 3270: Prerequisite(s): IEDA 2510 OR (IEDA 2520 AND IEDA 2540) OR MATH 2411
+IEDA 3270: Exclusion(s): ISOM 3730
+IEDA 3270: Mode of Delivery: [BLD] Blended learning
+IEDA 3300: Previous Course Code(s): IELM 3300
+IEDA 3300: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21)
+IEDA 3300: Exclusion(s): COMP 3311, ISOM 3260
+IEDA 3302: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21)
+IEDA 3330: Previous Course Code(s): IELM 3330
+IEDA 3330: Prerequisite(s): CIVL 2160 OR ELEC 2600 OR IEDA 2510 OR (IEDA 2520 AND IEDA 2540) OR ISOM 2500 OR MATH 2411 OR MATH 2421 OR MATH 2431
+IEDA 3330: Exclusion(s): FINA 3203, FINA 4303
+IEDA 3410: Previous Course Code(s): IELM 3410
+IEDA 3410: Prerequisite(s): IEDA 3010
+IEDA 3460: Prerequisite(s): IEDA 2540
+IEDA 3560: Previous Course Code(s): IELM 3560
+IEDA 3560: Prerequisite(s): IEDA 2540
+IEDA 3560: Exclusion(s): COMP 4211
+IEDA 3901: Previous Course Code(s): IELM 3901
+IEDA 3901: Corequisite(s): IEDA 2410
+IEDA 3901: Exclusion(s): CIVL 3610
+IEDA 4000: Previous Course Code(s): IELM 4000
+IEDA 4100: Previous Course Code(s): IELM 4100
+IEDA 4100: Prerequisite(s): [IEDA 2510 OR (IEDA 2520 AND IEDA 2540)] AND IEDA 3010
+IEDA 4100: Exclusion(s): ISOM 2700
+IEDA 4130: Previous Course Code(s): IELM 4130
+IEDA 4130: Prerequisite(s): IEDA 2510 OR (IEDA 2520 AND IEDA 2540)
+IEDA 4130: Exclusion(s): ISOM 4720
+IEDA 4180: Previous Course Code(s): IELM 4180
+IEDA 4180: Prerequisite(s): IEDA 2520 AND IEDA 2540
+IEDA 4200: Previous Course Code(s): IELM 4200
+IEDA 4200: Prerequisite(s): IEDA 3010
+IEDA 4331: Previous Course Code(s): IELM 4331
+IEDA 4331: Prerequisite(s): (FINA 3203 OR IEDA 3330) AND (IEDA 3250 OR ISOM 2500)
+IEDA 4410: Previous Course Code(s): IELM 4410
+IEDA 4410: Prerequisite(s): IEDA 4100
+IEDA 4410: Exclusion(s): EEMT 5300, ISOM 3770
+IEDA 4420: Prerequisite(s): IEDA 3010 AND IEDA 3250
+IEDA 4420: Exclusion(s): ISOM 4820
+IEDA 4500: Prerequisite(s): IEDA 3330 OR FINA 3203
+IEDA 4510: Prerequisite(s): IEDA 3010 AND IEDA 3250
+IEDA 4520: Prerequisite(s): (IEDA 3250 OR ISOM 2500) AND (IEDA 3330 OR FINA 3203)
+IEDA 4650: Previous Course Code(s): IELM 4650
+IEDA 4900: Previous Course Code(s): IELM 4900
+IEDA 4920: Exclusion(s): IEDA 4901, IEDA 4960
+IEDA 4930: Previous Course Code(s): IELM 4930
+IEDA 4950: Previous Course Code(s): IELM 4950
+IEDA 4960: Exclusion(s): IEDA 4901, IEDA 4920, IEDA 4930, IEDA 4990
+IEDA 4990: Previous Course Code(s): IELM 4990
+SISP 1702: Reading Material: [C] Require Chinese reading
+PPOL 2110: Mode of Delivery: [BLD] Blended learning
+ENEG 3110: Alternate code(s): MECH 3110
+ENEG 3220: Previous Course Code(s): CENG 4000L
+ENEG 3910: Prerequisite(s): (CENG 2210 OR MECH 2310) AND (CENG 2220 OR MECH 2210)
+ENEG 4210: Prerequisite(s): CENG 2210 OR MECH 2310
+ENEG 4320: Previous Course Code(s): CENG 4000H
+ENEG 4320: Prerequisite(s): CENG 2210 OR CHEM 2410
+ENEG 4320: Exclusion(s): CBME 5830, CENG 5930
+PHYS 1001: Exclusion(s): Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above
+PHYS 1002: Prerequisite(s): Level 3 or above in HKDSE 1/2x OR in HKDSE 1x Physics
+PHYS 1002: Exclusion(s): PHYS 1006
+PHYS 1003: Prerequisite(s): Level 3 or above in HKDSE 1/2x OR in HKDSE 1x Physics
+PHYS 1005: Prerequisite(s): Level 3 or above in HKDSE 1/2x Physics OR HKDSE 1x Physics
+PHYS 1005: Exclusion(s): SISP 1111
+PHYS 1006: Exclusion(s): Level 3 or above in HKDSE 1/2x Physics OR HKDSE 1x Physics, a passing grade in AL/AS Physics, PHYS 1001, PHYS 1002
+PHYS 1007: Prerequisite(s): Level 3 or above in HKDSE Mathematics Extended Module M2
+PHYS 1007: Exclusion(s): PHYS 4812
+PHYS 1111: Prerequisite(s): Level 3 or above in HKDSE 1/2x OR HKDSE 1x Physics
+PHYS 1111: Exclusion(s): Level 3 or above in HKDSE Mathematics Extended Module M1/M2, PHYS 1112, PHYS 1312
+PHYS 1112: Prerequisite(s): (Level 3 or above in HKDSE 1/2x OR in HKDSE 1x Physics) AND Level 3 or above in HKDSE Mathematics Extended Module M1/M2
+PHYS 1112: Exclusion(s): PHYS 1111, PHYS 1312
+PHYS 1113: Corequisite(s): PHYS 1111 OR PHYS 1112 OR PHYS 1312
+PHYS 1114: Prerequisite(s): (PHYS 1111 OR PHYS 1112 OR PHYS 1312) AND (level 3 or above in HKDSE Mathematics Extended Module M1/M2 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+PHYS 1114: Exclusion(s): PHYS 1314
+PHYS 1115: Corequisite(s): PHYS 1114 OR PHYS 1314
+PHYS 1312: Prerequisite(s): (Level 5* or above in HKDSE 1/2x Physics OR in HKDSE 1x Physics) AND (Level 5 or above in HKDSE Mathematics Extended Module M1/M2)
+PHYS 1312: Exclusion(s): PHYS 1111, PHYS 1112
+PHYS 1314: Prerequisite(s): (Grade A- or above in PHYS 1111 OR PHYS 1112 OR Grade B- or above in PHYS 1312) AND (Level 5 or above in HKDSE Mathematics Extended Module M1/M2 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+PHYS 1314: Exclusion(s): PHYS 1114
+PHYS 2010: Previous Course Code(s): BIPH 2010
+PHYS 2010: Prerequisite(s): (LIFS 1901 OR level 3 or above in HKDSE 1xBiology) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+PHYS 2022: Prerequisite(s): PHYS 1114 OR PHYS 1314
+PHYS 2022: Mode of Delivery: [BLD] Blended learning
+PHYS 2023: Corequisite(s): PHYS 2022
+PHYS 2090: Prerequisite(s): CGA at 2.70 or above
+PHYS 2124: Prerequisite(s): MATH 2023 AND (MATH 2121 OR MATH 2131)
+PHYS 2124: Exclusion(s): MATH 2350, MATH 2351, MATH 2352
+PHYS 3031: Prerequisite(s): MATH 2023 AND MATH 2121 AND (MATH 2352 OR PHYS 2124)
+PHYS 3032: Prerequisite(s): PHYS 1111 OR PHYS 1112 OR PHYS 1312
+PHYS 3033: Co-list with: PHYS 3053
+PHYS 3033: Prerequisite(s): PHYS 1114 OR PHYS 1314
+PHYS 3033: Exclusion(s): PHYS 3053
+PHYS 3034: Prerequisite(s): PHYS 3033 OR PHYS 3053
+PHYS 3036: Co-list with: PHYS 3037
+PHYS 3036: Prerequisite(s): PHYS 2022
+PHYS 3036: Exclusion(s): PHYS 3037
+PHYS 3037: Co-list with: PHYS 3036
+PHYS 3037: Prerequisite(s): Grade B- or above in PHYS 2022
+PHYS 3037: Exclusion(s): PHYS 3036
+PHYS 3038: Exclusion(s): ELEC 4610
+PHYS 3041: Corequisite(s): PHYS 3040
+PHYS 3042: Prerequisite(s): PHYS 2022
+PHYS 3053: Co-list with: PHYS 3033
+PHYS 3053: Prerequisite(s): Grade B- or above PHYS 1114 OR PHYS 1314
+PHYS 3053: Exclusion(s): PHYS 3033
+PHYS 3060: Prerequisite(s): PHYS 3152 OR PHYS 3153
+PHYS 3071: Prerequisite(s): PHYS 2022
+PHYS 3090: Prerequisite(s): CGA at 2.70 or above
+PHYS 3142: Prerequisite(s): (COMP 1021 OR COMP 1029P) AND (MATH 2352 OR PHYS 2124)
+PHYS 3142: Exclusion(s): MATH 3312
+PHYS 3152: Prerequisite(s): (PHYS 1114 OR PHYS 1314) AND PHYS 2023
+PHYS 3153: Prerequisite(s): (PHYS 1114 OR PHYS 1314) AND PHYS 2023
+PHYS 4050: Prerequisite(s): PHYS 2022
+PHYS 4051: Prerequisite(s): PHYS 3031/MATH 4052, AND PHYS 3036/PHYS 3037
+PHYS 4052: Prerequisite(s): PHYS 3036 OR PHYS 3037
+PHYS 4055: Prerequisite(s): PHYS 3036 OR PHYS 3037
+PHYS 4055: Mode of Delivery: [BLD] Blended learning
+PHYS 4058: Prerequisite(s): PHYS 3031 OR PHYS 4050
+PHYS 4059: Exclusion(s): IEDA 3010, ISOM 3710
+PHYS 4060: Prerequisite(s): MATH 3312 OR PHYS 3142
+PHYS 4060: Corequisite(s): PHYS 3031
+PHYS 4071: Prerequisite(s): PHYS 2022 AND (PHYS 2124 OR MATH 2351 OR MATH 2352)
+PHYS 4090: Prerequisite(s): CGA at 2.70 or above
+PHYS 4151: Prerequisite(s): PHYS 1113 AND PHYS 1115
+PHYS 4191: Prerequisite(s): PHYS 3152 AND PHYS 3153
+PHYS 4191: Exclusion(s): PHYS 4291
+PHYS 4291: Prerequisite(s): PHYS 3152 AND PHYS 3153
+PHYS 4291: Exclusion(s): PHYS 4191
+PHYS 4811: Prerequisite(s): PHYS 2022 AND (PHYS 3142 OR MATH 3312) AND MATH 2023
+PHYS 4812: Prerequisite(s): PHYS 3036 OR PHYS 3037 OR CHEM 3420
+PHYS 4813: Prerequisite(s): PHYS 3032
+PHYS 4813: Corequisite(s): PHYS 4050
+CHEM 1004: Exclusion(s): Level 3 or above in HKDSE 1/2x Chemistry OR HKDSE 1x Chemistry, a passing grade in AL/AS Chemistry, CHEM 1010, CHEM 1020, CHEM 1030, any CHEM courses at or above 2000-level
+CHEM 1010: Prerequisite(s): Level 3 or above in HKDSE 1/2x Chemistry OR CHEM 1004
+CHEM 1010: Exclusion(s): Level 3 or above in HKDSE 1x Chemistry, CHEM 1008, CHEM 1020
+CHEM 1020: Prerequisite(s): Level 3 or above in HKDSE 1x Chemistry
+CHEM 1020: Exclusion(s): CHEM 1010
+CHEM 1030: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 1050: Prerequisite(s): Level 3 or above in HKDSE 1/2x OR level 3 or above in HKDSE 1x Chemistry OR CHEM 1004
+CHEM 1050: Corequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 1055: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 1055: Corequisite(s): CHEM 1030
+CHEM 2110: Prerequisite(s): CHEM 1030
+CHEM 2110: Exclusion(s): CHEM 2111
+CHEM 2111: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 2111: Exclusion(s): CHEM 2110
+CHEM 2150: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 2150: Corequisite(s): CHEM 2110 OR CHEM 2111
+CHEM 2155: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 2155: Corequisite(s): CHEM 2110 OR CHEM 2111
+CHEM 2155: Exclusion(s): CHEM 2150, CHEM 2550
+CHEM 2210: Prerequisite(s): CHEM 1030
+CHEM 2250: Prerequisite(s): CHEM 1030
+CHEM 2250: Corequisite(s): CHEM 2210
+CHEM 2310: Prerequisite(s): CHEM 1030
+CHEM 2310: Exclusion(s): CHEM 2311
+CHEM 2311: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CHEM 2311: Exclusion(s): CHEM 2310
+CHEM 2350: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 2350: Corequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 2355: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 2355: Corequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 2355: Exclusion(s): CHEM 2350, CHEM 2555
+CHEM 2409: Prerequisite(s): MATH 1012 OR MATH 1013 OR MATH 1023
+CHEM 2410: Prerequisite(s): CHEM 1030 AND (CHEM 2409 OR MATH 2351)
+CHEM 2450: Prerequisite(s): CHEM 1030 AND (CHEM 2409 OR MATH 2351)
+CHEM 2450: Corequisite(s): CHEM 2410
+CHEM 2550: Prerequisite(s): CHEM 1050
+CHEM 2550: Corequisite(s): CHEM 2110 AND CHEM 2210
+CHEM 2550: Exclusion(s): CHEM 2155
+CHEM 2555: Prerequisite(s): CHEM 1050 AND (CHEM 2409 OR MATH 2351)
+CHEM 2555: Corequisite(s): CHEM 2310 AND CHEM 2410
+CHEM 2555: Exclusion(s): CHEM 2355
+CHEM 3010: Prerequisite(s): Any CHEM course at or above 1000-level
+CHEM 3010: Mode of Delivery: [BLD] Blended learning
+CHEM 3020: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CHEM 1050
+CHEM 3020: Mode of Delivery: [EXP] Experiential learning
+CHEM 3120: Prerequisite(s): CHEM 2110
+CHEM 3220: Prerequisite(s): CHEM 2210
+CHEM 3320: Prerequisite(s): CHEM 2310
+CHEM 3420: Prerequisite(s): CHEM 2410
+CHEM 3550: Prerequisite(s): CHEM 2550
+CHEM 3550: Corequisite(s): CHEM 3120 AND CHEM 3220
+CHEM 3555: Prerequisite(s): CHEM 2555
+CHEM 3555: Corequisite(s): CHEM 3320 AND CHEM 3420
+CHEM 3610: Prerequisite(s): CHEM 3550 OR CHEM 3555
+CHEM 4110: Prerequisite(s): CHEM 3120
+CHEM 4120: Prerequisite(s): CHEM 3120
+CHEM 4130: Prerequisite(s): CHEM 3120
+CHEM 4140: Prerequisite(s): CHEM 3120
+CHEM 4150: Prerequisite(s): CHEM 3550
+CHEM 4150: Corequisite(s): CHEM 4155
+CHEM 4155: Prerequisite(s): CHEM 3555
+CHEM 4155: Corequisite(s): CHEM 4150
+CHEM 4160: Prerequisite(s): CHEM 2110 AND (CHEM 2409 OR MATH 2351)
+CHEM 4210: Prerequisite(s): CHEM 3220
+CHEM 4220: Prerequisite(s): CHEM 3220
+CHEM 4220: Exclusion(s): CHEM 5540, NANO 5100
+CHEM 4230: Prerequisite(s): CHEM 2310 AND CHEM 2410
+CHEM 4240: Prerequisite(s): CHEM 3220
+CHEM 4250: Prerequisite(s): CHEM 3550
+CHEM 4250: Corequisite(s): CHEM 4255
+CHEM 4255: Prerequisite(s): CHEM 3555
+CHEM 4255: Corequisite(s): CHEM 4250
+CHEM 4310: Prerequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 4320: Prerequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 4330: Prerequisite(s): CHEM 2310 or CHEM 2311
+CHEM 4340: Prerequisite(s): CHEM 2310 OR CHEM 2311
+CHEM 4350: Prerequisite(s): (CHEM 2310 OR CHEM 2311) AND (CHEM 2350 OR CHEM 2355)
+CHEM 4350: Corequisite(s): CHEM 4355
+CHEM 4355: Prerequisite(s): (CHEM 2310 OR CHEM 2311) AND (CHEM 2350 OR CHEM 2355)
+CHEM 4355: Corequisite(s): CHEM 4350
+CHEM 4410: Prerequisite(s): CHEM 3420
+CHEM 4420: Prerequisite(s): CHEM 2409 AND CHEM 2410
+CHEM 4420: Exclusion(s): COMP 4211, MATH 4432
+CHEM 4430: Prerequisite(s): CHEM 2110 AND CHEM 2210 AND CHEM 2410
+CHEM 4550: Prerequisite(s): CHEM 3550
+CHEM 4550: Corequisite(s): CHEM 4555
+CHEM 4555: Prerequisite(s): CHEM 3555
+CHEM 4555: Corequisite(s): CHEM 4550
+CHEM 4620: Prerequisite(s): CHEM 3220
+CHEM 4640: Prerequisite(s): (for Science students) CHEM 2110 AND CHEM 2410; (for Engineering students) CHEM 2111
+CHEM 4680: Prerequisite(s): CHEM 2150 AND CHEM 2250
+CHEM 4688: Prerequisite(s): CHEM 4680
+CHEM 4689: Prerequisite(s): CHEM 3550 AND CHEM 3555
+CHEM 4689: Exclusion(s): CHEM 4691
+CHEM 4691: Prerequisite(s): CHEM 3550 AND CHEM 3555
+CHEM 4691: Exclusion(s): CHEM 4689
+CHEM 4692: Prerequisite(s): CHEM 4691
+RMBI 1020: Mode of Delivery: [BLD] Blended learning
+RMBI 3010: Previous Course Code(s): RMBI 3000B
+RMBI 3010: Prerequisite(s): RMBI 3110
+RMBI 3010: Exclusion(s): RMBI 4000E, ISOM 3390
+RMBI 3020: Previous Course Code(s): RMBI 3000A
+RMBI 3110: Prerequisite(s): ISOM 2500 or MATH 2411
+RMBI 4110: Alternate code(s): ISOM 4840
+RMBI 4110: Prerequisite(s): (ISOM 2500 OR MATH 2411) AND ISOM 2700
+RMBI 4210: Prerequisite(s): ISOM 3540 OR MATH 2421 OR MATH 2431
+RMBI 4220: Alternate code(s): MATH 4513
+RMBI 4220: Prerequisite(s): ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431
+RMBI 4310: Co-list with: COMP 4332
+RMBI 4310: Prerequisite(s): COMP 4331 or ISOM 3360
+RMBI 4980: Prerequisite(s): COMP 4331 OR ISOM 3360
+RMBI 4990: Prerequisite(s): RMBI 4980
+MGMT 2130: Prerequisite(s): (for non-BIBU students) MGMT 2010
+MGMT 3110: Prerequisite(s): MGMT 2110
+MGMT 3120: Prerequisite(s): MGMT 2110
+MGMT 3130: Prerequisite(s): MGMT 2110
+MGMT 3160: Prerequisite(s): MGMT 1110 OR MGMT 2110
+MGMT 3160: Exclusion(s): ENVR 3310
+MGMT 4000: Prerequisite(s): MGMT 2110
+MGMT 4210: Prerequisite(s): MGMT 2110
+MGMT 4240: Exclusion(s): MGMT 5480
+MGMT 4250: Prerequisite(s): MGMT 1110 or MGMT 2110
+MGMT 4270: Prerequisite(s): MGMT 3110
+MGMT 4280: Previous Course Code(s): MGMT 4000D
+MGMT 4300: Previous Course Code(s): MGMT 4000E
+MGMT 4300: Prerequisite(s): MGMT 2110
+MGMT 4300: Mode of Delivery: [EXP] Experiential learning
+CPEG 4901: Previous Course Code(s): COMP 4988
+CPEG 4902: Previous Course Code(s): COMP 4989
+CPEG 4910: Exclusion(s): CPEG 4901, CPEG 4902, CPEG 4911, CPEG 4912
+CPEG 4911: Previous Course Code(s): ELEC 4918
+CPEG 4912: Previous Course Code(s): ELEC 4919
+ENVS 2003: Prerequisite(s): MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+ENVS 4905: Prerequisite(s): LIFS 3130 (prior to 2021-22)
+ENVS 4984: Prerequisite(s): ENVS 4974
+GNED 2510: Remarks: [ND] Non-designated GEE
+GNED 2710: Remarks: [ND] Non-designated GEE
+MECH 2020: Prerequisite(s): (MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+MECH 2020: Exclusion(s): CIVL 2110
+MECH 2040: Prerequisite(s): MECH 2020
+MECH 2040: Exclusion(s): CIVL 2120
+MECH 2210: Prerequisite(s): (MATH 2011 OR MATH 2023) AND MECH 2310
+MECH 2210: Exclusion(s): CENG 2220, CIVL 2510, MATH 4326
+MECH 2310: Prerequisite(s): MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+MECH 2410: Exclusion(s): PHYS 3040
+MECH 3020: Prerequisite(s): MECH 2040
+MECH 3030: Prerequisite(s): MECH 2020
+MECH 3110: Previous Course Code(s): MECH 4000E
+MECH 3110: Alternate code(s): ENEG 3110
+MECH 3300: Prerequisite(s): MECH 2310
+MECH 3310: Prerequisite(s): MECH 2210 AND MECH 2310
+MECH 3400: Previous Course Code(s): MECH 4000G
+MECH 3400: Prerequisite(s): MECH 2040 AND MECH 2410
+MECH 3420: Prerequisite(s): MECH 2410
+MECH 3520: Prerequisite(s): MECH 2520
+MECH 3610: Exclusion(s): ELEC 3200
+MECH 3620: Prerequisite(s): MECH 1907 AND MECH 3640 AND MECH 3650
+MECH 3620: Corequisite(s): MECH 3660 AND MECH 3670
+MECH 3640: Prerequisite(s): CENG 2220 OR CIVL 2510 OR MECH 1907 OR MECH 2210
+MECH 3650: Prerequisite(s): CIVL 2120 OR MECH 1907 OR MECH 2040
+MECH 3660: Prerequisite(s): (MATH 2111 OR MATH 2350 OR MATH 2351) AND MECH 3640
+MECH 3670: Prerequisite(s): CENG 2220 OR CIVL 2510 OR MECH 1907 OR MECH 2020 OR MECH 2210
+MECH 3680: Prerequisite(s): ELEC 2420 AND (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR COMP 2011)
+MECH 3690: Corequisite(s): LANG 4034 AND (MECH 3640 OR MECH 3650 OR MECH 3660 OR MECH 3670 OR MECH 3680)
+MECH 3710: Prerequisite(s): MECH 2410
+MECH 3830: Corequisite(s): LANG 4034
+MECH 3830: Mode of Delivery: [BLD] Blended learning
+MECH 3907: Prerequisite(s): MECH 2520
+MECH 3907: Mode of Delivery: [EXP] Experiential learning
+MECH 4010: Prerequisite(s): MECH 2410
+MECH 4100: Previous Course Code(s): MECH 4000C
+MECH 4100: Prerequisite(s): MECH 1907 OR (MECH 2020 AND MECH 2310)
+MECH 4340: Prerequisite(s): MECH 3310
+MECH 4350: Prerequisite(s): MECH 2310
+MECH 4350: Exclusion(s): IBTM 5430, JEVE 5350
+MECH 4360: Prerequisite(s): MECH 2310 and MECH 3610
+MECH 4430: Prerequisite(s): MECH 2410
+MECH 4450: Prerequisite(s): MECH 2040
+MECH 4710: Prerequisite(s): MECH 2020
+MECH 4720: Prerequisite(s): MECH 2520
+MECH 4740: Prerequisite(s): (MATH 1014 OR MATH 1020 OR MATH 1024) AND (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21))
+MECH 4740: Exclusion(s): MATH 3312
+MECH 4750: Prerequisite(s): MECH 2020 AND MECH 2040
+MECH 4750: Exclusion(s): CIVL 4330
+MECH 4810: Prerequisite(s): MECH 3680
+MECH 4860: Prerequisite(s): MECH 3640 AND MECH 3650
+MECH 4870: Prerequisite(s): MECH 2210 OR MECH 3640
+MECH 4890: Previous Course Code(s): MECH 4000I
+MECH 4890: Prerequisite(s): MATH 2011 AND (MATH 2111 OR MATH 2350 OR MATH 2351) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+MECH 4890: Mode of Delivery: [EXP] Experiential learning
+MECH 4900: Exclusion(s): MECH 4950
+MECH 4902: Previous Course Code(s): MECH 4000N
+MECH 4980: Exclusion(s): MECH 4950
+HART 1013: Exclusion(s): HART 1042
+HART 1013: Medium of Instruction: [CA] Cantonese
+HART 1013: Reading Material: [C] Require Chinese reading
+HART 1014: Medium of Instruction: [CA] Cantonese
+HART 1014: Reading Material: [C] Require Chinese reading
+HART 1018: Medium of Instruction: [PU] Putonghua
+HART 1018: Reading Material: [C] Require Chinese reading
+HART 1022: Medium of Instruction: [CA] Cantonese [EN] Taught in Eng/Chin subject to diff. offerings
+HART 1022: Reading Material: [C] Require Chinese reading
+HART 1024: Medium of Instruction: [CA] Cantonese
+HART 1024: Reading Material: [C] Require Chinese reading
+HART 1030: Exclusion(s): HART 1042
+HART 1030: Medium of Instruction: [CA] Cantonese
+HART 1030: Reading Material: [C] Require Chinese reading
+HART 1036: Exclusion(s): ISDN 3200
+HART 1042: Exclusion(s): HART 1013, HART 1030, Level 2 or above in HKDSE Chinese, Score 100 or above in JEE Chinese
+HART 1047: Medium of Instruction: [CA] Cantonese
+HART 1047: Reading Material: [C] Require Chinese reading
+SHSS 1010: Co-list with: SOSC 1210
+SHSS 1030: Exclusion(s): GNED 2510
+SHSS 4991: Corequisite(s): LANG 4070
+SHSS 4991: Exclusion(s): SHSS 4992
+SHSS 4992: Exclusion(s): SHSS 4991, SHSS 4993
+SHSS 4993: Prerequisite(s): SHSS 4991
+SHSS 4993: Exclusion(s): SHSS 4992
+ENVR 1150: Alternate code(s): CIVL 1150
+ENVR 1170: Alternate code(s): CIVL 1170
+ENVR 2030: Exclusion(s): CENG 2010, CENG 2110
+ENVR 2050: Previous Course Code(s): ENVR 3010G
+ENVR 2050: Mode of Delivery: [EXP] Experiential learning [BLD] Blended learning
+ENVR 2070: Mode of Delivery: [EXP] Experiential learning [BLD] Blended learning
+ENVR 2310: Alternate code(s): ECON 2310, SOSC 2310
+ENVR 3001: Prerequisite(s): ENVR 2001
+ENVR 3002: Prerequisite(s): (CIVL 1140 OR ENVR 2010 OR LIFS 1030 (prior to 2121-22) OR PHYS 1003) AND (MATH 1003 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+ENVR 3002: Exclusion(s): ENVS 2003
+ENVR 3003: Mode of Delivery: [BLD] Blended learning
+ENVR 3004: Previous Course Code(s): ENVR 2040, ENVR 2002B
+ENVR 3110: Prerequisite(s): CIVL 1170 OR ENVR 1170
+ENVR 3210: Prerequisite(s): ENVR 2010 AND ENVR 2030
+ENVR 3210: Exclusion(s): CIVL 2410
+ENVR 3310: Exclusion(s): MGMT 3160
+ENVR 3410: Prerequisite(s): ECON 2103 OR ECON 2113 OR ECON 3113
+ENVR 4001: Prerequisite(s): ENVR 2001 and ENVR 3001
+ENVR 4330: Exclusion(s): ENVR 5330, EVSM 5240
+ENVR 4470: Alternate code(s): CIVL 4470
+ENVR 4480: Previous Course Code(s): ENVR 4000O
+ENVR 4480: Alternate code(s): CIVL 4480
+ENVR 4480: Prerequisite(s): MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+ENVR 4990: Prerequisite(s): ENVR 4980
+SOSC 1100: Mode of Delivery: [BLD] Blended learning
+SOSC 1130: Exclusion(s): MGCS 5023
+SOSC 1210: Co-list with: SHSS 1010
+SOSC 1400: Previous Course Code(s): SOSC 2300
+SOSC 1440: Exclusion(s): ECON 2103, ECON 2113, ECON 2123, ECON 3113, ECON 3133
+SOSC 1450: Mode of Delivery: [SPO] Self-paced online delivery
+SOSC 1470: Previous Course Code(s): SOSC 1000D
+SOSC 1510: Previous Course Code(s): SOSC 1000E
+SOSC 1661: Exclusion(s): SOSC 1662
+SOSC 1662: Exclusion(s): SOSC 1661
+SOSC 1662: Mode of Delivery: [SPO] Self-paced online delivery
+SOSC 1860: Mode of Delivery: [BLD] Blended learning
+SOSC 2140: Mode of Delivery: [BLD] Blended learning
+SOSC 2210: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 2240: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 2310: Alternate code(s): ECON 2310, ENVR 2310
+SOSC 2330: Previous Course Code(s): SOSC 2000D
+SOSC 2330: Mode of Delivery: [BLD] Blended learning
+SOSC 2400: Prerequisite(s): SOSC 1100
+SOSC 2640: Reading Material: [C] Require Chinese reading
+SOSC 2888: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 2980: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 2990: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3001: Previous Course Code(s): SHSS 3001
+SOSC 3001: Exclusion(s): MGCS 5001
+SOSC 3001: Reading Material: [C] Require Chinese reading
+SOSC 3001: Mode of Delivery: [BLD] Blended learning
+SOSC 3120: Exclusion(s): ECON 4434
+SOSC 3130: Medium of Instruction: [CA] Cantonese
+SOSC 3130: Reading Material: [C] Require Chinese reading
+SOSC 3260: Previous Course Code(s): SOSC 3000H
+SOSC 3540: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3550: Previous Course Code(s): SOSC 2960
+SOSC 3550: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3700: Prerequisite(s): SOSC 2400
+SOSC 3720: Previous Course Code(s): SOSC 3000G
+SOSC 3888: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3900: Previous Course Code(s): SOSC 2970
+SOSC 3900: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 3990: Prerequisite(s): SOSC 1960 OR SOSC 1980
+SOSC 4100: Prerequisite(s): SOSC 3700
+SOSC 4260: Background: SOSC 1440, ECON 2123, ECON 3024 or similar course
+SOSC 4270: Prerequisite(s): SOSC 1350 or SOSC 1850
+SOSC 4280: Prerequisite(s): HUMA 2590 OR SOSC 1350 OR SOSC 2290
+SOSC 4290: Prerequisite(s): ENVR 3110 OR SOSC 1170 (prior to 2017-18) OR SOSC 3150 (prior to 2017-18)
+SOSC 4300: Prerequisite(s): MATH 2411 OR MATH 2421 OR SOSC 2400
+SOSC 4320: Prerequisite(s): SOSC 3260 OR ENVR 1050 OR ENVR 1170 OR ENVR 3010I OR OCES 2100 OR SUST 1000
+SOSC 4330: Prerequisite(s): SOSC 2400
+SOSC 4600: Prerequisite(s): SOSC 1300 or SOSC 1350
+GBUS 2030: Previous Course Code(s): GBUS 4000B
+ISDN 1006: Corequisite(s): ISDN 1002
+ISDN 1006: Mode of Delivery: [EXP] Experiential learning
+ISDN 2000: Previous Course Code(s): ISDN 1000
+ISDN 2001: Prerequisite(s): ISDN 1002
+ISDN 2001: Corequisite(s): ISDN 1004 AND ISDN 1006 AND ISDN 2300
+ISDN 2002: Prerequisite(s): ISDN 2001
+ISDN 2002: Corequisite(s): ISDN 2400
+ISDN 2400: Prerequisite(s): ISDN 2300
+ISDN 3350: Previous Course Code(s): ISDN 4350, ENTR 4000A
+ISDN 3350: Alternate code(s): ENTR 3350
+ISDN 3360: Alternate code(s): ENTR 3360
+ISDN 4002: Prerequisite(s): ISDN 4001
+ISDN 4300: Exclusion(s): IEDA 3150
+ISDN 4320: Previous Course Code(s): IEDA 4320, IELM 4320
+ISDN 4320: Mode of Delivery: [EXP] Experiential learning
+ENGG 1100: Previous Course Code(s): ENGG 2990I
+ENGG 1100: Exclusion(s): ENGG 1200
+ENGG 1100: Mode of Delivery: [BLD] Blended learning
+ENGG 1300: Mode of Delivery: [EXP] Experiential learning
+ENGG 1501: Co-list with: ENGG 1502
+ENGG 1501: Exclusion(s): COMP 1021, COMP 1022P, COMP 1022Q (prior to 2020-21)
+ENGG 1502: Co-list with: ENGG 1501
+ENGG 1502: Exclusion(s): COMP 1021, COMP 1022P, COMP 1022Q (prior to 2020-21)
+ENGG 4901: Corequisite(s): ENGG 4902
+ENGG 4902: Corequisite(s): ENGG 4901
+ENGG 4903: Corequisite(s): ENGG 4904
+ENGG 4904: Corequisite(s): ENGG 4903
+ENGG 4930: Previous Course Code(s): ENGG 4950T
+ENGG 4930: Mode of Delivery: [EXP] Experiential learning
+BIEN 1010: Previous Course Code(s): BIEN 2010
+BIEN 2310: Co-list with: CENG 2310
+BIEN 2310: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+BIEN 2310: Mode of Delivery: [BLD] Blended learning
+BIEN 2410: Prerequisite(s): LIFS 1901 OR Level 3 or above in HKDSE 1x Biology
+BIEN 2410: Exclusion(s): LIFS 3040
+BIEN 2610: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND (LIFS 1901 OR (Level 3 or above in HKDSE 1x Biology))
+BIEN 3010: Background: BIEN 1010 OR CENG 1600
+BIEN 3020: Alternate code(s): BIPH 3010
+BIEN 3020: Prerequisite(s): (LIFS 2010 OR LIFS 2040) AND (PHYS 1114 OR PHYS 1314) AND PHYS 2010
+BIEN 3240: Prerequisite(s): BIEN 2310 AND (MATH 1014 OR MATH 1020 OR MATH 1024)
+BIEN 3240: Exclusion(s): CENG 3220
+BIEN 3300: Alternate code(s): CENG 3300
+BIEN 3300: Prerequisite(s): BIEN 2310 OR CENG 2310
+BIEN 3300: Exclusion(s): LIFS 3150, MATH 2411
+BIEN 3320: Co-list with: LIFS 4320
+BIEN 3320: Prerequisite(s): {COMP 1021 OR [(COMP 1022P OR COMP 1022Q (prior to 2020-21) OR COMP 2011) AND COMP 1029P]} AND BIEN 2310 AND BIEN 2610 AND MATH 2411
+BIEN 3410: Prerequisite(s): BIEN 2410
+BIEN 3410: Exclusion(s): ELEC 4810
+BIEN 3910: Prerequisite(s): BIEN 2410 AND BIEN 2610
+BIEN 3910: Corequisite(s): BIEN 3410
+BIEN 4310: Previous Course Code(s): BIEN 4000A
+BIEN 4310: Alternate code(s): ELEC 4830
+BIEN 4310: Prerequisite(s): (BIEN 3320 OR MATH 2111) AND (ELEC 2600 OR ISOM 2500 OR LIFS 3150 OR MATH 2411)
+BIEN 4920: Prerequisite(s): BIEN 3910
+BIEN 4920: Exclusion(s): BIEN 4930, BIEN 4940
+BIEN 4930: Prerequisite(s): BIEN 3910 AND (CENG 4980 OR UROP 2100)
+BIEN 4930: Exclusion(s): BIEN 4920, BIEN 4940
+BIEN 4940: Prerequisite(s): BIEN 3910
+BIEN 4940: Exclusion(s): BIEN 4920, BIEN 4930
+BIEN 4990: Prerequisite(s): BIEN 2990
+LABU 2040: Prerequisite(s): LANG 1003
+LABU 2040: Exclusion(s): LABU 2050 (prior to 2017-18), LABU 2051, LABU 2052
+LABU 2051: Prerequisite(s): LANG 1003
+LABU 2051: Exclusion(s): LABU 2050 (prior to 2017-18)
+LABU 2052: Prerequisite(s): LABU 2051
+LABU 2052: Exclusion(s): LABU 2050 (prior to 2017-18)
+LABU 2060: Prerequisite(s): LANG 1003
+LABU 2060: Exclusion(s): LABU 2020 (prior to 2019-20)
+ENTR 1001: Mode of Delivery: [EXP] Experiential learning
+ENTR 3030: Previous Course Code(s): ENTR 4100
+ENTR 3350: Alternate code(s): ISDN 3350
+ENTR 3360: Previous Course Code(s): ENTR 4000B
+ENTR 3360: Alternate code(s): ISDN 3360
+ENTR 4901-4904: Mode of Delivery: [EXP] Experiential learning
+ENTR 4911: Alternate code(s): COMP 4911
+ENTR 4911: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q OR COMP 2011 OR COMP 2012H
+HUMA 1000: Mode of Delivery: [BLD] Blended learning
+HUMA 1001: Medium of Instruction: [CA] Cantonese [EN] Taught in Eng/Chin subject to diff. offerings [PU] Putonghua
+HUMA 1001: Reading Material: [C] Require Chinese reading
+HUMA 1020: Exclusion(s): HUMA 099H
+HUMA 1020: Reading Material: [C] Require Chinese reading
+HUMA 1030: Reading Material: [C] Require Chinese reading
+HUMA 1060: Medium of Instruction: [PU] Putonghua
+HUMA 1060: Reading Material: [C] Require Chinese reading
+HUMA 1250: Reading Material: [C] Require Chinese reading
+HUMA 1420: Exclusion(s): HUMA 2420
+HUMA 1430: Medium of Instruction: [PU] Putonghua
+HUMA 1430: Reading Material: [C] Require Chinese reading
+HUMA 1440: Exclusion(s): MGCS 5001
+HUMA 1440: Reading Material: [C] Require Chinese reading
+HUMA 1520: Exclusion(s): MGCS 5004
+HUMA 1630: Medium of Instruction: [CA] Cantonese
+HUMA 1630: Reading Material: [C] Require Chinese reading
+HUMA 1632: Mode of Delivery: [EXP] Experiential learning
+HUMA 1660: Medium of Instruction: [PU] Putonghua
+HUMA 1660: Reading Material: [C] Require Chinese reading
+HUMA 1671: Medium of Instruction: [CA] Cantonese [EN] Taught in Eng/Chin subject to diff. offerings
+HUMA 1671: Reading Material: [C] Require Chinese reading
+HUMA 1672: Corequisite(s): HUMA 1671
+HUMA 1672: Medium of Instruction: [CA] Cantonese
+HUMA 1672: Reading Material: [C] Require Chinese reading
+HUMA 1710: Exclusion(s): HUMA 1720
+HUMA 1710: Medium of Instruction: [CA] Cantonese
+HUMA 1710: Reading Material: [C] Require Chinese reading
+HUMA 1720: Exclusion(s): HUMA 1710
+HUMA 1810: Exclusion(s): HUMA 1811
+HUMA 1810: Medium of Instruction: [CA] Cantonese
+HUMA 1810: Reading Material: [C] Require Chinese reading
+HUMA 1811: Exclusion(s): HUMA 1810
+HUMA 1811: Medium of Instruction: [CA] Cantonese
+HUMA 1811: Reading Material: [C] Require Chinese reading
+HUMA 2010: Reading Material: [C] Require Chinese reading
+HUMA 2031: Medium of Instruction: [CA] Cantonese
+HUMA 2031: Reading Material: [C] Require Chinese reading
+HUMA 2050: Medium of Instruction: [PU] Putonghua
+HUMA 2050: Reading Material: [C] Require Chinese reading
+HUMA 2101: Previous Course Code(s): HUMA 3101
+HUMA 2104: Exclusion(s): SISP 1709
+HUMA 2240: Medium of Instruction: [PU] Putonghua
+HUMA 2240: Reading Material: [C] Require Chinese reading
+HUMA 2250: Medium of Instruction: [PU] Putonghua
+HUMA 2250: Reading Material: [C] Require Chinese reading
+HUMA 2260: Medium of Instruction: [PU] Putonghua
+HUMA 2260: Reading Material: [C] Require Chinese reading
+HUMA 2300: Medium of Instruction: [PU] Putonghua
+HUMA 2300: Reading Material: [C] Require Chinese reading
+HUMA 2310: Medium of Instruction: [EN] Taught in Eng/Chin subject to diff. offerings [PU] Putonghua
+HUMA 2310: Reading Material: [C] Require Chinese reading
+HUMA 2320: Medium of Instruction: [PU] Putonghua
+HUMA 2320: Reading Material: [C] Require Chinese reading
+HUMA 2400: Reading Material: [C] Require Chinese reading
+HUMA 2420: Reading Material: [C] Require Chinese reading
+HUMA 2430: Medium of Instruction: [CA] Cantonese
+HUMA 2430: Reading Material: [C] Require Chinese reading
+HUMA 2470: Reading Material: [C] Require Chinese reading
+HUMA 2588: Exclusion(s): HUMA 2589
+HUMA 2623: Medium of Instruction: [PU] Putonghua [CA] Cantonese
+HUMA 2632: Exclusion(s): MGCS 5031
+HUMA 2632: Medium of Instruction: [CA] Cantonese
+HUMA 2632: Reading Material: [C] Require Chinese reading
+HUMA 2635: Exclusion(s): MGCS 5032
+HUMA 2640: Exclusion(s): MGCS 5031
+HUMA 2640: Reading Material: [C] Require Chinese reading
+HUMA 2660: Medium of Instruction: [PU] Putonghua
+HUMA 2660: Reading Material: [C] Require Chinese reading
+HUMA 2830: Medium of Instruction: [PU] Putonghua
+HUMA 2830: Reading Material: [C] Require Chinese reading
+HUMA 2840: Medium of Instruction: [PU] Putonghua
+HUMA 2840: Reading Material: [C] Require Chinese reading
+HUMA 2921: Exclusion(s): HUMA 200N
+HUMA 3105: Previous Course Code(s): HUMA 2000C
+HUMA 3202: Medium of Instruction: [PU] Putonghua
+HUMA 3202: Reading Material: [C] Require Chinese reading
+HUMA 3202: Mode of Delivery: [BLD] Blended learning
+HUMA 3203: Medium of Instruction: [PU] Putonghua
+HUMA 3203: Reading Material: [C] Require Chinese reading
+HUMA 3204: Medium of Instruction: [PU] Putonghua
+HUMA 3204: Reading Material: [C] Require Chinese reading
+HUMA 3205: Reading Material: [C] Require Chinese reading
+HUMA 3210: Medium of Instruction: [PU] Putonghua
+HUMA 3210: Reading Material: [C] Require Chinese reading
+HUMA 3220: Medium of Instruction: [PU] Putonghua
+HUMA 3220: Reading Material: [C] Require Chinese reading
+HUMA 3430: Reading Material: [C] Require Chinese reading
+HUMA 3800: Medium of Instruction: [CA] Cantonese
+HUMA 3800: Reading Material: [C] Require Chinese reading
+HUMA 3810: Medium of Instruction: [PU] Putonghua
+HUMA 3810: Reading Material: [C] Require Chinese reading
+HUMA 4020: Prerequisite(s): HUMA 1010 OR HUMA 1440 OR HUMA 3030 OR HUMA 3200
+HUMA 4020: Medium of Instruction: [CA] Cantonese [PU] Putonghua
+HUMA 4020: Reading Material: [C] Require Chinese reading
+HUMA 4220: Prerequisite(s): HUMA 1440 OR HUMA 1660 OR HUMA 2660 OR HUMA 3030
+HUMA 4610: Prerequisite(s): HUMA 1620 OR HUMA 2590 OR SOSC 2290
+HUMA 4700: Prerequisite(s): HUMA 2420 OR HUMA 1440 OR HUMA 2830 OR SOSC 2290
+HUMA 4840: Medium of Instruction: [CA] Cantonese
+HUMA 4840: Reading Material: [C] Require Chinese reading
+OCES 1001: Mode of Delivery: [BLD] Blended learning
+OCES 2001: Previous Course Code(s): ENVS 2004
+OCES 2001: Prerequisite(s): OCES 1001
+OCES 2002: Prerequisite(s): CHEM 1030
+OCES 2003: Prerequisite(s): (PHYS 1111 OR PHYS 1112 OR PHYS 1312) AND (MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)
+OCES 2100: Previous Course Code(s): ENVS 2001
+OCES 2201: Previous Course Code(s): ENVS 2002
+OCES 3001: Previous Course Code(s): ENVS 3001
+OCES 3001: Prerequisite(s): OCES 2001 AND OCES 2002
+OCES 3002: Previous Course Code(s): ENVS 4012A
+OCES 3004: Prerequisite(s): OCES 2001 AND OCES 3001
+OCES 3201: Prerequisite(s): OCES 2001 AND (OCES 3160 OR LIFS 3160 (prior to 2021-22))
+OCES 3202: Prerequisite(s): OCES 2001 AND OCES 2002
+OCES 3203: Prerequisite(s): OCES 2003 AND {MATH 2350 OR [(MATH 2111 OR MATH 2121 OR MATH 2131) AND (MATH 2351 OR MATH 2352)]}
+OCES 3301: Prerequisite(s): (MATH 2411 OR LIFS 3150) AND (COMP 1021 OR COMP 1029P)
+OCES 3330: Corequisite(s): OCES 3130
+OCES 4001: Previous Course Code(s): ENVS 3004
+OCES 4001: Prerequisite(s): OCES 2001 AND OCES 2003
+OCES 4201: Previous Course Code(s): ENVS 3005
+OCES 4201: Prerequisite(s): LIFS 1030 (prior to 2021-22) OR LIFS 2060
+OCES 4202: Prerequisite(s): OCES 4201
+OCES 4203: Previous Course Code(s): ENVS 4001
+OCES 4203: Prerequisite(s): CHEM 1030 OR LIFS 1030 (prior to 2021-22)
+OCES 4204: Prerequisite(s): OCES 3003 AND OCES 3160
+OCES 4301: Previous Course Code(s): ENVS 4301
+OCES 4301: Prerequisite(s): LIFS 3160 (prior to 2021-22)
+OCES 4302: Prerequisite(s): OCES 3203 AND COMP 1021 AND MATH 2350
+OCES 4320: Prerequisite(s): OCES 2002
+OCES 4326: Alternate code(s): MATH 4326
+OCES 4326: Prerequisite(s): MATH 4052
+OCES 4326: Exclusion(s): CIVL 2510, MECH 2210
+OCES 4984: Prerequisite(s): OCES 4974
+CIVL 1120: Prerequisite(s): Level 3 or above in HKDSE 1/2x or 1x Physics OR a passing grade in HKCEE Physics
+CIVL 1120: Mode of Delivery: [EXP] Experiential learning
+CIVL 1150: Alternate code(s): ENVR 1150
+CIVL 1160: Exclusion(s): CIVL 1100
+CIVL 1170: Alternate code(s): ENVR 1170
+CIVL 2110: Prerequisite(s): PHYS 1112 OR PHYS 1312
+CIVL 2110: Corequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+CIVL 2120: Prerequisite(s): CIVL 2110
+CIVL 2120: Exclusion(s): MECH 2040
+CIVL 2160: Corequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+CIVL 2160: Exclusion(s): MATH 2411
+CIVL 2170: Prerequisite(s): MATH 2350
+CIVL 2170: Exclusion(s): IEDA 3010
+CIVL 2410: Prerequisite(s): (CHEM 1010 OR CHEM 1020) AND CIVL 1100
+CIVL 2510: Prerequisite(s): MATH 2011
+CIVL 2510: Corequisite(s): CIVL 2110
+CIVL 2510: Exclusion(s): MECH 2210
+CIVL 2810: Corequisite(s): CIVL 2120
+CIVL 3020: Prerequisite(s): CIVL 2020
+CIVL 3310: Prerequisite(s): CIVL 2110 AND CIVL 2120
+CIVL 3310: Mode of Delivery: [BLD] Blended learning
+CIVL 3320: Prerequisite(s): CIVL 2810 AND CIVL 3310
+CIVL 3420: Prerequisite(s): CIVL 1140 OR CIVL 2410
+CIVL 3510: Prerequisite(s): CIVL 2510
+CIVL 3510: Corequisite(s): CIVL 2160
+CIVL 3610: Corequisite(s): CIVL 2170
+CIVL 3730: Prerequisite(s): CIVL 2120
+CIVL 3740: Prerequisite(s): CIVL 3730
+CIVL 4320: Prerequisite(s): CIVL 3310
+CIVL 4330: Prerequisite(s): CIVL 2120 AND MATH 2011 AND MATH 2350
+CIVL 4330: Exclusion(s): MECH 4750
+CIVL 4340: Prerequisite(s): CIVL 3320
+CIVL 4350: Prerequisite(s): CIVL 3320 and CIVL 4320
+CIVL 4370: Prerequisite(s): CIVL 3310
+CIVL 4380: Exclusion(s): CIVL 5370
+CIVL 4430: Prerequisite(s): CIVL 1140 or CIVL 2410
+CIVL 4430: Exclusion(s): CENG 4720
+CIVL 4440: Prerequisite(s): CIVL 2410 OR ENVR 2010
+CIVL 4450: Prerequisite(s): CIVL 2410 OR ENVR 3210
+CIVL 4460: Prerequisite(s): CIVL 3420
+CIVL 4470: Alternate code(s): ENVR 4470
+CIVL 4480: Previous Course Code(s): CIVL 4100E
+CIVL 4480: Alternate code(s): ENVR 4480
+CIVL 4480: Prerequisite(s): MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023
+CIVL 4520: Prerequisite(s): CIVL 2160
+CIVL 4560: Previous Course Code(s): CIVL 4100H
+CIVL 4610: Previous Course Code(s): CIVL 4100I
+CIVL 4610: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 2011 OR COMP 2012H
+CIVL 4610: Corequisite(s): CIVL 3610
+CIVL 4620: Prerequisite(s): CIVL 3610
+CIVL 4710: Corequisite(s): CIVL 3740
+CIVL 4760: Corequisite(s): CIVL 3740
+CIVL 4810: Prerequisite(s): CIVL 2810
+CIVL 4810: Exclusion(s): CIVL 5840
+CIVL 4910: Exclusion(s): CIVL 4920
+CIVL 4920: Exclusion(s): CIVL 4910
+CIVL 4950: Corequisite(s): LANG 4033
+ACCT 1010: Exclusion(s): ACCT 2010
+ACCT 1610: Exclusion(s): ACCT 3610
+ACCT 2010: Mode of Delivery: [BLD] Blended learning
+ACCT 2200: Prerequisite(s): (for non-BIBU students) ACCT 2010
+ACCT 3010: Prerequisite(s): ACCT 2010
+ACCT 3010: Exclusion(s): ACCT 3030
+ACCT 3010: Mode of Delivery: [BLD] Blended learning
+ACCT 3020: Prerequisite(s): ACCT 3010
+ACCT 3020: Exclusion(s): ACCT 3030
+ACCT 3030: Prerequisite(s): ACCT 2010
+ACCT 3030: Exclusion(s): ACCT 3010, ACCT 3020
+ACCT 3210: Prerequisite(s): ACCT 2200
+ACCT 4010: Prerequisite(s): ACCT 3020
+ACCT 4020: Prerequisite(s): ACCT 2010
+ACCT 4410: Corequisite(s): ACCT 3010 AND ACCT 3610
+ACCT 4510: Prerequisite(s): ACCT 3020
+ACCT 4610: Prerequisite(s): ACCT 3610
+ACCT 4710: Prerequisite(s): ACCT 2010 AND ISOM 2010
+ACCT 4720: Prerequisite(s): ACCT 2010 AND ISOM 3400
+COMP 1001: Exclusion(s): ISOM 2010, any COMP courses of 2000-level or above
+COMP 1001: Mode of Delivery: [BLD] Blended learning
+COMP 1021: Exclusion(s): COMP 1022P, COMP 1022Q (prior to 2020-21), COMP 2011, COMP 2012H
+COMP 1022P: Exclusion(s): COMP 1021, COMP 1022Q (prior to 2020-21), COMP 2011, COMP 2012H, ISOM 3320
+COMP 1022P: Mode of Delivery: [SPO] Self-paced online delivery [BLD] Blended learning
+COMP 1029A: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP1022Q
+COMP 1029C: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR ISOM 3230 OR ISOM 3320
+COMP 1029C: Exclusion(s): COMP 2011, COMP 2012H
+COMP 1029J: Prerequisite(s): COMP 1021 OR COMP 1022Q (prior to 2020-21) OR ISOM 3230
+COMP 1029J: Exclusion(s): COMP 1022P, COMP 3021, ISOM 3320
+COMP 1029P: Prerequisite(s): COMP 1022P OR COMP 1022Q (prior to 2020-21) OR ISOM 3230 OR ISOM 3320
+COMP 1029P: Exclusion(s): COMP 1021
+COMP 1029V: Prerequisite(s): COMP 1021 OR COMP 1022P OR ISOM 3320
+COMP 1029V: Exclusion(s): COMP 1022Q (prior to 2020-21), ISOM 3230
+COMP 1942: Exclusion(s): COMP 4331, ISOM 3360, RMBI 4310
+COMP 1943: Mode of Delivery: [EXP] Experiential learning
+COMP 1944: Previous Course Code(s): COMP 4901M
+COMP 2011: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR ISOM 3230
+COMP 2011: Exclusion(s): COMP 2012H
+COMP 2012: Prerequisite(s): COMP 2011
+COMP 2012: Exclusion(s): COMP 2012H
+COMP 2012H: Prerequisite(s): Grade A or above in COMP 1021 / COMP 1022P / COMP 1022Q (prior to 2020-21) / ISOM 3230
+COMP 2012H: Exclusion(s): COMP 2011, COMP 2012
+COMP 2211: Prerequisite(s): COMP 1021 OR COMP 1029P
+COMP 2211: Exclusion(s): COMP 3211, COMP 4211, COMP 4221, COMP 4331, COMP 4332, COMP 4421, COMP 4471, COMP 4901K, COMP 4901L, ELEC 4130, ELEC 4230, IDPO 4110, ISOM 3360, MATH 4336, MATH 4432, RMBI 4310, COMP 5211, COMP 5212, COMP 5213, COMP 5221, COMP 5222, COMP 5223, COMP 5331, COMP 5421
+COMP 2611: Prerequisite(s): COMP 2011 OR COMP 2012H
+COMP 2611: Exclusion(s): ELEC 2300, ELEC 2350
+COMP 2711: Prerequisite(s): A passing grade in AL Pure Mathematics/AL Applied Mathematics; OR level 3 or above in HKDSE Mathematics Extended Module M1/M2
+COMP 2711: Corequisite(s): (For students without prerequisites) MATH 1012 OR MATH 1013 OR MATH 1014 OR MATH 1020 OR MATH 1023 OR MATH 1024
+COMP 2711: Exclusion(s): COMP 2711H, MATH 2343
+COMP 2711H: Prerequisite(s): Grade B or above in AL Pure Mathematics/AL Applied Mathematics; OR level 5* or above in HKDSE Mathematics Extended Module M1/M2; OR grade A- or above in MATH 1014; OR grade B+ or above in MATH 1020 / MATH 1024
+COMP 2711H: Exclusion(s): COMP 2711, MATH 2343
+COMP 3021: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 3021: Exclusion(s): ISOM 3320
+COMP 3031: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 3111: Co-list with: COMP 3111H
+COMP 3111: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 3111: Exclusion(s): COMP 3111H, ISOM 3210
+COMP 3111: Mode of Delivery: [BLD] Blended learning
+COMP 3111H: Co-list with: COMP 3111
+COMP 3111H: Prerequisite(s): Grade A- or above in COMP 2012 / COMP 2012H
+COMP 3111H: Exclusion(s): COMP 3111, ISOM 3210
+COMP 3211: Prerequisite(s): COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 3211: Exclusion(s): COMP 5211
+COMP 3311: Prerequisite(s): COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 3311: Exclusion(s): COMP 5311, IEDA 3300, ISOM 3260
+COMP 3511: Prerequisite(s): COMP 2611 OR [(ELEC 2300 OR ELEC 2350) AND (COMP 2011 OR COMP 2012H)]
+COMP 3632: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 3711: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (COMP 2711 OR COMP 2711H OR MATH 2343)
+COMP 3711: Exclusion(s): COMP 3711H
+COMP 3711H: Prerequisite(s): (Grade B+ or above in COMP 2011 / COMP 2012 / COMP 2012H) AND (grade A- or above in COMP 2711 / COMP 2711H / MATH 2343)
+COMP 3711H: Exclusion(s): COMP 3711
+COMP 3721: Prerequisite(s): (COMP 3711 OR COMP 3711H) AND (MATH 2111 OR MATH 2121 OR MATH 2350)
+COMP 4021: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 4111: Prerequisite(s): COMP 3111 OR COMP 3111H
+COMP 4211: Prerequisite(s): (COMP 2012 OR COMP 2012H) AND (ELEC 2600 OR IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR ISOM 2500 OR LIFS 3150 OR MATH 2411 OR MATH 2421 OR MATH 2431)
+COMP 4211: Exclusion(s): COMP 4331, COMP 5212, ISOM 3360
+COMP 4221: Prerequisite(s): ELEC 2600 OR IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR MATH 2411 OR MATH 2421 OR MATH 2431
+COMP 4221: Exclusion(s): COMP 5221
+COMP 4222: Previous Course Code(s): COMP 4901K
+COMP 4222: Alternate code(s): MATH 4632
+COMP 4222: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (COMP 2711 OR COMP 2711H OR MATH 2343) AND (MATH 2111 OR MATH 2121 OR MATH 2131)
+COMP 4222: Exclusion(s): MATH 4632
+COMP 4311: Prerequisite(s): COMP 3311
+COMP 4311: Exclusion(s): ISOM 3260
+COMP 4321: Prerequisite(s): COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 4331: Prerequisite(s): ELEC 2600 OR IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR ISOM 2500 OR LIFS 3150 OR MATH 2411 OR MATH 2421 OR MATH 2431
+COMP 4331: Exclusion(s): COMP 4211, ISOM 3360
+COMP 4332: Co-list with: RMBI 4310
+COMP 4332: Prerequisite(s): COMP 4211 OR COMP 4331 OR ISOM 3360
+COMP 4411: Prerequisite(s): COMP 3711 OR COMP 3711H
+COMP 4421: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (MATH 2011 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352)
+COMP 4421: Exclusion(s): ELEC 4130, MATH 4336
+COMP 4431: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 4431: Exclusion(s): ELEC 3170
+COMP 4441: Prerequisite(s): COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 4441: Mode of Delivery: [EXP] Experiential learning
+COMP 4451: Corequisite(s): COMP 4411
+COMP 4461: Previous Course Code(s): COMP 4901G
+COMP 4461: Prerequisite(s): COMP 2011
+COMP 4462: Previous Course Code(s): COMP 4901F
+COMP 4462: Prerequisite(s): COMP 2011
+COMP 4471: Previous Course Code(s): COMP 4901J
+COMP 4471: Alternate code(s): ELEC 4240
+COMP 4471: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (MATH 2111 OR MATH 2121 OR MATH 2350)
+COMP 4511: Prerequisite(s): COMP 3511
+COMP 4511: Corequisite(s): COMP 4621 OR ELEC 3120
+COMP 4521: Prerequisite(s): (COMP 2611 OR ELEC 2300 OR ELEC 2350) AND COMP 3511
+COMP 4611: Prerequisite(s): COMP 2611 OR ELEC 2300 OR ELEC 2350
+COMP 4621: Prerequisite(s): COMP 3511
+COMP 4621: Exclusion(s): COMP 5621, ELEC 3120, ISOM 3180
+COMP 4621: Background: Probability and statistics
+COMP 4631: Prerequisite(s): COMP 3711 OR COMP 3711H
+COMP 4631: Exclusion(s): COMP 5631
+COMP 4632: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 4632: Corequisite(s): COMP 3511
+COMP 4641: Prerequisite(s): (COMP 2011 OR COMP 2012H) AND MATH 2111 AND (ELEC 2600 OR IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR MATH 2411 OR MATH 2421 OR MATH 2431)
+COMP 4651: Prerequisite(s): COMP 2011 OR COMP 2012H
+COMP 4910: Exclusion(s): COMP 4981, COMP 4981H
+COMP 4911: Alternate code(s): ENTR 4911
+COMP 4911: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q OR COMP 2011 OR COMP 2012H
+COMP 4981: Exclusion(s): COMP 4981H
+COMP 4981H: Exclusion(s): COMP 4981
+BIBU 4820: Exclusion(s): LIFS 4820
+BIBU 4850: Prerequisite(s): LIFS 3110
+ECON 2103: Exclusion(s): ECON 2113, ECON 3113, ECON 3133, SOSC 1440, a passing grade in HKAL Economics, Level 3 or above in HKDSE Economics
+ECON 2113: Prerequisite(s): Grade C/D/E in HKAL Economics OR level 3 or above in HKDSE Economics
+ECON 2113: Exclusion(s): ECON 2103, ECON 3113, ECON 3133, SOSC 1440, a passing grade in AL Business and Economics, grade B or above in HKAL Economics
+ECON 2123: Exclusion(s): ECON 3123, ECON 3143, SOSC 1440
+ECON 2174: Prerequisite(s): MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023; OR grade D or above in AL Applied Mathematics/Pure Mathematics
+ECON 2174: Exclusion(s): MATH 2011, MATH 2023
+ECON 2310: Alternate code(s): ENVR 2310, SOSC 2310
+ECON 3014: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 3014: Exclusion(s): ECON 3113, ECON 3133
+ECON 3024: Prerequisite(s): ECON 2123 AND ECON 3334
+ECON 3024: Exclusion(s): ECON 3123, ECON 3143
+ECON 3113: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 3113: Exclusion(s): ECON 3014, SOSC 1440
+ECON 3123: Exclusion(s): ECON 2123, ECON 3024, SOSC 102I, SOSC 1440
+ECON 3133: Prerequisite(s): ECON 3113
+ECON 3133: Exclusion(s): ECON 3014, SOSC 1440
+ECON 3143: Prerequisite(s): ECON 3113 AND ECON 3123
+ECON 3143: Exclusion(s): ECON 2123, ECON 3024, SOSC 102I, SOSC 1440
+ECON 3334: Prerequisite(s): ISOM 2500 MATH 2411 OR MATH 3423
+ECON 4114: Prerequisite(s): ECON 3014 OR (ECON 3113 AND ECON 3133)
+ECON 4124: Previous Course Code(s): ECON 4999J
+ECON 4124: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 4124: Exclusion(s): MATH 4321
+ECON 4134: Previous Course Code(s): ECON 4999T
+ECON 4134: Prerequisite(s): ECON 3014 OR (ECON 3113 AND ECON 3133)
+ECON 4234: Prerequisite(s): ECON 3113 OR ECON 3014
+ECON 4244: Prerequisite(s): (ECON 3014 OR ECON 3113) AND ECON 3334
+ECON 4254: Prerequisite(s): (ECON 3014 OR ECON 3133) AND (MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1023)
+ECON 4264: Previous Course Code(s): ECON 4999Q
+ECON 4264: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 4274: Prerequisite(s): ECON 3334
+ECON 4284: Prerequisite(s): ECON 3334
+ECON 4304: Prerequisite(s): ECON 3334 OR MATH 4424
+ECON 4304: Exclusion(s): ISOM 4540, MATH 4425
+ECON 4334: Prerequisite(s): (ECON 3014 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+ECON 4334: Exclusion(s): ECON 5350
+ECON 4364: Prerequisite(s): (ECON 3014 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+ECON 4364: Exclusion(s): ECON 4384
+ECON 4374: Prerequisite(s): (ECON 3014 AND ECON 3024) OR (ECON 3113 AND ECON 3123)
+ECON 4374: Exclusion(s): ECON 4384
+ECON 4384: Prerequisite(s): (ECON 2103 OR ECON 2113 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+ECON 4384: Exclusion(s): ECON 4364, ECON 4374, ECON 399H, SOSC 200D, SOSC 200E
+ECON 4394: Previous Course Code(s): ECON 4999I
+ECON 4394: Prerequisite(s): (ECON 2123 OR ECON 3123) AND ECON 3334 AND (ECON 2174 OR MATH 1014 OR MATH 1020 OR MATH 1024)
+ECON 4394: Exclusion(s): MATH 4512
+ECON 4434: Prerequisite(s): ECON 3014 or ECON 3133
+ECON 4464: Previous Course Code(s): ECON 4999N
+ECON 4464: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 4474: Prerequisite(s): (ECON 2103 OR ECON 2113 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+CENG 1000: Background: Level 3 or above in HKDSE 1/2x Chemistry OR in HKDSE 1x Chemistry OR CHEM 1004 OR CHEM 1010 OR CHEM 1020
+CENG 1500: Exclusion(s): MECH 2410, PHYS 3040
+CENG 1600: Background: Level 3 in HKDSE 1/2x Biology OR LIFS 1901
+CENG 1700: Exclusion(s): CIVL 2410
+CENG 1700: Background: Level 3 in HKDSE 1/2x Chemistry OR CHEM 1010
+CENG 2210: Prerequisite(s): (MATH 1014 OR MATH 1020 OR MATH 1024) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+CENG 2210: Corequisite(s): CHEM 1010 OR CHEM 1020
+CENG 2210: Mode of Delivery: [BLD] Blended learning
+CENG 2220: Prerequisite(s): PHYS 1111 OR PHYS 1112 OR PHYS 1312
+CENG 2220: Exclusion(s): MECH 2210
+CENG 2220: Background: BIEN 2310 or CENG 2310 or basic programming
+CENG 2310: Co-list with: BIEN 2310
+CENG 2310: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+CENG 2310: Mode of Delivery: [BLD] Blended learning
+CENG 3110: Previous Course Code(s): CENG 4120
+CENG 3110: Prerequisite(s): CENG 2110
+CENG 3110: Exclusion(s): ELEC 3200, MECH 3610
+CENG 3120: Prerequisite(s): CENG 2110
+CENG 3150: Prerequisite(s): CENG 2110
+CENG 3150: Mode of Delivery: [EXP] Experiential learning
+CENG 3210: Prerequisite(s): CENG 2110 AND CENG 2210
+CENG 3220: Prerequisite(s): CENG 2220
+CENG 3220: Exclusion(s): MECH 3310
+CENG 3230: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CENG 3300: Alternate code(s): BIEN 3300
+CENG 3300: Prerequisite(s): BIEN 2310 OR CENG 2310
+CENG 3300: Exclusion(s): LIFS 3150, MATH 2411
+CENG 3910: Corequisite(s): CENG 2110
+CENG 3920: Prerequisite(s): CENG 3910
+CENG 3926: Prerequisite(s): CENG 3910 AND (Level 3 in HKDSE 1x Biology OR LIFS 1901)
+CENG 3927: Prerequisite(s): CENG 3910
+CENG 3950: Prerequisite(s): CENG 2110
+CENG 3950: Corequisite(s): CENG 3210 AND CENG 3230
+CENG 4130: Prerequisite(s): CENG 2110
+CENG 4140: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CENG 4140: Background: CENG 2210 OR MECH 2310
+CENG 4150: Prerequisite(s): CENG 2220 AND CENG 3210 AND CENG 3230
+CENG 4150: Corequisite(s): CENG 3220
+CENG 4540: Prerequisite(s): CENG 3210 and CENG 3230
+CENG 4540: Exclusion(s): CENG 5840, NANO 5350
+CENG 4620: Background: Level 3 in HKDSE 1x Biology OR LIFS 1901
+CENG 4640: Prerequisite(s): CENG 2210 AND CENG 3230 AND (Level 3 in HKDSE 1x Biology OR LIFS 1901)
+CENG 4670: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CENG 4670: Background: CENG 3210 AND CENG 3230
+CENG 4710: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CENG 4710: Background: CENG 2110 AND CENG 3210 AND CENG 3230
+CENG 4720: Prerequisite(s): CENG 1700 or CIVL 1140
+CENG 4720: Exclusion(s): CIVL 4430
+CENG 4911: Prerequisite(s): CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 4912: Prerequisite(s): CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 4913: Prerequisite(s): CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 4920: Prerequisite(s): BIEN 3910 OR CENG 3950
+CENG 4920: Exclusion(s): CENG 4930, CENG 4940
+CENG 4930: Prerequisite(s): (BIEN 3910 OR CENG 3950) AND (CENG 4980 OR UROP 2100)
+CENG 4930: Exclusion(s): CENG 4920, CENG 4940
+CENG 4940: Prerequisite(s): BIEN 3910 OR CENG 3950
+CENG 4940: Exclusion(s): CENG 4920, CENG 4930
+CENG 4950: Previous Course Code(s): CENG 4000I
+SCIE 1100: Exclusion(s): GNED 2510, GNED 2520
+SCIE 1120: Exclusion(s): Any 2000-level or above courses in CHEM, LIFS, CENG, BIEN
+SCIE 1130: Previous Course Code(s): SCIE 1030A
+SCIE 2500: Prerequisite(s): SCIE 1500
+SCIE 3110: Prerequisite(s): Level 4 or above in HKDSE (1x Physics OR 1x Chemistry OR Mathematics M1/M2 )
+SCIE 3110: Mode of Delivery: [EXP] Experiential learning
+SCIE 3500: Prerequisite(s): (for IRE students in LIFS, MATH, PHYS and ENVS) SCIE 2500; (for IRE students in CHEM) SCIE 2500 AND CHEM 3550
+SCIE 3500: Corequisite(s): (for IRE students in LIFS) LIFS 3110
+SCIE 3900: Prerequisite(s): SCIE 1500 AND (SCIE 3500 OR PHYS 3090)
+SCIE 4500: Prerequisite(s): SCIE 3500
+FINA 1303: Exclusion(s): FINA 3103
+FINA 2203: Exclusion(s): FINA 2303
+FINA 2303: Prerequisite(s): ACCT 2010 AND (CIVL 2160 OR IEDA 2510 OR IEDA 2540 OR ISOM 2500 OR LIFS 3150 OR MATH 2411)
+FINA 2303: Exclusion(s): FINA 2203
+FINA 3001: Previous Course Code(s): FINA 3010
+FINA 3001: Prerequisite(s): FINA 2303
+FINA 3103: Prerequisite(s): FINA 2203 or FINA 2303
+FINA 3203: Prerequisite(s): FINA 2203 OR FINA 2303
+FINA 3303: Prerequisite(s): FINA 2203 OR FINA 2303
+FINA 3820: Prerequisite(s): FINA 2303
+FINA 3830: Prerequisite(s): FINA 3103 and FINA 3820
+FINA 4003: Prerequisite(s): FINA 3103
+FINA 4013: Previous Course Code(s): FINA 3403
+FINA 4013: Prerequisite(s): FINA 3303
+FINA 4103: Prerequisite(s): FINA 3103
+FINA 4203: Prerequisite(s): FINA 3303
+FINA 4303: Prerequisite(s): FINA 3103 AND FINA 3203
+FINA 4403: Prerequisite(s): FINA 3103
+FINA 4503: Prerequisite(s): FINA 2203 OR FINA 2303
+FINA 4513: Prerequisite(s): FINA 3103 AND FINA 3203
+FINA 4603: Prerequisite(s): FINA 3303
+FINA 4703: Prerequisite(s): FINA 3103
+FINA 4803: Exclusion(s): FINA 4810, FINA 4814
+ / ISOM 3230
+COMP 2012H: Exclusion(s): COMP 2011, COMP 2012
+COMP 2211: Prerequisite(s): COMP 1021 OR COMP 1029P
+COMP 2211: Exclusion(s): COMP 3211, COMP 4211, COMP 4221, COMP 4331, COMP 4332, COMP 4421, COMP 4471, COMP 4901K, COMP 4901L, ELEC 4130, ELEC 4230, IDPO 4110, ISOM 3360, MATH 4336, MATH 4432, RMBI 4310, COMP 5211, COMP 5212, COMP 5213, COMP 5221, COMP 5222, COMP 5223, COMP 5331, COMP 5421
+COMP 2611: Prerequisite(s): COMP 2011 OR COMP 2012H
+COMP 2611: Exclusion(s): ELEC 2300, ELEC 2350
+COMP 2711: Prerequisite(s): A passing grade in AL Pure Mathematics/AL Applied Mathematics; OR level 3 or above in HKDSE Mathematics Extended Module M1/M2
+COMP 2711: Corequisite(s): (For students without prerequisites) MATH 1012 OR MATH 1013 OR MATH 1014 OR MATH 1020 OR MATH 1023 OR MATH 1024
+COMP 2711: Exclusion(s): COMP 2711H, MATH 2343
+COMP 2711H: Prerequisite(s): Grade B or above in AL Pure Mathematics/AL Applied Mathematics; OR level 5* or above in HKDSE Mathematics Extended Module M1/M2; OR grade A- or above in MATH 1014; OR grade B+ or above in MATH 1020 / MATH 1024
+COMP 2711H: Exclusion(s): COMP 2711, MATH 2343
+COMP 3021: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 3021: Exclusion(s): ISOM 3320
+COMP 3031: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 3111: Co-list with: COMP 3111H
+COMP 3111: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 3111: Exclusion(s): COMP 3111H, ISOM 3210
+COMP 3111: Mode of Delivery: [BLD] Blended learning
+COMP 3111H: Co-list with: COMP 3111
+COMP 3111H: Prerequisite(s): Grade A- or above in COMP 2012 / COMP 2012H
+COMP 3111H: Exclusion(s): COMP 3111, ISOM 3210
+COMP 3211: Prerequisite(s): COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 3211: Exclusion(s): COMP 5211
+COMP 3311: Prerequisite(s): COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 3311: Exclusion(s): COMP 5311, IEDA 3300, ISOM 3260
+COMP 3511: Prerequisite(s): COMP 2611 OR [(ELEC 2300 OR ELEC 2350) AND (COMP 2011 OR COMP 2012H)]
+COMP 3632: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 3711: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (COMP 2711 OR COMP 2711H OR MATH 2343)
+COMP 3711: Exclusion(s): COMP 3711H
+COMP 3711H: Prerequisite(s): (Grade B+ or above in COMP 2011 / COMP 2012 / COMP 2012H) AND (grade A- or above in COMP 2711 / COMP 2711H / MATH 2343)
+COMP 3711H: Exclusion(s): COMP 3711
+COMP 3721: Prerequisite(s): (COMP 3711 OR COMP 3711H) AND (MATH 2111 OR MATH 2121 OR MATH 2350)
+COMP 4021: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 4111: Prerequisite(s): COMP 3111 OR COMP 3111H
+COMP 4211: Prerequisite(s): (COMP 2012 OR COMP 2012H) AND (ELEC 2600 OR IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR ISOM 2500 OR LIFS 3150 OR MATH 2411 OR MATH 2421 OR MATH 2431)
+COMP 4211: Exclusion(s): COMP 4331, COMP 5212, ISOM 3360
+COMP 4221: Prerequisite(s): ELEC 2600 OR IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR MATH 2411 OR MATH 2421 OR MATH 2431
+COMP 4221: Exclusion(s): COMP 5221
+COMP 4222: Previous Course Code(s): COMP 4901K
+COMP 4222: Alternate code(s): MATH 4632
+COMP 4222: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (COMP 2711 OR COMP 2711H OR MATH 2343) AND (MATH 2111 OR MATH 2121 OR MATH 2131)
+COMP 4222: Exclusion(s): MATH 4632
+COMP 4311: Prerequisite(s): COMP 3311
+COMP 4311: Exclusion(s): ISOM 3260
+COMP 4321: Prerequisite(s): COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 4331: Prerequisite(s): ELEC 2600 OR IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR ISOM 2500 OR LIFS 3150 OR MATH 2411 OR MATH 2421 OR MATH 2431
+COMP 4331: Exclusion(s): COMP 4211, ISOM 3360
+COMP 4332: Co-list with: RMBI 4310
+COMP 4332: Prerequisite(s): COMP 4211 OR COMP 4331 OR ISOM 3360
+COMP 4411: Prerequisite(s): COMP 3711 OR COMP 3711H
+COMP 4421: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (MATH 2011 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352)
+COMP 4421: Exclusion(s): ELEC 4130, MATH 4336
+COMP 4431: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 4431: Exclusion(s): ELEC 3170
+COMP 4441: Prerequisite(s): COMP 2011 OR COMP 2012 OR COMP 2012H
+COMP 4441: Mode of Delivery: [EXP] Experiential learning
+COMP 4451: Corequisite(s): COMP 4411
+COMP 4461: Previous Course Code(s): COMP 4901G
+COMP 4461: Prerequisite(s): COMP 2011
+COMP 4462: Previous Course Code(s): COMP 4901F
+COMP 4462: Prerequisite(s): COMP 2011
+COMP 4471: Previous Course Code(s): COMP 4901J
+COMP 4471: Alternate code(s): ELEC 4240
+COMP 4471: Prerequisite(s): (COMP 2011 OR COMP 2012 OR COMP 2012H) AND (MATH 2111 OR MATH 2121 OR MATH 2350)
+COMP 4511: Prerequisite(s): COMP 3511
+COMP 4511: Corequisite(s): COMP 4621 OR ELEC 3120
+COMP 4521: Prerequisite(s): (COMP 2611 OR ELEC 2300 OR ELEC 2350) AND COMP 3511
+COMP 4611: Prerequisite(s): COMP 2611 OR ELEC 2300 OR ELEC 2350
+COMP 4621: Prerequisite(s): COMP 3511
+COMP 4621: Exclusion(s): COMP 5621, ELEC 3120, ISOM 3180
+COMP 4621: Background: Probability and statistics
+COMP 4631: Prerequisite(s): COMP 3711 OR COMP 3711H
+COMP 4631: Exclusion(s): COMP 5631
+COMP 4632: Prerequisite(s): COMP 2012 OR COMP 2012H
+COMP 4632: Corequisite(s): COMP 3511
+COMP 4641: Prerequisite(s): (COMP 2011 OR COMP 2012H) AND MATH 2111 AND (ELEC 2600 OR IEDA 2510 OR IEDA 2520 OR IEDA 2540 OR MATH 2411 OR MATH 2421 OR MATH 2431)
+COMP 4651: Prerequisite(s): COMP 2011 OR COMP 2012H
+COMP 4910: Exclusion(s): COMP 4981, COMP 4981H
+COMP 4911: Alternate code(s): ENTR 4911
+COMP 4911: Prerequisite(s): COMP 1021 OR COMP 1022P OR COMP 1022Q OR COMP 2011 OR COMP 2012H
+COMP 4981: Exclusion(s): COMP 4981H
+COMP 4981H: Exclusion(s): COMP 4981
+BIBU 4820: Exclusion(s): LIFS 4820
+BIBU 4850: Prerequisite(s): LIFS 3110
+ECON 2103: Exclusion(s): ECON 2113, ECON 3113, ECON 3133, SOSC 1440, a passing grade in HKAL Economics, Level 3 or above in HKDSE Economics
+ECON 2113: Prerequisite(s): Grade C/D/E in HKAL Economics OR level 3 or above in HKDSE Economics
+ECON 2113: Exclusion(s): ECON 2103, ECON 3113, ECON 3133, SOSC 1440, a passing grade in AL Business and Economics, grade B or above in HKAL Economics
+ECON 2123: Exclusion(s): ECON 3123, ECON 3143, SOSC 1440
+ECON 2174: Prerequisite(s): MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023; OR grade D or above in AL Applied Mathematics/Pure Mathematics
+ECON 2174: Exclusion(s): MATH 2011, MATH 2023
+ECON 2310: Alternate code(s): ENVR 2310, SOSC 2310
+ECON 3014: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 3014: Exclusion(s): ECON 3113, ECON 3133
+ECON 3024: Prerequisite(s): ECON 2123 AND ECON 3334
+ECON 3024: Exclusion(s): ECON 3123, ECON 3143
+ECON 3113: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 3113: Exclusion(s): ECON 3014, SOSC 1440
+ECON 3123: Exclusion(s): ECON 2123, ECON 3024, SOSC 102I, SOSC 1440
+ECON 3133: Prerequisite(s): ECON 3113
+ECON 3133: Exclusion(s): ECON 3014, SOSC 1440
+ECON 3143: Prerequisite(s): ECON 3113 AND ECON 3123
+ECON 3143: Exclusion(s): ECON 2123, ECON 3024, SOSC 102I, SOSC 1440
+ECON 3334: Prerequisite(s): ISOM 2500 OR MATH 2411 OR MATH 3423
+ECON 4114: Prerequisite(s): ECON 3014 OR (ECON 3113 AND ECON 3133)
+ECON 4124: Previous Course Code(s): ECON 4999J
+ECON 4124: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 4124: Exclusion(s): MATH 4321
+ECON 4134: Previous Course Code(s): ECON 4999T
+ECON 4134: Prerequisite(s): ECON 3014 OR (ECON 3113 AND ECON 3133)
+ECON 4234: Prerequisite(s): ECON 3113 OR ECON 3014
+ECON 4244: Prerequisite(s): (ECON 3014 OR ECON 3113) AND ECON 3334
+ECON 4254: Prerequisite(s): (ECON 3014 OR ECON 3133) AND (MATH 1003 OR MATH 1012 OR MATH 1013 OR MATH 1023)
+ECON 4264: Previous Course Code(s): ECON 4999Q
+ECON 4264: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 4274: Prerequisite(s): ECON 3334
+ECON 4284: Prerequisite(s): ECON 3334
+ECON 4304: Prerequisite(s): ECON 3334 OR MATH 4424
+ECON 4304: Exclusion(s): ISOM 4540, MATH 4425
+ECON 4334: Prerequisite(s): (ECON 3014 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+ECON 4334: Exclusion(s): ECON 5350
+ECON 4364: Prerequisite(s): (ECON 3014 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+ECON 4364: Exclusion(s): ECON 4384
+ECON 4374: Prerequisite(s): (ECON 3014 AND ECON 3024) OR (ECON 3113 AND ECON 3123)
+ECON 4374: Exclusion(s): ECON 4384
+ECON 4384: Prerequisite(s): (ECON 2103 OR ECON 2113 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+ECON 4384: Exclusion(s): ECON 4364, ECON 4374, ECON 399H, SOSC 200D, SOSC 200E
+ECON 4394: Previous Course Code(s): ECON 4999I
+ECON 4394: Prerequisite(s): (ECON 2123 OR ECON 3123) AND ECON 3334 AND (ECON 2174 OR MATH 1014 OR MATH 1020 OR MATH 1024)
+ECON 4394: Exclusion(s): MATH 4512
+ECON 4434: Prerequisite(s): ECON 3014 or ECON 3133
+ECON 4464: Previous Course Code(s): ECON 4999N
+ECON 4464: Prerequisite(s): ECON 2103 OR ECON 2113
+ECON 4474: Prerequisite(s): (ECON 2103 OR ECON 2113 OR ECON 3113) AND (ECON 2123 OR ECON 3123)
+CENG 1000: Background: Level 3 or above in HKDSE 1/2x Chemistry OR in HKDSE 1x Chemistry OR CHEM 1004 OR CHEM 1010 OR CHEM 1020
+CENG 1500: Exclusion(s): MECH 2410, PHYS 3040
+CENG 1600: Background: Level 3 in HKDSE 1/2x Biology OR LIFS 1901
+CENG 1700: Exclusion(s): CIVL 2410
+CENG 1700: Background: Level 3 in HKDSE 1/2x Chemistry OR CHEM 1010
+CENG 2210: Prerequisite(s): (MATH 1014 OR MATH 1020 OR MATH 1024) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)
+CENG 2210: Corequisite(s): CHEM 1010 OR CHEM 1020
+CENG 2210: Mode of Delivery: [BLD] Blended learning
+CENG 2220: Prerequisite(s): PHYS 1111 OR PHYS 1112 OR PHYS 1312
+CENG 2220: Exclusion(s): MECH 2210
+CENG 2220: Background: BIEN 2310 or CENG 2310 or basic programming
+CENG 2310: Co-list with: BIEN 2310
+CENG 2310: Prerequisite(s): MATH 1014 OR MATH 1020 OR MATH 1024
+CENG 2310: Mode of Delivery: [BLD] Blended learning
+CENG 3110: Previous Course Code(s): CENG 4120
+CENG 3110: Prerequisite(s): CENG 2110
+CENG 3110: Exclusion(s): ELEC 3200, MECH 3610
+CENG 3120: Prerequisite(s): CENG 2110
+CENG 3150: Prerequisite(s): CENG 2110
+CENG 3150: Mode of Delivery: [EXP] Experiential learning
+CENG 3210: Prerequisite(s): CENG 2110 AND CENG 2210
+CENG 3220: Prerequisite(s): CENG 2220
+CENG 3220: Exclusion(s): MECH 3310
+CENG 3230: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CENG 3300: Alternate code(s): BIEN 3300
+CENG 3300: Prerequisite(s): BIEN 2310 OR CENG 2310
+CENG 3300: Exclusion(s): LIFS 3150, MATH 2411
+CENG 3910: Corequisite(s): CENG 2110
+CENG 3920: Prerequisite(s): CENG 3910
+CENG 3926: Prerequisite(s): CENG 3910 AND (Level 3 in HKDSE 1x Biology OR LIFS 1901)
+CENG 3927: Prerequisite(s): CENG 3910
+CENG 3950: Prerequisite(s): CENG 2110
+CENG 3950: Corequisite(s): CENG 3210 AND CENG 3230
+CENG 4130: Prerequisite(s): CENG 2110
+CENG 4140: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CENG 4140: Background: CENG 2210 OR MECH 2310
+CENG 4150: Prerequisite(s): CENG 2220 AND CENG 3210 AND CENG 3230
+CENG 4150: Corequisite(s): CENG 3220
+CENG 4540: Prerequisite(s): CENG 3210 and CENG 3230
+CENG 4540: Exclusion(s): CENG 5840, NANO 5350
+CENG 4620: Background: Level 3 in HKDSE 1x Biology OR LIFS 1901
+CENG 4640: Prerequisite(s): CENG 2210 AND CENG 3230 AND (Level 3 in HKDSE 1x Biology OR LIFS 1901)
+CENG 4670: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CENG 4670: Background: CENG 3210 AND CENG 3230
+CENG 4710: Prerequisite(s): CHEM 1010 OR CHEM 1020
+CENG 4710: Background: CENG 2110 AND CENG 3210 AND CENG 3230
+CENG 4720: Prerequisite(s): CENG 1700 or CIVL 1140
+CENG 4720: Exclusion(s): CIVL 4430
+CENG 4911: Prerequisite(s): CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 4912: Prerequisite(s): CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 4913: Prerequisite(s): CENG 3120 AND CENG 3910 AND LANG 2030
+CENG 4920: Prerequisite(s): BIEN 3910 OR CENG 3950
+CENG 4920: Exclusion(s): CENG 4930, CENG 4940
+CENG 4930: Prerequisite(s): (BIEN 3910 OR CENG 3950) AND (CENG 4980 OR UROP 2100)
+CENG 4930: Exclusion(s): CENG 4920, CENG 4940
+CENG 4940: Prerequisite(s): BIEN 3910 OR CENG 3950
+CENG 4940: Exclusion(s): CENG 4920, CENG 4930
+CENG 4950: Previous Course Code(s): CENG 4000I
+SCIE 1100: Exclusion(s): GNED 2510, GNED 2520
+SCIE 1120: Exclusion(s): Any 2000-level or above courses in CHEM, LIFS, CENG, BIEN
+SCIE 1130: Previous Course Code(s): SCIE 1030A
+SCIE 2500: Prerequisite(s): SCIE 1500
+SCIE 3110: Prerequisite(s): Level 4 or above in HKDSE (1x Physics OR 1x Chemistry OR Mathematics M1/M2 )
+SCIE 3110: Mode of Delivery: [EXP] Experiential learning
+SCIE 3500: Prerequisite(s): (for IRE students in LIFS, MATH, PHYS and ENVS) SCIE 2500; (for IRE students in CHEM) SCIE 2500 AND CHEM 3550
+SCIE 3500: Corequisite(s): (for IRE students in LIFS) LIFS 3110
+SCIE 3900: Prerequisite(s): SCIE 1500 AND (SCIE 3500 OR PHYS 3090)
+SCIE 4500: Prerequisite(s): SCIE 3500
+FINA 1303: Exclusion(s): FINA 3103
+FINA 2203: Exclusion(s): FINA 2303
+FINA 2303: Prerequisite(s): ACCT 2010 AND (CIVL 2160 OR IEDA 2510 OR IEDA 2540 OR ISOM 2500 OR LIFS 3150 OR MATH 2411)
+FINA 2303: Exclusion(s): FINA 2203
+FINA 3001: Previous Course Code(s): FINA 3010
+FINA 3001: Prerequisite(s): FINA 2303
+FINA 3103: Prerequisite(s): FINA 2203 or FINA 2303
+FINA 3203: Prerequisite(s): FINA 2203 OR FINA 2303
+FINA 3303: Prerequisite(s): FINA 2203 OR FINA 2303
+FINA 3820: Prerequisite(s): FINA 2303
+FINA 3830: Prerequisite(s): FINA 3103 and FINA 3820
+FINA 4003: Prerequisite(s): FINA 3103
+FINA 4013: Previous Course Code(s): FINA 3403
+FINA 4013: Prerequisite(s): FINA 3303
+FINA 4103: Prerequisite(s): FINA 3103
+FINA 4203: Prerequisite(s): FINA 3303
+FINA 4303: Prerequisite(s): FINA 3103 AND FINA 3203
+FINA 4403: Prerequisite(s): FINA 3103
+FINA 4503: Prerequisite(s): FINA 2203 OR FINA 2303
+FINA 4513: Prerequisite(s): FINA 3103 AND FINA 3203
+FINA 4603: Prerequisite(s): FINA 3303
+FINA 4703: Prerequisite(s): FINA 3103
+FINA 4803: Exclusion(s): FINA 4810, FINA 4814

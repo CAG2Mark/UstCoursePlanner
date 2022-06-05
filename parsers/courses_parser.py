@@ -31,6 +31,7 @@ class CourseHTMLParser(HTMLParser):
     def __init__(self):
         self.course_dict = {}
         super().__init__()
+        self.mode = None
 
     def handle_data(self, data):
         # If a course title is found.
@@ -47,6 +48,9 @@ class CourseHTMLParser(HTMLParser):
 
         # If a mode was previously set
         if self.mode:
+            if self.mode == "PRE-REQUISITE": 
+                print(self.cur_course)
+                print(requisite_parser.formalise_requisite(data))
             # Reset the mode.
             self.mode = None
 
