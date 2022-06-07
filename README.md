@@ -43,6 +43,7 @@ The pre-requisites and co-requisites are stored as an **expression tree**. For e
 ```
 This has been parsed and stored in an expression tree like this:
 ![Graph showing the expression tree of COMP 3711H's prerequisites](https://user-images.githubusercontent.com/55091936/172394365-a7b72656-4575-4c24-a060-9facc32e3c0f.png)
+
 ... where `/` is an `OR` operator and `&` is an `AND` operator.
 
 The value of `preReqs` and `coReqs` is the **root** node of the tree. Each node will have the two properties:
