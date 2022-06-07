@@ -1,9 +1,15 @@
-import requests
 import re
 from html.parser import HTMLParser
 import requisite_parser
+import os
+import json
 
 course_pattern = re.compile(r"(^.{0,4}) (\d{0,4}[A-Z]?) - (.*) \((\d+) units?\)")
+
+data_path = "scraped/data"
+files = os.listdir(data_path)
+
+ignore_modes = ["VECTOR", "PREVIOUS CODE"]
 
 modes = ["CO-REQUISITE", "PRE-REQUISITE", "EXCLUSION", "ATTRIBUTES", "DESCRIPTION"]
 mode_name_map = {
@@ -13,6 +19,12 @@ mode_name_map = {
     "ATTRIBUTES": "attrs", 
     "DESCRIPTION": "description"
 }
+
+all_courses = {}
+
+# Stores data provided by 151044
+prev_data = {}
+
 '''
     Example data stream:
 
@@ -32,40 +44,52 @@ class CourseHTMLParser(HTMLParser):
         self.course_dict = {}
         super().__init__()
         self.mode = None
+        self.cur_course = {}
 
     def handle_data(self, data):
         # If a course title is found.
         searched = re.match(course_pattern, data)
         if (searched): # Matched start of course
             details = searched.groups() 
-            course = {}
-            self.cur_course = {}
+            course = self.cur_course
             # Set data
             course["dept"] = details[0]
             course["code"] = details[1]
             course["title"] = details[2]
             course["credits"] = int(details[3])
 
-        # If a mode was previously set
-        if self.mode:
-            if self.mode == "PRE-REQUISITE": 
-                print(self.cur_course)
-                print(requisite_parser.formalise_requisite(data))
-            # Reset the mode.
+            code = details[0] + " " + details[1]
+
+            if not code in all_courses:
+                all_courses[code] = course
+
+            self.cur_course = {}
+
+        # if it is an ignored mode
+        if self.mode and self.mode in ignore_modes:
             self.mode = None
 
+        # If a mode was previously set
+        if self.mode:
+            prop = mode_name_map[self.mode]
+
+            # As there may be multiple attributes 
+            if self.mode == "ATTRIBUTES" and not data.strip() in modes:
+                if not prop in self.cur_course: self.cur_course[prop] = []
+                self.cur_course[prop].append(data)
+            elif not data.strip() in modes:
+                self.cur_course[prop] = data
+                self.mode = None
+
         # Set mode to capture data on the next data handle, see the above example data stream
-        if data in modes:
+        if data in modes or data in ignore_modes:
             self.mode = data
-    
 
-dept = input() # Eg: COMP, MATH, ACCT
-year = input() # Eg: Fall 2021 -> 2110, Spring 2022: 2130
+p = CourseHTMLParser()
 
-url = f"https://w5.ab.ust.hk/wcq/gci-bin/{year}/subject/{dept}"
+for f in files:
+    with open(f"scraped/data/{f}") as o:
+        p.feed(o.read())
 
-# text = requests.get(url)
-text = open("testdata").read()
-
-parser = CourseHTMLParser()
-parser.feed(text)
+with open("data_dump.json", "w") as f:
+    f.write(json.dumps(all_courses))
