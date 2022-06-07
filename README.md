@@ -8,7 +8,7 @@ Roadmap:
 
 # Special Thanks
 Special thanks to some of my peers https://github.com/151044 and https://github.com/TheHakkaman for helping scrape some of the course data
-and helping dig out some weird formatting that I eventually parsed.
+and digging out some weird formatting that I eventually parsed.
 
 # I want to use the course data!
 Please do! I don't want you to go through the pain of parsing their horribly inconsistent formatting :P. 
