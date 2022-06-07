@@ -6,6 +6,10 @@ Roadmap:
 - Build language for creating major requirements (not done)
 - Build the actual web app (not done)
 
+# Special Thanks
+Special thanks to some of my peers https://github.com/151044 and https://github.com/TheHakkaman for helping scrape some of the course data
+and helping dig out some weird formatting that I eventually parsed.
+
 # I want to use the course data!
 Please do! I don't want you to go through the pain of parsing their horribly inconsistent formatting :P. 
 This entire repo is licensed under the GPL v3 license, so use the data however you wish within the guidelines of the license.
