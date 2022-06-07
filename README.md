@@ -9,7 +9,7 @@ Roadmap:
 # I want to use the course data!
 Please do! I don't want you to go through the pain of parsing their horribly inconsistent formatting :P. 
 This entire repo is licensed under the GPL v3 license, so use the data however you wish within the guidelines of the license.
-The data is in `data/courses`.
+The data is in `data/courses.json`.
 
 Each course is stored in the following JSON format (take COMP2711 as an example):
 ```json
