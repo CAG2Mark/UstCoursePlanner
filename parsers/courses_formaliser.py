@@ -85,4 +85,4 @@ for code, item in all_courses.items():
     
 
 with open("allCourses.json", "w") as f:
-    f.write(json.dumps(all_courses))
+    f.write(json.dumps(all_courses, indent=4))

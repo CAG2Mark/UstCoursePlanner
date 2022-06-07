@@ -1,6 +1,5 @@
 import re
 from html.parser import HTMLParser
-import requisite_parser
 import os
 import json
 
