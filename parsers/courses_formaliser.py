@@ -17,6 +17,8 @@ special_cases = [
     "MGMT 2130"
 ]
 
+bare = input("Create bare version? (ie. no description, attrs) Y/n").lower() != "n"
+
 # Manual changes made to fix their inconsistent formatting.
 # This is for weird formats that don't come up often enough to code a special case for
 # code, pre_req, co_req
@@ -42,8 +44,11 @@ __cga_prereq_pattern = re.compile(r"^CGA at ([0-9\.]+?) or above$")
 __cc_pattern = re.compile(r"Common Core \(((?:SSC)?)-?(.+)\) for 4Y programs")
 
 for code, item in all_courses.items():
+    if bare and "description" in item : del item["description"]
+
     if code in special_cases: 
         item["handleReqsManually"] = True
+        if bare and "attrs" in item: del item["attrs"]
         continue
 
     # Add missing fields if not there
@@ -82,7 +87,9 @@ for code, item in all_courses.items():
         item["ccType"] = details[1]
         item["isSsc"] = not not details[0]
 
+    if bare and "attrs" in item: del item["attrs"]
+
     
 
-with open("allCourses.json", "w") as f:
-    f.write(json.dumps(all_courses, indent=4))
+with open(f"allCourses{'Bare' if bare else ''}.json", "w") as f:
+    f.write(json.dumps(all_courses))

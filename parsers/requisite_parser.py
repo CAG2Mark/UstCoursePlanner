@@ -143,7 +143,7 @@ def parse_excl(data):
     return [clean_exclusion(e) for e in excls]
 
 if __name__ == "__main__":
-    data = formalise_requisite("COMP 2611 OR [(ELEC 2300 OR ELEC 2350) AND (COMP 2011 OR COMP 2012H)]")
+    data = formalise_requisite("(Grade B+ or above in  COMP 2011 / COMP 2012 / COMP 2012H) AND (grade A- or above in COMP 2711 / COMP 2711H / MATH 2343)")
     # print(data)
     tree = make_requisite_tree(data)
     
