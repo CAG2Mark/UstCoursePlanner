@@ -6,10 +6,14 @@ Roadmap:
 - Build language for creating major requirements (not done)
 - Build the actual web app (not done)
 
+# Special Thanks
+Special thanks to some of my peers https://github.com/151044 and https://github.com/TheHakkaman for helping scrape some of the course data
+and digging out some weird formatting that I eventually parsed.
+
 # I want to use the course data!
 Please do! I don't want you to go through the pain of parsing their horribly inconsistent formatting :P. 
 This entire repo is licensed under the GPL v3 license, so use the data however you wish within the guidelines of the license.
-The data is in `data/courses`.
+The data is in `data/courses.json`.
 
 Each course is stored in the following JSON format (take COMP2711 as an example):
 ```json
@@ -43,6 +47,7 @@ The pre-requisites and co-requisites are stored as an **expression tree**. For e
 ```
 This has been parsed and stored in an expression tree like this:
 ![Graph showing the expression tree of COMP 3711H's prerequisites](https://user-images.githubusercontent.com/55091936/172394365-a7b72656-4575-4c24-a060-9facc32e3c0f.png)
+
 ... where `/` is an `OR` operator and `&` is an `AND` operator.
 
 The value of `preReqs` and `coReqs` is the **root** node of the tree. Each node will have the two properties:
