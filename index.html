@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Planner</title>
+    
+    <link rel="stylesheet" href="styles/global.css?version=1">
+    <link rel="stylesheet" href="styles/home.css?version=1">
+    <link rel="stylesheet" href="content/fonts/inter.css">
+</head>
+<body>
+    <div class="center-child" id="home-box">
+        <div id="home-wrap">
+            <h1 id="home-title">Course Planner</h1>
+            <div id="courseplan-list">
+                <p id="no-plans-text">You have no course plans.</p>
+            </div>
+            <button class="round-button round-button-big button-blue" id="create-plan-button">
+                <b>+</b> Create a course plan
+            </button>
+        </div>
+    </div>
+
+    <div id="create-box" style="display: none">
+        <div id="create-wrap">
+            <div class="create-section">
+                <h1>1. What school are you in?</h1>
+                <div class="round-box">
+                    <div class="create-section-interaction-area">
+
+                    </div>
+                    <div class="create-back-forward">
+                        <button class="round-button button-blue forward-button button-no-border">Next</button>
+                    </div>
+                </div>
+            </div>
+            <div class="create-section section-disabled">
+                <h1>2. What are your majors/minors?</h1>
+                <div class="round-box">
+                    <div class="create-section-interaction-area">
+
+                    </div>
+                    <div class="create-back-forward">
+                        <button class="round-button back-button button-no-border" disabled aria-disabled>Back</button>
+                        <button class="round-button button-blue forward-button button-no-border" disabled aria-disabled>Next</button>
+                    </div>
+                </div>
+            </div>
+            <div class="create-section section-disabled">
+                <h1>3. In what year were you admitted?</h1>
+                <div class="round-box">
+                    <div class="create-section-interaction-area">
+
+                    </div>
+                    <div class="create-back-forward">
+                        <button class="round-button back-button button-no-border" disabled aria-disabled>Back</button>
+                        <button class="round-button button-blue forward-button button-no-border" disabled aria-disabled>Finish & Create</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="scripts/home.js"></script>
+</html>

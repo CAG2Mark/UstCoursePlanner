@@ -1,0 +1,149 @@
+#home-wrap {
+    width: min(85%, 800px);
+}
+
+#home-box {
+    width: 100%;
+    height: 100%;
+    transition: 200ms opacity;
+    opacity: 1;
+    position: absolute;
+}
+
+.hidden {
+    opacity: 0 !important;
+}
+
+#home-title {
+    font-size: 48px;
+}
+
+#home-wrap button {
+    width: 100%;
+}
+
+#no-plans-text {
+    color: #aaaaaa;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#home-title {
+    margin: 0;
+    user-select: none;
+}
+
+#courseplan-list {
+    margin: 24px 0;
+    user-select: none;
+    min-height: 60px;
+    position: relative;
+}
+
+
+#create-box {
+    height: min(90%, 750px);
+    width: calc(min(90vw, 500px) + 32px);
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#create-wrap {
+    width: 2500px;
+    height: 100%;
+    position: absolute;
+    transition: 400ms left;
+    left: 0px;
+}
+
+@keyframes section-in {
+    0% {
+        opacity: 0;
+        transform: translateY(800px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.create-section {
+    width: min(90vw, 500px);
+    height: 100%;
+
+    display: flex;
+    float: left;
+    margin: 0 16px;
+    position: relative;
+    overflow: hidden;
+
+    box-sizing: border-box;
+    padding: 16px;
+
+    align-items:flex-end;
+
+    flex-direction: column;
+
+    opacity: 0;
+}
+
+.section-in {
+    animation: 400ms section-in cubic-bezier(.37,1.34,.75,1);
+    opacity: 1 !important;
+}
+
+.create-section h1 {
+    margin-top: 0px;
+    transition: color 300ms;
+    user-select: none;
+}
+
+.create-back-forward {
+    bottom: 0;
+    padding: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.create-section-interaction-area {
+    flex-grow: 1;
+    padding: 16px 16px 0 16px;
+}
+
+.round-box {
+    background-color: rgb(38, 38, 38);
+    border-radius: 24px;
+    flex-grow:1;
+    width: 100%;
+
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.forward-button {
+    float: right;
+}
+
+.section-disabled {
+    color: #848484;
+    pointer-events: none;
+}
+.section-disabled h1 {
+    color: #848484;
+}
+
+@media (max-width: 500px) {
+    #home-title {
+        font-size: 36px;
+    }
+}
