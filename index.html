@@ -26,9 +26,39 @@
     <div id="create-box" style="display: none">
         <div id="create-wrap">
             <div class="create-section">
-                <h1>1. What school are you in?</h1>
+                <h1>1. In which year and school were you admitted?</h1>
                 <div class="round-box">
-                    <div class="create-section-interaction-area">
+                    <div class="create-section-interaction-area center-child">
+                        <div class="create-wrap-wide">
+                            <div class="vertical-flex-grow-last">
+                                <p style="margin-top: 0;">Year of admittance:</p>
+                                <input type="number" min="1997">
+                            </div>
+                            <div class="vertical-flex-grow-last">
+                                <p>School:</p>
+                                <div>
+                                    <label class="container">School of Engineering
+                                        <input type="radio" checked="checked" name="school">
+                                        <span class="radiobox checkmark"></span>
+                                      </label>
+                                      
+                                      <label class="container">School of Science
+                                        <input type="radio" name="school">
+                                        <span class="radiobox checkmark"></span>
+                                      </label>
+                                      
+                                      <label class="container">School of Business
+                                        <input type="radio" name="school">
+                                        <span class="radiobox checkmark"></span>
+                                      </label>
+                                      
+                                      <label class="container">School of Humanities and Social Science
+                                        <input type="radio" name="school">
+                                        <span class="radiobox checkmark"></span>
+                                      </label>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                     <div class="create-back-forward">
@@ -37,10 +67,76 @@
                 </div>
             </div>
             <div class="create-section section-disabled">
-                <h1>2. What are your majors/minors?</h1>
-                <div class="round-box">
-                    <div class="create-section-interaction-area">
+                <h1>2. Please select one or more majors.</h1>
+                <div class="round-box no-overflow">
+                    <div class="create-section-interaction-area center-child">
+                        <div class="create-wrap-wide">
+                            <div class="vertical-flex-grow-last full-height filter-container">
+                                <input type="text" placeholder="Filter..." aria-placeholder="Filter" class="filter-input">
+                                <div class="major-minor-selector overflow-no-scroll filter-list">
+                                    <label class="container">
+                                        <span class="filter-content">BEng COMP</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+                                        
+                                    <label class="container">
+                                        <span class="filter-content">BEng COMP</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+                                        
+                                    <label class="container">
+                                        <span class="filter-content">BSc COSC</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+                                        
+                                    <label class="container">
+                                        <span class="filter-content">BEng CPEG</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
 
+                                    <label class="container">
+                                        <span class="filter-content">BEng ELEC</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">BEng CIVL</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">BEng CENG</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">BEng BIEN</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">BSc DSCT</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">BSc MATH</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+                                    
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div class="create-back-forward">
                         <button class="round-button back-button button-no-border" disabled aria-disabled>Back</button>
@@ -49,14 +145,114 @@
                 </div>
             </div>
             <div class="create-section section-disabled">
-                <h1>3. In what year were you admitted?</h1>
-                <div class="round-box">
-                    <div class="create-section-interaction-area">
-
+                <h1>3. Please select your extended majors, if any.</h1>
+                <div class="round-box no-overflow">
+                    <div class="create-section-interaction-area center-child">
+                        <div class="create-wrap-wide">
+                            <div class="vertical-flex-grow-last full-height filter-container">
+                                <input type="text" placeholder="Filter..." aria-placeholder="Filter" class="filter-input">
+                                <div class="major-minor-selector overflow-no-scroll filter-list">
+                                    <label class="container">
+                                        <span class="filter-content">Extended Major in AI</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+                                        
+                                    <label class="container">
+                                        <span class="filter-content">Extended Major in Digital Media and Creative Arts (DMCA)</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>                          
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div class="create-back-forward">
                         <button class="round-button back-button button-no-border" disabled aria-disabled>Back</button>
-                        <button class="round-button button-blue forward-button button-no-border" disabled aria-disabled>Finish & Create</button>
+                        <button class="round-button button-blue forward-button button-no-border" disabled aria-disabled>Next</button>
+                    </div>
+                </div>
+            </div>
+            <div class="create-section section-disabled">
+                <h1>4. Please select your minors, if any.</h1>
+                <div class="round-box no-overflow">
+                    <div class="create-section-interaction-area center-child">
+                        <div class="create-wrap-wide">
+                            <div class="vertical-flex-grow-last full-height filter-container">
+                                <input type="text" placeholder="Filter..." aria-placeholder="Filter" class="filter-input">
+                                <div class="major-minor-selector overflow-no-scroll filter-list">
+
+                                    <label class="container">
+                                        <span class="filter-content">Aeronautical Engineering</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+                                        
+                                    <label class="container">
+                                        <span class="filter-content">Big Data Technology</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+                                    
+                                    <label class="container">
+                                        <span class="filter-content">Design</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">Information Technology</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">Robotics</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">Physics</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">Business</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+
+                                    <label class="container">
+                                        <span class="filter-content">Mathematics</span>
+                                        <input type="checkbox">
+                                        <span class="checkbox checkmark"></span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="create-back-forward">
+                        <button class="round-button back-button button-no-border" disabled aria-disabled>Back</button>
+                        <button class="round-button button-blue forward-button button-no-border" disabled aria-disabled>Next</button>
+                    </div>
+                </div>
+            </div>
+            <div class="create-section">
+                <h1>5. What should this plan be called?</h1>
+                <div class="round-box">
+                    <div class="create-section-interaction-area center-child">
+                        <div class="create-wrap-wide">
+                            <div class="vertical-flex-grow-last">
+                                <p style="margin-top: 0;">Name of this course plan:</p>
+                                <input type="text" pattern=".{1,}">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="create-back-forward">
+                        <button class="round-button back-button button-no-border" disabled aria-disabled>Back</button>
+                        <button class="round-button button-blue forward-button button-no-border">Finish & Create</button>
                     </div>
                 </div>
             </div>
@@ -64,4 +260,5 @@
     </div>
 </body>
 <script src="scripts/home.js"></script>
+<script src="scripts/controls.js"></script>
 </html>

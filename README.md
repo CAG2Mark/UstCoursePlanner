@@ -4,7 +4,8 @@ Course planner for HKUST to automatically handle major, minor, extended major an
 Roadmap:
 - Scrape and parse all HKUST courses in the 2021-2022 term (plus 3711H) (Done!)
 - Build language for creating major requirements (not done)
-- Build the actual web app (not done)
+- Create major requirements (ongoing effort)
+- Build the actual web app (in progress)
 
 # Special Thanks
 Special thanks to some of my peers https://github.com/151044 and https://github.com/TheHakkaman for helping scrape some of the course data

@@ -30,6 +30,7 @@ function showCreateSequence() {
     }, 150);
 }
 
+
 backBtns = document.getElementsByClassName("back-button");
 forwardBtns = document.getElementsByClassName("forward-button");
 
