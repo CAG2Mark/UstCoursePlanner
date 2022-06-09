@@ -65,6 +65,14 @@ If, for example, a requirement states you need one COMP elective of 2000-level o
 ```
 Electives(1, COMP, 2000)
 ```
+If a requirement stipulates you need, say, 1 elective from a specified list of courses, then you should define that list of courses like so:
+```
+electiveCourses = {COMP 3211, COMP 3721, COMP 4211, (... and so on)}
+```
+Then, you can use this syntax:
+```
+Electives(1, electiveCourses)
+```
 
 * The first parameter specifies the number of credits. 
 * The second parameter specifies the department. 
@@ -74,7 +82,6 @@ Electives(1, COMP, 2000)
 Consider the following requirement:
 
 ![Elective Requirement](https://user-images.githubusercontent.com/55091936/172811017-54426178-3cf6-41ba-b64b-d0b4d77a0857.png)
-
 
 When encountring such a requirement, one must first define the different elective groups like so:
 
@@ -88,23 +95,46 @@ networkingArea = {COMP 3632, COMP 4511, COMP 4521 (... and so on)}
 Then, you can use this syntax to describe the above requirement:
 
 ```
-ElectiveAreas(5, 3, {aiArea, multimediaArea, softwareArea, networkingArea})
+ElectiveAreas(5, 3, 0, {aiArea, multimediaArea, softwareArea, networkingArea})
 ```
 
 * The first parameter specifies the number of courses needed. 
-* The second parameter specifies how many courses need to be taken from one area. 
-* The third parameter specifices the list of areas one can choose from.
+* The second parameter specifies how many courses need to be taken from one specific area. 
+* The third parameter specifies how many courses need to be taken from each area.
+* The forth parameter specifices the list of areas one can choose from.
 
-The `Electives()` and `ElectiveAreas()` functions may be treated like an individual "object". For example, you can do things like `COMP 2011 OR Elective(...)`.
+Another example would be this:
+![MATH Requirement 1](https://user-images.githubusercontent.com/55091936/172815710-41167869-e7c5-4a7c-a593-5bfc21329f47.png)
+![MATH requirement 2](https://user-images.githubusercontent.com/55091936/172815739-b908738b-3e69-4db2-8622-fac9ee5f4c1a.png)
+In this case:
+
+```
+algebraElectives = {MATH 4141, MATH 4151}
+analysisElectives = {MATH 4023, MATH 4051, MATH 4052}
+geometryElectives = {MATH 4033, MATH 4221, MATH 4223}
+
+ElectiveAreas(4, 0, 1, {algebraElectives, analysisElectives, geometryElectives})
+```
+
+The `Electives()` and `ElectiveAreas()` functions may be treated like an individual "object". For example, you can do things like `COMP 2011 OR Electives(...)`.
 
 One place where this may be useful is the MATH(CS) major requirements:
 ![MATH CS Requirement 1](https://user-images.githubusercontent.com/55091936/172811138-0d927768-c78f-4c95-84c0-15de9c4a2536.png)
 ![MATH CS Requirement 2](https://user-images.githubusercontent.com/55091936/172811145-a829a373-8aef-4eeb-9044-6cc5ee220bb3.png)
 
+Note that courses may **not** be re-used within `ElectiveAreas()`. This makes it useful to handle cases like:
+```
+MATH Depth Electives (1 course from the specified elective list.
+Students may use MATH 4424 to count towards either, but not
+both, the MATH Depth Elective or the Statistics or Financial
+Mathematics Elective requirement.)
+```
+In this case, you can just use the `ElectiveAreas` function and you would not have to worry about MATH 4424 counting towards both.
+
 
 To handle something like this, you could combine these two requirements into one requirement like so:
 ```
-(COMP 2011 AND COMP 2012) OR (COMP2012H AND Elective(1, COMP, 2000))
+(COMP 2011 AND COMP 2012) OR (COMP2012H AND Electives(1, COMP, 2000))
 ```
 
 ## Tracks/options referencing other tracks/options
