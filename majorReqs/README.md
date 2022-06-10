@@ -63,10 +63,10 @@ Option(APPLIED) OR Option(CS) OR Option(GM) OR Option(IRE) OR Option(PHYS) OR Op
 If, for example, a requirement states you need one COMP elective of 2000-level or above, use the following syntax:
 
 ```
-Electives(1, COMP2000)
+Electives(1, COMP2XXX)
 ```
 
-In this case, you can think of COMP2000 as a pre-defined "group/list" of courses satisfying a COMP 2000-level or above requirement.
+In this case, you can think of COMP2XXX as a pre-defined "group/list" of courses satisfying a COMP 2000-level or above requirement.
 These are called an **elective group**.
 
 (Note: you can also use `Electives(1, COMP, 2000)` but this is deprecated.)
@@ -135,8 +135,13 @@ For example, for this:
 
 You would use:
 ```
-ElectiveAreas(3, 0, {2, 0, 0}, {restrictedElectives, CIVL4000, SENG3000}) AND (CIVL 4450 OR CIVL 5450 OR CIVL 5460)
+ElectiveAreas(3, 0, {2, 0, 0}, {restrictedElectives, CIVL4XXX, SENG3XXX}) AND (CIVL 4450 OR CIVL 5450 OR CIVL 5460)
 ```
+In words, this means:
+* 3 courses from the specified areas, in which:
+* * 0 courses must come from at least one specific area
+* * 2 courses msut come from restrictedElectives, 0 from CIVL4XXX, SENG3XXX
+* In addition, you must take CIVL 4450, CIVL 5450 or CIVL 5460.
 
 The `Electives()` and `ElectiveAreas()` functions may be treated like an individual "object". For example, you can do things like `COMP 2011 OR Electives(...)`.
 
@@ -145,7 +150,7 @@ One place where this may be useful is the MATH(CS) major requirements:
 ![MATH CS Requirement 2](https://user-images.githubusercontent.com/55091936/172811145-a829a373-8aef-4eeb-9044-6cc5ee220bb3.png)
 To handle something like this, you could combine these two requirements into one requirement like so:
 ```
-(COMP 2011 AND COMP 2012) OR (COMP2012H AND Electives(1, COMP, 2000))
+(COMP 2011 AND COMP 2012) OR (COMP2012H AND Electives(1, COMPXXXX))
 ```
 
 Note that courses may **not** be re-used within `ElectiveAreas()`. This makes it useful to handle cases like:
