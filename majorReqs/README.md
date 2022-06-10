@@ -139,8 +139,8 @@ ElectiveAreas(3, 0, {2, 0, 0}, {restrictedElectives, CIVL4XXX, SENG3XXX}) AND (C
 ```
 In words, this means:
 * 3 courses from the specified areas, in which:
-* * 0 courses must come from at least one specific area
-* * 2 courses msut come from restrictedElectives, 0 from CIVL4XXX, SENG3XXX
+  * 0 courses must come from at least one specific area
+  * 2 courses msut come from restrictedElectives, 0 from CIVL4XXX, SENG3XXX
 * In addition, you must take CIVL 4450, CIVL 5450 or CIVL 5460.
 
 The `Electives()` and `ElectiveAreas()` functions may be treated like an individual "object". For example, you can do things like `COMP 2011 OR Electives(...)`.
