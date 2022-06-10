@@ -130,7 +130,9 @@ then you replace the third parameter with a list, specifying how many courses/cr
 from the area of the respective index.
 
 For example, for this:
+
 ![CIVL Electives](https://user-images.githubusercontent.com/55091936/173074801-6b16e781-3b00-42d8-8a49-3f138aaf962a.png)
+
 You would use:
 ```
 ElectiveAreas(3, 0, {2, 0, 0}, {restrictedElectives, CIVL4000, SENG3000})
