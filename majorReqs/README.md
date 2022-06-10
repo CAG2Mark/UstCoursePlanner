@@ -63,20 +63,30 @@ Option(APPLIED) OR Option(CS) OR Option(GM) OR Option(IRE) OR Option(PHYS) OR Op
 If, for example, a requirement states you need one COMP elective of 2000-level or above, use the following syntax:
 
 ```
-Electives(1, COMP, 2000)
+Electives(1, COMP2000)
 ```
-If a requirement stipulates you need, say, 1 elective from a specified list of courses, then you should define that list of courses like so:
+
+In this case, you can think of COMP2000 as a pre-defined "group/list" of courses satisfying a COMP 2000-level or above requirement.
+These are called an **elective group**.
+
+(Note: you can also use `Electives(1, COMP, 2000)` but this is deprecated.)
+
+If a requirement stipulates electives must come from a certain list of courses, then you should define that list of courses like so:
 ```
 electiveCourses = {COMP 3211, COMP 3721, COMP 4211, (... and so on)}
 ```
-Then, you can use this syntax:
+Then, you can use it as an elective group:
 ```
 Electives(1, electiveCourses)
 ```
 
 * The first parameter specifies the number of credits. 
-* The second parameter specifies the department. 
-* The third parameter specifices the level requirement of the elective.
+* The second parameter specifies the elective group
+
+NOTE: Instead of specifying the number of courses, you can specify the number of credits as well. For example, for 3 credits:
+```
+Electives(3cred, electiveCourses)
+```
 
 ## Elective from multiple areas
 Consider the following requirement:
@@ -99,8 +109,8 @@ ElectiveAreas(5, 3, 0, {aiArea, multimediaArea, softwareArea, networkingArea})
 ```
 
 * The first parameter specifies the number of courses needed. 
-* The second parameter specifies how many courses need to be taken from one specific area. 
-* The third parameter specifies how many courses need to be taken from each area.
+* The second parameter specifies how many courses need to be taken from *one specific* area. 
+* The third parameter specifies how many courses need to be taken from *each* area.
 * The forth parameter specifices the list of areas one can choose from.
 
 Another example would be this:
@@ -115,12 +125,26 @@ geometryElectives = {MATH 4033, MATH 4221, MATH 4223}
 
 ElectiveAreas(4, 0, 1, {algebraElectives, analysisElectives, geometryElectives})
 ```
+If you a requirement stipulates a different number of courses from each area, 
+then you replace the third parameter with a list, specifying how many courses/credits must be taken
+from the area of the respective index.
+
+For example, for this:
+![CIVL Electives](https://user-images.githubusercontent.com/55091936/173074801-6b16e781-3b00-42d8-8a49-3f138aaf962a.png)
+You would use:
+```
+ElectiveAreas(3, 0, {2, 0, 0}, {restrictedElectives, CIVL4000, SENG3000})
+```
 
 The `Electives()` and `ElectiveAreas()` functions may be treated like an individual "object". For example, you can do things like `COMP 2011 OR Electives(...)`.
 
 One place where this may be useful is the MATH(CS) major requirements:
 ![MATH CS Requirement 1](https://user-images.githubusercontent.com/55091936/172811138-0d927768-c78f-4c95-84c0-15de9c4a2536.png)
 ![MATH CS Requirement 2](https://user-images.githubusercontent.com/55091936/172811145-a829a373-8aef-4eeb-9044-6cc5ee220bb3.png)
+To handle something like this, you could combine these two requirements into one requirement like so:
+```
+(COMP 2011 AND COMP 2012) OR (COMP2012H AND Electives(1, COMP, 2000))
+```
 
 Note that courses may **not** be re-used within `ElectiveAreas()`. This makes it useful to handle cases like:
 ```
@@ -130,12 +154,6 @@ both, the MATH Depth Elective or the Statistics or Financial
 Mathematics Elective requirement.)
 ```
 In this case, you can just use the `ElectiveAreas` function and you would not have to worry about MATH 4424 counting towards both.
-
-
-To handle something like this, you could combine these two requirements into one requirement like so:
-```
-(COMP 2011 AND COMP 2012) OR (COMP2012H AND Electives(1, COMP, 2000))
-```
 
 ## Tracks/options referencing other tracks/options
 Consider the following option in the MATH+IRE track:
