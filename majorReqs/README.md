@@ -135,7 +135,7 @@ For example, for this:
 
 You would use:
 ```
-ElectiveAreas(3, 0, {2, 0, 0}, {restrictedElectives, CIVL4000, SENG3000}) AND (CIVL 4450 OR CIVL 5450 OR CIVl 5460)
+ElectiveAreas(3, 0, {2, 0, 0}, {restrictedElectives, CIVL4000, SENG3000}) AND (CIVL 4450 OR CIVL 5450 OR CIVL 5460)
 ```
 
 The `Electives()` and `ElectiveAreas()` functions may be treated like an individual "object". For example, you can do things like `COMP 2011 OR Electives(...)`.
