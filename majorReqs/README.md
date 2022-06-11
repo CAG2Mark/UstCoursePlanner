@@ -37,6 +37,94 @@ Course requirements should be written using `OR`, `AND`  operators in infix nota
 # Comments
 Comments begin with `#`. Any text after `#` will be ignored.
 
+# Electives
+
+The `Electives()` function handles all electives.
+
+The function has parameters as follows:
+
+```
+Electives(elective group OR list of elective groups, restrictions OR list of restrictions)
+```
+## Elective Groups
+**Elective groups** can be defined using the following syntax:
+```
+electiveGroup = {COMP 2011, COMP 2012, COMP 2012H}
+```
+All together, these form what is called an **elective group**. There are also pre-defined elective groups, such as:
+* `COMP2XXX` meaning COMP 2000-level or above electives
+* `SSCI4XXX` meaning School of Science 2000 or above electives
+* All other departments and schools's electives can be written in this format
+
+## Restrictions
+**Restrictions** stipulate certain requirement or restrictions on which courses can and cannot be taken to fulfill an elective
+requirement. The following restrictions are available:
+
+---
+```
+noOfCourses(N)
+```
+This means at least `N` courses must be taken from the elective group(s) specified.
+
+---
+```
+fromEach(N)
+```
+This means at least `N` courses must be taken **from each** specified elective group.
+
+---
+```
+fromSpecific(N, M=1)
+```
+This means at least `N` courses must be taken from `M` specific elective groups.
+
+---
+```
+fromGroup(elective group or list of elective groups, N, M=infinity)
+```
+This means that, from the specified list of elective groups:
+* You must take at least N courses from these elective group(s)
+* No more than M courses from these elective group(s) may be used to satisfy this overall elective requirement
+
+## Other properties of the electives functions
+
+The `Electives()` and `ElectiveAreas()` functions may be treated like an individual "object". For example, you can do things like `COMP 2011 OR Electives(...)`.
+
+One place where this may be useful is the MATH(CS) major requirements:
+![MATH CS Requirement 1](https://user-images.githubusercontent.com/55091936/172811138-0d927768-c78f-4c95-84c0-15de9c4a2536.png)
+![MATH CS Requirement 2](https://user-images.githubusercontent.com/55091936/172811145-a829a373-8aef-4eeb-9044-6cc5ee220bb3.png)
+To handle something like this, you could combine these two requirements into one requirement like so:
+```
+(COMP 2011 AND COMP 2012) OR (COMP2012H AND Electives({COMP2XXX}, noOfCourses(1))
+```
+
+Note that courses may **not** be re-used within `ElectiveAreas()`. This makes it useful to handle cases like:
+```
+MATH Depth Electives (1 course from the specified elective list.
+Students may use MATH 4424 to count towards either, but not
+both, the MATH Depth Elective or the Statistics or Financial
+Mathematics Elective requirement.)
+```
+In this case, you can just use the `ElectiveAreas` function and you would not have to worry about MATH 4424 counting towards both.
+
+## Example
+![COMP Electives](https://user-images.githubusercontent.com/55091936/173176406-4090a88c-224e-4ccc-8adc-6976705dcd99.png)
+
+In this case:
+```
+aiArea = ... # These need to be defined
+graphicsArea = ...
+softwareArea = ...
+networkingArea = ...
+deepLearning = {COMP 4471, COMP 5523}
+
+Electives({aiArea, graphicsArea, softwareArea, networkingArea}, {
+    noOfCourses(5), # total number of courses >= 5
+    fromSpecific(3), # 3 from one specific area
+    fromGroup(deepLearning, 0, 1) # no more than one deep learning elective
+})
+```
+
 # Major Tracks/Options
 Some majors like MATH or MECH may have different options for students to choose from.  Options must be defined at the **end** of the file. To define the start of an option, use the following syntax:
 
@@ -57,110 +145,6 @@ After defining all the options, you **must** use the `Option()` function to decl
 ```
 Option(APPLIED) OR Option(CS) OR Option(GM) OR Option(IRE) OR Option(PHYS) OR Option(PMA) OR Option(PM) OR Option(STATFIN)
 ```
-
-# Electives
-## Level X000 or above electives
-If, for example, a requirement states you need one COMP elective of 2000-level or above, use the following syntax:
-
-```
-Electives(1, COMP2XXX)
-```
-
-In this case, you can think of COMP2XXX as a pre-defined "group/list" of courses satisfying a COMP 2000-level or above requirement.
-These are called an **elective group**.
-
-(Note: you can also use `Electives(1, COMP, 2000)` but this is deprecated.)
-
-If a requirement stipulates electives must come from a certain list of courses, then you should define that list of courses like so:
-```
-electiveCourses = {COMP 3211, COMP 3721, COMP 4211, (... and so on)}
-```
-Then, you can use it as an elective group:
-```
-Electives(1, electiveCourses)
-```
-
-* The first parameter specifies the number of credits. 
-* The second parameter specifies the elective group
-
-NOTE: Instead of specifying the number of courses, you can specify the number of credits as well. For example, for 3 credits:
-```
-Electives(3cred, electiveCourses)
-```
-
-## Elective from multiple areas
-Consider the following requirement:
-
-![Elective Requirement](https://user-images.githubusercontent.com/55091936/172811017-54426178-3cf6-41ba-b64b-d0b4d77a0857.png)
-
-When encountring such a requirement, one must first define the different elective groups like so:
-
-```
-aiArea = {COMP 3211, COMP 3721, COMP 4211, (... and so on)}
-multimediaArea = {COMP 4411, COMP 4421, COMP 4421 (... and so on)}
-softwareArea = {COMP 3021, COMP 3031, COMP 3311 (... and so on)}
-networkingArea = {COMP 3632, COMP 4511, COMP 4521 (... and so on)}
-```
-
-Then, you can use this syntax to describe the above requirement:
-
-```
-ElectiveAreas(5, 3, 0, {aiArea, multimediaArea, softwareArea, networkingArea})
-```
-
-* The first parameter specifies the number of courses needed. 
-* The second parameter specifies how many courses need to be taken from *one specific* area. 
-* The third parameter specifies how many courses need to be taken from *each* area.
-* The forth parameter specifices the list of areas one can choose from.
-
-Another example would be this:
-![MATH Requirement 1](https://user-images.githubusercontent.com/55091936/172815710-41167869-e7c5-4a7c-a593-5bfc21329f47.png)
-![MATH requirement 2](https://user-images.githubusercontent.com/55091936/172815739-b908738b-3e69-4db2-8622-fac9ee5f4c1a.png)
-In this case:
-
-```
-algebraElectives = {MATH 4141, MATH 4151}
-analysisElectives = {MATH 4023, MATH 4051, MATH 4052}
-geometryElectives = {MATH 4033, MATH 4221, MATH 4223}
-
-ElectiveAreas(4, 0, 1, {algebraElectives, analysisElectives, geometryElectives})
-```
-If you a requirement stipulates a different number of courses from each area, 
-then you replace the third parameter with a list, specifying how many courses/credits must be taken
-from the area of the respective index.
-
-For example, for this:
-
-![CIVL Electives](https://user-images.githubusercontent.com/55091936/173074801-6b16e781-3b00-42d8-8a49-3f138aaf962a.png)
-
-You would use:
-```
-ElectiveAreas(3, 0, {2, 0, 0}, {restrictedElectives, CIVL4XXX, SENG3XXX}) AND (CIVL 4450 OR CIVL 5450 OR CIVL 5460)
-```
-In words, this means:
-* 3 courses from the specified areas, in which:
-  * 0 courses must come from at least one specific area
-  * 2 courses msut come from restrictedElectives, 0 from CIVL4XXX, SENG3XXX
-* In addition, you must take CIVL 4450, CIVL 5450 or CIVL 5460.
-
-The `Electives()` and `ElectiveAreas()` functions may be treated like an individual "object". For example, you can do things like `COMP 2011 OR Electives(...)`.
-
-One place where this may be useful is the MATH(CS) major requirements:
-![MATH CS Requirement 1](https://user-images.githubusercontent.com/55091936/172811138-0d927768-c78f-4c95-84c0-15de9c4a2536.png)
-![MATH CS Requirement 2](https://user-images.githubusercontent.com/55091936/172811145-a829a373-8aef-4eeb-9044-6cc5ee220bb3.png)
-To handle something like this, you could combine these two requirements into one requirement like so:
-```
-(COMP 2011 AND COMP 2012) OR (COMP2012H AND Electives(1, COMPXXXX))
-```
-
-Note that courses may **not** be re-used within `ElectiveAreas()`. This makes it useful to handle cases like:
-```
-MATH Depth Electives (1 course from the specified elective list.
-Students may use MATH 4424 to count towards either, but not
-both, the MATH Depth Elective or the Statistics or Financial
-Mathematics Elective requirement.)
-```
-In this case, you can just use the `ElectiveAreas` function and you would not have to worry about MATH 4424 counting towards both.
 
 ## Tracks/options referencing other tracks/options
 Consider the following option in the MATH+IRE track:
