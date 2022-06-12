@@ -78,7 +78,7 @@ __grade_start_match = re.compile(r"^([A-z][+-]?)\(")
 # Returns whether the first bracket encompasses the whole string.
 # Eg: ((a)bc) -> true
 # (ab)(c) -> false
-def __is_bracket_complete(data, bracket_type=("(", ")")):
+def is_bracket_complete(data, bracket_type=("(", ")")):
     ctr = 0
     started = False
     # Scan
@@ -93,29 +93,29 @@ def __is_bracket_complete(data, bracket_type=("(", ")")):
         
     return True
 
-def make_requisite_tree(data, expr_parse_callback = None):
+def make_expr_tree(data, expr_parse_callback = None):
     data = data.strip()
     if not data: return {}
     # print(data)
     # Clean trailing brackets if they match
-    while data[0] == "(" and __is_bracket_complete(data):
+    while data[0] == "(" and is_bracket_complete(data):
         data = data[1:-1].strip()
 
     # If empty
     if not data.strip(): return {}
 
     # Escaped sequence
-    if data[0] == "<" and __is_bracket_complete(data, ("<",">")):
+    if data[0] == "<" and is_bracket_complete(data, ("<",">")):
         data = data[1:-1]
         if expr_parse_callback: data = expr_parse_callback(data) # Parse the expression if a function is provided to do so
         return {"value": data, "children": []}
 
     # If the input is of the form A(COMP1021) for example
     searched = re.match(__grade_start_match, data)
-    if searched and __is_bracket_complete(data):
+    if searched and is_bracket_complete(data):
         # Only continue if this grade is applied to the entire string.
         grade = searched.groups()[0]
-        return {"value": grade, "children": [make_requisite_tree(data[len(grade):], expr_parse_callback)]}
+        return {"value": grade, "children": [make_expr_tree(data[len(grade):], expr_parse_callback)]}
     
     # Search the string for the first / or &
     i = 0
@@ -140,13 +140,13 @@ def make_requisite_tree(data, expr_parse_callback = None):
 
     # print(data, i)
     return {"value": data[i], "children": [
-        make_requisite_tree(data[0:i], expr_parse_callback),
-        make_requisite_tree(data[i+1:], expr_parse_callback)
+        make_expr_tree(data[0:i], expr_parse_callback),
+        make_expr_tree(data[i+1:], expr_parse_callback)
     ]}
 
 def parse_prereq(data):
     data = formalise_requisite(data)
-    return make_requisite_tree(data)
+    return make_expr_tree(data)
 
 def clean_exclusion(data):
     data = re.sub(__comments_pattern, "", data)
@@ -174,7 +174,7 @@ def draw_graph(tree):
 if __name__ == "__main__":
     data = formalise_requisite("(Grade C/D/E in HKAL Economics OR level 3 or above in HKDSE Economics)")
     # print(data)
-    tree = make_requisite_tree(data)
+    tree = make_expr_tree(data)
     
     draw_graph(tree)
 
